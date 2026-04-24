@@ -92,3 +92,6 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+# Claude
+.claude/
