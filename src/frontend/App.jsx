@@ -70,7 +70,14 @@ export default function App() {
         if (!res.ok) throw new Error(`${res.status} ${res.statusText}`)
         return res.json()
       })
-      .then(data => { setShows(data); setLoading(false) })
+      .then(data => {
+        const base = import.meta.env.BASE_URL
+        setShows(data.map(s => ({
+          ...s,
+          poster: s.poster ? `${base}${s.poster.replace(/^\//, '')}` : s.poster,
+        })))
+        setLoading(false)
+      })
       .catch(err => { setFetchError(err.message); setLoading(false) })
   }, [])
 
@@ -120,7 +127,7 @@ export default function App() {
         className="nav-logo"
         onClick={e => { e.preventDefault(); goHome() }}
       >
-        <img src="/logo.webp" alt="" className="nav-logo-img" />
+        <img src={`${import.meta.env.BASE_URL}logo.webp`} alt="" className="nav-logo-img" />
         <span className="nav-logo-name">Scene<span>say</span></span>
       </a>
       <div className="nav-links">

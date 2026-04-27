@@ -241,7 +241,17 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
       : `${import.meta.env.BASE_URL}api/shows/${show.id}/seasons/${seasonNum}/episodes/${episodeNum}/meta.json`
     fetch(url)
       .then(res => res.ok ? res.json() : Promise.reject())
-      .then(data => { setTerms(data.terms ?? []); setEpisodeTitle(data.title ?? ''); setLoading(false) })
+      .then(data => {
+        const base = import.meta.env.BASE_URL
+        const terms = (data.terms ?? []).map(t => ({
+          ...t,
+          images: (t.images ?? []).map(u => `${base}${u.replace(/^\//, '')}`),
+          pronunciationVoices: (t.pronunciationVoices ?? []).map(u => `${base}${u.replace(/^\//, '')}`),
+        }))
+        setTerms(terms)
+        setEpisodeTitle(data.title ?? '')
+        setLoading(false)
+      })
       .catch(() => setLoading(false))
   }, [show.id, seasonNum, episodeNum])
 
