@@ -1,0 +1,26 @@
+{
+  "name": "scenesay",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build:api": "node src/scripts/build-api.js",
+    "optimize:media": "node src/scripts/optimize-media.js",
+    "dev": "npm run build:api && vite",
+    "build": "npm run build:api && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.2.0",
+    "@fortawesome/free-solid-svg-icons": "^7.2.0",
+    "@fortawesome/react-fontawesome": "^3.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-select": "^5.10.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "sharp": "^0.34.5",
+    "vite": "^6.3.3"
+  }
+}

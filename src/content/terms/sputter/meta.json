@@ -1,0 +1,19 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Sputter",
+    "pronunciation": "/ˈspʌt.ər/",
+    "partOfSpeech": "Verb",
+    "englishDefinitions": ["(Of an engine) to make a series of explosive popping noises."],
+    "persianTranslation": [
+        "ریپ زدن (موتور)",
+        "تپ تپ کردن"
+    ],
+    "examples": [
+        "The old car sputtered a few times before the engine finally died.",
+        "The lawnmower started to sputter because it was low on fuel.",
+        "I heard the boat engine sputter in the middle of the lake."
+    ],
+    "synonyms": ["cough", "rattle", "pop"],
+    "antonyms": ["run smoothly"]
+}

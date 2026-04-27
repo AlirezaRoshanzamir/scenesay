@@ -1,0 +1,18 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Rest stop",
+    "pronunciation": "/rest stɒp/",
+    "partOfSpeech": "Noun",
+    "englishDefinitions": ["A designated area next to a highway for drivers to rest, eat, or use the restroom."],
+    "persianTranslation": [
+        "استراحتگاه بین‌راهی"
+    ],
+    "examples": [
+        "Let's pull over at the next rest stop to get some snacks.",
+        "The rest stop was very crowded with tourists and truck drivers.",
+        "Most rest stops have vending machines and public toilets."
+    ],
+    "synonyms": ["service station", "layby"],
+    "antonyms": []
+}

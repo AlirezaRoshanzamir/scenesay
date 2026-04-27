@@ -1,0 +1,19 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "Sulk",
+    "pronunciation": "/sʌlk/",
+    "partOfSpeech": "Verb",
+    "englishDefinitions": ["To be silent, morose, and bad-tempered out of annoyance or disappointment."],
+    "persianTranslation": [
+        "قهر کردن",
+        "اخم کردن و تو لک رفتن"
+    ],
+    "examples": [
+        "Don't sit there and sulk just because you lost the game.",
+        "He went to his room to sulk after his parents said he couldn't go out.",
+        "She has been sulking all day because I forgot our anniversary."
+    ],
+    "synonyms": ["mope", "pout", "brood"],
+    "antonyms": ["cheer up", "grin"]
+}

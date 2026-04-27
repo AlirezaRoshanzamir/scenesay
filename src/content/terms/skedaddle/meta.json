@@ -1,0 +1,19 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "Skedaddle",
+    "pronunciation": "/skɪˈdæd.əl/",
+    "partOfSpeech": "Verb (informal)",
+    "englishDefinitions": ["To depart or leave very quickly; to run away."],
+    "persianTranslation": [
+        "جیم شدن",
+        "سریع رفتن"
+    ],
+    "examples": [
+        "The kids skedaddled as soon as they heard the window break.",
+        "I have another meeting in five minutes, so I've got to skedaddle.",
+        "When the rain started, everyone skedaddled from the park."
+    ],
+    "synonyms": ["bolt", "scoot", "vamoose"],
+    "antonyms": ["linger", "stay", "dawdle"]
+}

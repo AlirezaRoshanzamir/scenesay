@@ -1,0 +1,18 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Shotgun",
+    "pronunciation": "/ˈʃɒt.ɡʌn/",
+    "partOfSpeech": "Noun / Slang",
+    "englishDefinitions": ["The front passenger seat of a car; to claim that seat."],
+    "persianTranslation": [
+        "صندلی جلو (شاگرد)"
+    ],
+    "examples": [
+        "I've got shotgun! I want to sit in the front so I can see the view.",
+        "In many countries, the person who shouts \"shotgun\" first gets the front seat.",
+        "He sat in the back because his older brother claimed shotgun."
+    ],
+    "synonyms": ["front seat"],
+    "antonyms": ["back seat"]
+}

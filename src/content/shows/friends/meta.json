@@ -1,0 +1,21 @@
+{
+    "title": "Friends",
+    "genre": "Sitcom",
+    "year": 1994,
+    "description": "Six friends navigate the ups and downs of life, love, and careers in New York City. Set mainly in their apartments and the Central Perk coffee shop, this beloved sitcom follows Ross, Rachel, Monica, Chandler, Joey, and Phoebe through ten hilarious and heartfelt seasons.",
+    "nativeLanguage": "English (American)",
+    "wordDifficulty": "Intermediate",
+    "type": "series",
+    "seasons": [
+        {"number": 1, "year": 1994, "episodesCount": 24},
+        {"number": 2, "year": 1995, "episodesCount": 24},
+        {"number": 3, "year": 1996, "episodesCount": 25},
+        {"number": 4, "year": 1997, "episodesCount": 24},
+        {"number": 5, "year": 1998, "episodesCount": 24},
+        {"number": 6, "year": 1999, "episodesCount": 25},
+        {"number": 7, "year": 2000, "episodesCount": 24},
+        {"number": 8, "year": 2001, "episodesCount": 24},
+        {"number": 9, "year": 2002, "episodesCount": 24},
+        {"number": 10, "year": 2003, "episodesCount": 18}
+    ]
+}

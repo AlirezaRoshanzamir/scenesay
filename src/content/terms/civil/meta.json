@@ -1,0 +1,19 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "Civil",
+    "pronunciation": "/ˈsɪv.əl/",
+    "partOfSpeech": "Adjective",
+    "englishDefinitions": ["Courteous and polite, even if you do not like the person."],
+    "persianTranslation": [
+        "مبادی آداب",
+        "با نزاکت (حتی با وجود اختلاف)"
+    ],
+    "examples": [
+        "Despite their divorce, they remained civil for the sake of their children.",
+        "Please try to be civil to your cousins during dinner.",
+        "We don't have to be friends, but we should at least be civil to each other at work."
+    ],
+    "synonyms": ["polite", "respectful", "courteous"],
+    "antonyms": ["rude", "uncivil", "impolite"]
+}

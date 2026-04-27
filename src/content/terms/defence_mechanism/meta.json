@@ -1,0 +1,18 @@
+{
+    "categories": ["Academic", "Formal"],
+    "difficultyLevel": "9",
+    "term": "Defence mechanism",
+    "pronunciation": "/dɪˈfens ˈmek.ə.nɪ.zəm/",
+    "partOfSpeech": "Noun (Psychology)",
+    "englishDefinitions": ["An automatic mental process used to protect oneself from anxiety or unpleasant emotions."],
+    "persianTranslation": [
+        "مکانیسم دفاعی"
+    ],
+    "examples": [
+        "Some people use humor as a defence mechanism to avoid talking about their problems.",
+        "Denial is a common defence mechanism when someone receives bad news.",
+        "She realized that her constant sarcasm was actually a defence mechanism."
+    ],
+    "synonyms": ["coping strategy", "protection"],
+    "antonyms": ["vulnerability", "openness"]
+}

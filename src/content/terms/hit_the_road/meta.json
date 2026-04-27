@@ -1,0 +1,21 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "Hit the road",
+    "pronunciation": "/hɪt ðə roʊd/",
+    "partOfSpeech": "Idiomatic expression",
+    "englishDefinitions": ["To leave or start a journey."],
+    "persianTranslation": [
+        "راه افتادن",
+        "حرکت کردن",
+        "به راه افتادن",
+        "زدن به چاک"
+    ],
+    "examples": [
+        "We have a long drive tomorrow, so we should hit the road early in the morning.",
+        "It’s getting late, I think it’s time for me to hit the road.",
+        "If we want to beat the traffic, we’d better hit the road now."
+    ],
+    "synonyms": ["depart", "set off", "leave"],
+    "antonyms": ["arrive", "stay", "remain"]
+}

@@ -1,0 +1,18 @@
+{
+    "categories": ["Medical", "Physical"],
+    "difficultyLevel": "7",
+    "term": "Nipples",
+    "pronunciation": "/ˈnɪp.əlz/",
+    "partOfSpeech": "Noun",
+    "englishDefinitions": ["The small projection of a mammary gland."],
+    "persianTranslation": [
+        "نوک پستان"
+    ],
+    "examples": [
+        "The baby had trouble latching onto the mother's nipple.",
+        "Certain fabrics can irritate your nipples during a long run.",
+        "Some mammals have multiple pairs of nipples."
+    ],
+    "synonyms": ["teat", "mammary papilla"],
+    "antonyms": []
+}

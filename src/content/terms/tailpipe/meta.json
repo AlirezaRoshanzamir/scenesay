@@ -1,0 +1,18 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Tailpipe",
+    "pronunciation": "/ˈteɪl.paɪp/",
+    "partOfSpeech": "Noun",
+    "englishDefinitions": ["The pipe at the back of a vehicle through which exhaust gases pass."],
+    "persianTranslation": [
+        "اگزوز"
+    ],
+    "examples": [
+        "Black smoke was coming out of the car's tailpipe.",
+        "The tailpipe gets very hot after a long drive, so don't touch it.",
+        "We need to replace the tailpipe because it has a hole in it."
+    ],
+    "synonyms": ["exhaust pipe"],
+    "antonyms": []
+}

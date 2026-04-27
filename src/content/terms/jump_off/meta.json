@@ -1,0 +1,18 @@
+{
+    "categories": ["Phrasal Verb"],
+    "difficultyLevel": "7",
+    "term": "Jump off",
+    "pronunciation": "/dʒʌmp ɔːf/",
+    "partOfSpeech": "Phrasal verb",
+    "englishDefinitions": ["To leap downward from a higher surface."],
+    "persianTranslation": [
+        "پریدن از روی چیزی"
+    ],
+    "examples": [
+        "You shouldn't jump off the wall; it's higher than it looks.",
+        "The stuntman had to jump off a moving train for the movie.",
+        "The cat tried to jump off the counter but slipped."
+    ],
+    "synonyms": ["leap from", "descend"],
+    "antonyms": ["climb up", "board"]
+}

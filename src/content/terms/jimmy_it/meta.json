@@ -1,0 +1,19 @@
+{
+    "categories": ["Phrasal Verb"],
+    "difficultyLevel": "7",
+    "term": "Jimmy it",
+    "pronunciation": "/ˈdʒɪm.i ɪt/",
+    "partOfSpeech": "Verb phrase (informal)",
+    "englishDefinitions": ["To force something open (like a lock or window) using a tool like a wire or crowbar."],
+    "persianTranslation": [
+        "با ابزار (مثل سیم) باز کردن",
+        "ور رفتن برای باز کردن"
+    ],
+    "examples": [
+        "I locked my keys in the house, so I had to jimmy the back window.",
+        "The thief tried to jimmy the car door with a piece of metal.",
+        "If the lock is stuck, you might have to jimmy it a little to get it to turn."
+    ],
+    "synonyms": ["pry", "force", "lever"],
+    "antonyms": ["unlock (normally)"]
+}

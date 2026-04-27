@@ -1,0 +1,19 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Skimp",
+    "pronunciation": "/skɪmp/",
+    "partOfSpeech": "Verb",
+    "englishDefinitions": ["To spend less time, money, or material on something than is necessary."],
+    "persianTranslation": [
+        "کم گذاشتن",
+        "خست به خرج دادن"
+    ],
+    "examples": [
+        "Never skimp on tires; your safety depends on them.",
+        "They skimped on the food for the party, and many guests were still hungry.",
+        "It's a mistake to skimp on quality when buying a new mattress."
+    ],
+    "synonyms": ["stint", "scrimp", "cut corners"],
+    "antonyms": ["splurge", "be generous"]
+}

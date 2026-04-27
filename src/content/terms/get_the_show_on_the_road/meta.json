@@ -1,0 +1,19 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "Get the show on the road",
+    "pronunciation": "/ɡɛt ðə ʃoʊ ɒn ðə roʊd/",
+    "partOfSpeech": "Idiomatic expression",
+    "englishDefinitions": ["To start an activity or a journey that has been planned."],
+    "persianTranslation": [
+        "برنامه را شروع کردن",
+        "راه افتادن"
+    ],
+    "examples": [
+        "Everyone is here and the car is packed, so let's get the show on the road.",
+        "We've been talking about this project for weeks; it's time to get the show on the road.",
+        "The band is ready to get the show on the road for their world tour."
+    ],
+    "synonyms": ["get started", "commence", "begin"],
+    "antonyms": ["delay", "postpone", "halt"]
+}

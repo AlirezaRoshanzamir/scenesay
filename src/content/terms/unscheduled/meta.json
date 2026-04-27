@@ -1,0 +1,18 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Unscheduled",
+    "pronunciation": "/ʌnˈʃedʒ.uːld/",
+    "partOfSpeech": "Adjective",
+    "englishDefinitions": ["Not planned or expected to happen at a specific time."],
+    "persianTranslation": [
+        "برنامه‌ریزی نشده"
+    ],
+    "examples": [
+        "The flight was delayed due to an unscheduled maintenance check.",
+        "We had to make an unscheduled stop because the tire was low on air.",
+        "An unscheduled visitor arrived at the office this afternoon."
+    ],
+    "synonyms": ["unplanned", "impromptu", "spontaneous"],
+    "antonyms": ["scheduled", "planned", "routine"]
+}

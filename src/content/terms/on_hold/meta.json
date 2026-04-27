@@ -1,0 +1,19 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "On hold",
+    "pronunciation": "/ɒn hoʊld/",
+    "partOfSpeech": "Idiomatic expression",
+    "englishDefinitions": ["To be waiting on a telephone line; to pause a plan or activity."],
+    "persianTranslation": [
+        "پشت خط",
+        "در حالت انتظار"
+    ],
+    "examples": [
+        "I was on hold with the bank for thirty minutes before a human answered.",
+        "We had to put the kitchen renovation on hold until we saved more money.",
+        "Please stay on hold while I check your account details."
+    ],
+    "synonyms": ["waiting", "suspended", "delayed"],
+    "antonyms": ["active", "ongoing", "connected"]
+}

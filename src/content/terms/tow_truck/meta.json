@@ -1,0 +1,19 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Tow truck",
+    "pronunciation": "/ˈtoʊ trʌk/",
+    "partOfSpeech": "Noun",
+    "englishDefinitions": ["A truck used to pull or carry broken-down or illegally parked vehicles."],
+    "persianTranslation": [
+        "یدک‌کش",
+        "خودروبر"
+    ],
+    "examples": [
+        "Our car broke down on the highway, so we had to call a tow truck.",
+        "The tow truck arrived an hour after we called the insurance company.",
+        "Your car will be moved by a tow truck if you park in front of the fire hydrant."
+    ],
+    "synonyms": ["recovery vehicle", "wrecker"],
+    "antonyms": []
+}

@@ -1,0 +1,19 @@
+{
+    "categories": ["Humor", "Sarcasm"],
+    "difficultyLevel": "7",
+    "term": "Compromise",
+    "pronunciation": "/ˈkɒm.prə.maɪz/",
+    "partOfSpeech": "Noun / Verb",
+    "englishDefinitions": ["An agreement reached by each side making concessions."],
+    "persianTranslation": [
+        "سازش",
+        "مصالحه"
+    ],
+    "examples": [
+        "After hours of arguing, they finally reached a compromise on the price.",
+        "Marriage requires a lot of compromise from both partners.",
+        "We had to compromise on the vacation destination to please everyone."
+    ],
+    "synonyms": ["agreement", "middle ground"],
+    "antonyms": ["disagreement", "conflict"]
+}

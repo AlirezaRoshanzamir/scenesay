@@ -1,0 +1,18 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "7",
+    "term": "Lighter",
+    "pronunciation": "/ˈlaɪ.tər/",
+    "partOfSpeech": "Noun",
+    "englishDefinitions": ["A small device that produces a flame, used for lighting cigarettes or fires."],
+    "persianTranslation": [
+        "فندک"
+    ],
+    "examples": [
+        "Does anyone have a lighter? I need to light the birthday candles.",
+        "He kept a silver lighter in his pocket at all times.",
+        "Be careful with that lighter; it's not a toy for children."
+    ],
+    "synonyms": ["igniter", "flint"],
+    "antonyms": []
+}

@@ -1,0 +1,19 @@
+{
+    "categories": ["Idiom", "Slang"],
+    "difficultyLevel": "7",
+    "term": "Bad time",
+    "pronunciation": "/bæd taɪm/",
+    "partOfSpeech": "Noun phrase",
+    "englishDefinitions": ["An inconvenient moment to visit or call someone."],
+    "persianTranslation": [
+        "زمان بد",
+        "موقع نامناسب"
+    ],
+    "examples": [
+        "I'm sorry, is this a bad time? I can come back later.",
+        "It was a bad time to ask for a raise because the boss was angry.",
+        "I caught him at a bad time; he was just leaving for the airport."
+    ],
+    "synonyms": ["inconvenient moment"],
+    "antonyms": ["good time", "perfect timing"]
+}

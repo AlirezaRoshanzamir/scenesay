@@ -1,0 +1,21 @@
+{
+    "title": "The Office",
+    "genre": "Sitcom",
+    "year": 2005,
+    "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "nativeLanguage": "English (American)",
+    "wordDifficulty": "Intermediate",
+    "type": "series",
+    "seasons": [
+        {"number": 1, "year": 2005, "episodesCount": 24},
+        {"number": 2, "year": 2006, "episodesCount": 24},
+        {"number": 3, "year": 2007, "episodesCount": 25},
+        {"number": 4, "year": 2008, "episodesCount": 24},
+        {"number": 5, "year": 2009, "episodesCount": 24},
+        {"number": 6, "year": 2010, "episodesCount": 25},
+        {"number": 7, "year": 2011, "episodesCount": 24},
+        {"number": 8, "year": 2012, "episodesCount": 24},
+        {"number": 9, "year": 2002, "episodesCount": 24},
+        {"number": 10, "year": 2003, "episodesCount": 18}
+    ]
+}

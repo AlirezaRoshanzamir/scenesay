@@ -1,0 +1,19 @@
+{
+    "categories": ["Work", "Daily Life"],
+    "difficultyLevel": "4",
+    "term": "Litter",
+    "pronunciation": "/ˈlɪt.ər/",
+    "partOfSpeech": "Noun / Verb",
+    "englishDefinitions": ["Trash or garbage left lying in an open or public place."],
+    "persianTranslation": [
+        "آشغال ریختن",
+        "زباله"
+    ],
+    "examples": [
+        "There is a heavy fine for people who litter in the national park.",
+        "Please pick up your litter before you leave the beach.",
+        "The streets were covered in litter after the parade."
+    ],
+    "synonyms": ["trash", "rubbish", "garbage"],
+    "antonyms": ["cleanliness"]
+}

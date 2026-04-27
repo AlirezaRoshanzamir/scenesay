@@ -1,0 +1,18 @@
+{
+    "categories": ["Medical", "Physical"],
+    "difficultyLevel": "7",
+    "term": "Hostages",
+    "pronunciation": "/ˈhɒs.tɪ.dʒɪz/",
+    "partOfSpeech": "Noun",
+    "englishDefinitions": ["People taken by an enemy to ensure that certain terms are met."],
+    "persianTranslation": [
+        "گروگان‌ها"
+    ],
+    "examples": [
+        "The police are negotiating for the release of the hostages.",
+        "The hostages were held in a small room for three days.",
+        "The news report gave an update on the condition of the hostages."
+    ],
+    "synonyms": ["captives", "prisoners"],
+    "antonyms": ["captors", "free people"]
+}
