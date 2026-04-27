@@ -1,0 +1,16 @@
+{
+  "categories": ["Phrasal Verb"],
+  "difficultyLevel": "4",
+  "term": "Move On",
+  "pronunciation": "/muːv ɒn/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": ["To continue forward after a difficult experience, loss, or mistake.", "To shift focus to something new."],
+  "persianTranslation": ["پیش رفتن", "گذشتن از چیزی", "فراموش کردن و ادامه دادن"],
+  "examples": [
+    "After losing his job, it took him months to move on and start applying again.",
+    "The therapist encouraged her to move on from the painful past.",
+    "It's important to learn from your mistakes and then move on."
+  ],
+  "synonyms": ["proceed", "advance", "let go", "press on", "forge ahead"],
+  "antonyms": ["dwell on", "get stuck", "stay in the past"]
+}

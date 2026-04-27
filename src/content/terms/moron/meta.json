@@ -1,0 +1,16 @@
+{
+  "categories": ["Slang"],
+  "difficultyLevel": "5",
+  "term": "Moron",
+  "pronunciation": "/ˈmɔː.rɒn/",
+  "partOfSpeech": "Noun (offensive)",
+  "englishDefinitions": ["A very stupid or foolish person (informal, offensive).", "Originally an outdated clinical term for a person with a mild intellectual disability, now considered highly offensive in that context."],
+  "persianTranslation": ["احمق", "نادان", "کم‌خرد", "کودن"],
+  "examples": [
+    "Only a moron would ignore the safety warnings on that equipment.",
+    "He called himself a moron for forgetting his passport at the airport.",
+    "The word 'moron' is now used informally as an insult and is considered offensive."
+  ],
+  "synonyms": ["idiot", "fool", "imbecile", "dunce", "blockhead"],
+  "antonyms": ["genius", "bright person", "intellectual"]
+}

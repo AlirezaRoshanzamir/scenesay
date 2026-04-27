@@ -1,0 +1,16 @@
+{
+  "categories": ["Slang"],
+  "difficultyLevel": "5",
+  "term": "Messed Up",
+  "pronunciation": "/mest ʌp/",
+  "partOfSpeech": "Phrasal adjective (informal)",
+  "englishDefinitions": ["In a state of disorder, confusion, or damage.", "Emotionally troubled or psychologically disturbed.", "Morally wrong or unfair."],
+  "persianTranslation": ["آشفته", "به هم ریخته", "خراب", "روحاً زخمی"],
+  "examples": [
+    "After the flood, the whole neighbourhood was completely messed up.",
+    "He's been going through a hard time and is a bit messed up emotionally.",
+    "It's messed up that workers are paid so little while executives earn millions."
+  ],
+  "synonyms": ["troubled", "confused", "chaotic", "disturbed", "disordered"],
+  "antonyms": ["together", "stable", "composed", "organized", "fine"]
+}

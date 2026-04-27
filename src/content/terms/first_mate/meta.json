@@ -1,0 +1,16 @@
+{
+  "categories": ["Work & Daily Life"],
+  "difficultyLevel": "6",
+  "term": "First Mate",
+  "pronunciation": "/fɜːrst meɪt/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["The second-in-command officer on a ship, ranking directly below the captain.", "A close and trusted assistant or partner."],
+  "persianTranslation": ["دومین افسر کشتی", "معاون کاپیتان", "دست راست"],
+  "examples": [
+    "When the captain fell ill, the first mate took command of the vessel.",
+    "He was the first mate on a cargo ship that traveled across the Pacific Ocean.",
+    "She served as first mate, making sure everything ran smoothly on the boat."
+  ],
+  "synonyms": ["first officer", "chief mate", "second-in-command", "deputy captain"],
+  "antonyms": ["captain", "commander"]
+}

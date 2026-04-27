@@ -1,0 +1,16 @@
+{
+  "categories": ["Academic", "Cultural Reference"],
+  "difficultyLevel": "8",
+  "term": "Desegregate",
+  "pronunciation": "/diːˈseɡ.rɪ.ɡeɪt/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": ["To end racial segregation in a place or institution, allowing people of all races equal access.", "To end any enforced separation of groups."],
+  "persianTranslation": ["رفع تبعیض نژادی کردن", "از بین بردن جداسازی نژادی", "ادغام نژادی"],
+  "examples": [
+    "The Supreme Court ordered schools across the country to desegregate in the 1950s.",
+    "It took years of legal battles to fully desegregate public transportation in the South.",
+    "Many cities struggled to desegregate their neighborhoods even after laws were passed."
+  ],
+  "synonyms": ["integrate", "include", "open up", "unify"],
+  "antonyms": ["segregate", "separate", "exclude", "divide"]
+}

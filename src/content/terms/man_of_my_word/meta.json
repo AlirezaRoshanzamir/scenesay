@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "6",
+  "term": "Man of My Word",
+  "pronunciation": "/mæn əv maɪ wɜːrd/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": ["A person who keeps their promises and does exactly what they say they will do.", "Someone who is reliable, trustworthy, and true to their commitments."],
+  "persianTranslation": ["کسی که به قولش عمل می‌کند", "آدم قول‌پابند", "آدم قابل اعتماد"],
+  "examples": [
+    "He said he would repay the loan within a year, and he did — he's a man of his word.",
+    "I'm a man of my word; if I promise something, I always follow through.",
+    "Everyone in town trusted her because she was known as a woman of her word."
+  ],
+  "synonyms": ["reliable", "trustworthy", "promise-keeper", "dependable"],
+  "antonyms": ["liar", "promise-breaker", "unreliable", "dishonest"]
+}

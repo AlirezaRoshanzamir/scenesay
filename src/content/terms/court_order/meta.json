@@ -1,0 +1,16 @@
+{
+  "categories": ["Formal", "Work & Daily Life"],
+  "difficultyLevel": "7",
+  "term": "Court Order",
+  "pronunciation": "/kɔːrt ˈɔːr.dər/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A legal directive issued by a judge requiring a person or organization to do or refrain from doing a specific action.", "A binding command from a court that must be followed."],
+  "persianTranslation": ["دستور دادگاه", "حکم قضایی", "حکم دادگاه"],
+  "examples": [
+    "A court order prohibited the company from releasing the product until the safety issues were resolved.",
+    "She obtained a court order to prevent her ex-husband from approaching the family home.",
+    "Violating a court order can result in fines or imprisonment."
+  ],
+  "synonyms": ["injunction", "judicial order", "legal ruling", "decree", "mandate"],
+  "antonyms": []
+}

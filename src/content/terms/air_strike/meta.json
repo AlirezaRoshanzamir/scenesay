@@ -1,0 +1,16 @@
+{
+  "categories": ["Work & Daily Life"],
+  "difficultyLevel": "6",
+  "term": "Air Strike",
+  "pronunciation": "/ˈer straɪk/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A military attack carried out by aircraft against targets on the ground.", "Any attack launched from the air."],
+  "persianTranslation": ["حمله هوایی", "ضربه هوایی", "بمباران"],
+  "examples": [
+    "The military launched an air strike against enemy supply routes deep in the jungle.",
+    "Civilians were warned to evacuate before the planned air strike.",
+    "The precision air strike destroyed the target without harming surrounding buildings."
+  ],
+  "synonyms": ["airstrike", "bombing raid", "aerial attack", "air raid"],
+  "antonyms": ["ground attack", "ceasefire"]
+}

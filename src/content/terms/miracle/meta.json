@@ -1,0 +1,16 @@
+{
+  "categories": ["Work & Daily Life"],
+  "difficultyLevel": "4",
+  "term": "Miracle",
+  "pronunciation": "/ˈmɪr.ɪ.kəl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["A surprising and wonderful event that cannot be explained by natural or scientific laws, often attributed to divine intervention.", "An extraordinary and unlikely achievement or occurrence."],
+  "persianTranslation": ["معجزه", "کرامت", "اتفاق شگفت‌انگیز"],
+  "examples": [
+    "Doctors called it a miracle that he survived such a serious accident without major injury.",
+    "The team winning the championship after being last on the table was considered a miracle.",
+    "She believed miracles happen every day if you pay close attention."
+  ],
+  "synonyms": ["wonder", "marvel", "phenomenon", "blessing"],
+  "antonyms": ["disaster", "tragedy", "common occurrence"]
+}

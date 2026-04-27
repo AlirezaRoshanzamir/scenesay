@@ -1,0 +1,16 @@
+{
+  "categories": ["Cultural Reference", "Work & Daily Life"],
+  "difficultyLevel": "6",
+  "term": "National Guard",
+  "pronunciation": "/ˈnæʃ.ən.əl ɡɑːrd/",
+  "partOfSpeech": "Noun phrase (proper)",
+  "englishDefinitions": ["A part-time military force in the United States that can be activated by state governors or the federal government for domestic emergencies or military operations.", "A national military or police force that protects the country internally."],
+  "persianTranslation": ["گارد ملی آمریکا", "نیروی احتیاط ملی", "نیروی پشتیبانی داخلی"],
+  "examples": [
+    "The National Guard was called in to help control flooding after the major storm.",
+    "During civil unrest, the governor activated the National Guard to maintain order.",
+    "Members of the National Guard often serve part-time while holding regular civilian jobs."
+  ],
+  "synonyms": ["reserve forces", "militia", "state troops", "home guard"],
+  "antonyms": ["regular army", "active-duty military"]
+}

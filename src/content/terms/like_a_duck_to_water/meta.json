@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "7",
+  "term": "Like a Duck to Water",
+  "pronunciation": "/laɪk ə dʌk tuː ˈwɔː.tər/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": ["To adapt to something very naturally and easily, as if you have always done it; to take to something immediately."],
+  "persianTranslation": ["مثل آب خوردن", "ذاتی بودن", "به طور طبیعی یاد گرفتن", "راحت کنار آمدن"],
+  "examples": [
+    "She took to public speaking like a duck to water — on her first try, she captivated the audience.",
+    "The new programmer adapted like a duck to water when introduced to the codebase.",
+    "He moved to a foreign country and, like a duck to water, learned the language within six months."
+  ],
+  "synonyms": ["naturally", "instinctively", "effortlessly", "innately", "with ease"],
+  "antonyms": ["struggle with", "find difficult", "have trouble adapting"]
+}

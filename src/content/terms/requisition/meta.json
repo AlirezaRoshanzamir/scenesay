@@ -1,0 +1,16 @@
+{
+  "categories": ["Formal", "Work & Daily Life"],
+  "difficultyLevel": "8",
+  "term": "Requisition",
+  "pronunciation": "/ˌrek.wɪˈzɪʃ.ən/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": ["An official and formal request or order for something, especially supplies, equipment, or services.", "To officially request or take something for official use, especially by government or military authority."],
+  "persianTranslation": ["درخواست رسمی", "سفارش اداری", "مصادره کردن"],
+  "examples": [
+    "The unit commander put in a requisition for new uniforms and equipment.",
+    "The army requisitioned vehicles from civilians during the emergency.",
+    "Fill out this requisition form if you need office supplies."
+  ],
+  "synonyms": ["request", "order", "demand", "commandeer", "formal application"],
+  "antonyms": []
+}

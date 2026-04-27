@@ -1,0 +1,16 @@
+{
+  "categories": ["Slang", "Sarcasm"],
+  "difficultyLevel": "5",
+  "term": "Pathetic",
+  "pronunciation": "/pəˈθet.ɪk/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": ["Deserving or arousing pity; miserably sad or weak.", "Informal: so inadequate or poor in quality as to be laughable or contemptible."],
+  "persianTranslation": ["بیچاره", "ترحم‌برانگیز", "خیلی بد", "اسف‌بار"],
+  "examples": [
+    "He made a pathetic attempt to explain himself, but nobody believed him.",
+    "It was pathetic to watch him beg for a job he was clearly not qualified for.",
+    "The team's performance was pathetic — they lost by ten goals."
+  ],
+  "synonyms": ["pitiful", "pitiable", "wretched", "sorry", "lamentable"],
+  "antonyms": ["admirable", "impressive", "strong", "excellent"]
+}

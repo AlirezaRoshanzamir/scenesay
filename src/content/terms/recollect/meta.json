@@ -1,0 +1,16 @@
+{
+  "categories": ["Formal"],
+  "difficultyLevel": "6",
+  "term": "Recollect",
+  "pronunciation": "/ˌrek.əˈlekt/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": ["To remember or recall something from the past, often requiring mental effort."],
+  "persianTranslation": ["به یاد آوردن", "به خاطر آوردن", "یادآوری کردن"],
+  "examples": [
+    "I can barely recollect the details of my first day at school.",
+    "Do you recollect where we parked the car before the concert?",
+    "She tried hard to recollect every word of the conversation."
+  ],
+  "synonyms": ["recall", "remember", "reminisce", "bring to mind", "think back"],
+  "antonyms": ["forget", "fail to remember", "have no memory of"]
+}

@@ -1,0 +1,16 @@
+{
+  "categories": ["Slang", "Idiom"],
+  "difficultyLevel": "6",
+  "term": "Crooked",
+  "pronunciation": "/ˈkrʊk.ɪd/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": ["Not straight; bent, curved, or twisted.", "Dishonest, corrupt, or involving illegal activity (informal)."],
+  "persianTranslation": ["کج", "منحرف", "فاسد", "نادرست"],
+  "examples": [
+    "The fence posts were all crooked after the storm.",
+    "The businessman was arrested for running a crooked scheme to defraud investors.",
+    "She gave a crooked smile and shrugged, as if she knew more than she was saying."
+  ],
+  "synonyms": ["bent", "dishonest", "corrupt", "curved", "twisted"],
+  "antonyms": ["straight", "honest", "upright", "uncorrupted"]
+}

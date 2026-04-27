@@ -1,0 +1,16 @@
+{
+  "categories": ["Work & Daily Life"],
+  "difficultyLevel": "6",
+  "term": "Platoon",
+  "pronunciation": "/pləˈtuːn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["A military unit usually consisting of 20–50 soldiers, led by a lieutenant.", "More generally, a small group of people working together."],
+  "persianTranslation": ["دسته (واحد نظامی)", "گروه سربازان", "پلاتون"],
+  "examples": [
+    "The platoon was ordered to advance through the jungle at dawn.",
+    "A platoon leader is responsible for the safety and performance of all soldiers under their command.",
+    "The rescue platoon searched the area for survivors for three days."
+  ],
+  "synonyms": ["unit", "squad", "company", "troop", "detachment"],
+  "antonyms": []
+}

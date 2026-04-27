@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "5",
+  "term": "Out of Hand",
+  "pronunciation": "/aʊt əv hænd/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": ["Beyond control; no longer manageable or able to be restrained."],
+  "persianTranslation": ["از کنترل خارج شدن", "لجام گسیخته", "غیرقابل کنترل"],
+  "examples": [
+    "The argument started calmly but quickly got out of hand.",
+    "The protest got out of hand when police used force to disperse the crowd.",
+    "If you don't address these small problems now, they'll get out of hand."
+  ],
+  "synonyms": ["uncontrollable", "unmanageable", "wild", "chaotic", "beyond control"],
+  "antonyms": ["under control", "manageable", "in check", "orderly"]
+}

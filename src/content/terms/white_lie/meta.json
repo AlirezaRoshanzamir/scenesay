@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "5",
+  "term": "White Lie",
+  "pronunciation": "/waɪt laɪ/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A small, harmless lie told to avoid hurting someone's feelings, to be polite, or to make a situation easier."],
+  "persianTranslation": ["دروغ مصلحتی", "دروغ سفید", "دروغ بی‌ضرر"],
+  "examples": [
+    "He told a white lie and said the dinner was delicious so as not to hurt her feelings.",
+    "Sometimes a white lie is kinder than a painful truth.",
+    "She told a white lie to avoid going to the party she didn't want to attend."
+  ],
+  "synonyms": ["fib", "half-truth", "little lie", "polite lie"],
+  "antonyms": ["brutal honesty", "truth", "bluntness"]
+}

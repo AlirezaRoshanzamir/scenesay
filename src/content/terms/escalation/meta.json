@@ -1,0 +1,16 @@
+{
+  "categories": ["Academic", "Formal"],
+  "difficultyLevel": "8",
+  "term": "Escalation",
+  "pronunciation": "/ˌes.kəˈleɪ.ʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["A rapid increase in the intensity, extent, or seriousness of something, especially a conflict or problem.", "The process of something becoming more serious or intense."],
+  "persianTranslation": ["تشدید", "گسترش", "افزایش شدت"],
+  "examples": [
+    "The escalation of violence in the region worried international observers.",
+    "The president warned that further escalation of the conflict would have serious consequences.",
+    "A small disagreement led to the escalation of a full-scale argument."
+  ],
+  "synonyms": ["intensification", "increase", "aggravation", "expansion", "build-up"],
+  "antonyms": ["de-escalation", "reduction", "decrease", "calming"]
+}

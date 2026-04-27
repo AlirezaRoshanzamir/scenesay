@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom", "Slang"],
+  "difficultyLevel": "6",
+  "term": "Fine and Dandy",
+  "pronunciation": "/faɪn ænd ˈdæn.di/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": ["Doing very well; in a perfectly good condition; everything is satisfactory."],
+  "persianTranslation": ["عالی", "خوب و خوش", "سر حال", "مثل قرقره"],
+  "examples": [
+    "Don't worry about me — my legs are fine and dandy after the operation.",
+    "The new software update worked perfectly; everything is fine and dandy.",
+    "She assured her parents she was fine and dandy after moving to a new city."
+  ],
+  "synonyms": ["perfect", "splendid", "great", "doing well", "in good shape"],
+  "antonyms": ["terrible", "awful", "in bad shape"]
+}

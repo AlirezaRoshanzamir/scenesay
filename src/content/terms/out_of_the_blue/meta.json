@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "6",
+  "term": "Out of the Blue",
+  "pronunciation": "/aʊt əv ðə bluː/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": ["Happening suddenly and unexpectedly, without any warning or prior indication."],
+  "persianTranslation": ["ناگهانی", "از آسمان افتادن", "غیرمنتظره", "مثل صاعقه"],
+  "examples": [
+    "Out of the blue, she received a phone call offering her a job she had never applied for.",
+    "The storm appeared out of the blue and ruined the outdoor event.",
+    "He came back into my life completely out of the blue after ten years."
+  ],
+  "synonyms": ["suddenly", "unexpectedly", "out of nowhere", "without warning"],
+  "antonyms": ["expectedly", "predictably", "as expected"]
+}

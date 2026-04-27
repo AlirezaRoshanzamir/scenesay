@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "6",
+  "term": "A Thing or Two",
+  "pronunciation": "/ə θɪŋ ɔːr tuː/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": ["Some useful knowledge or information about a subject.", "Can also mean 'a few things' or 'something important'."],
+  "persianTranslation": ["یه چیزایی", "چند نکته مهم", "اطلاعاتی داشتن"],
+  "examples": [
+    "He knows a thing or two about car engines — he's been fixing them for twenty years.",
+    "Let me show you a thing or two about cooking before you make the same mistakes I did.",
+    "After years of travel, she knows a thing or two about packing light."
+  ],
+  "synonyms": ["some knowledge", "a few tricks", "something useful"],
+  "antonyms": []
+}

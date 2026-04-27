@@ -1,0 +1,16 @@
+{
+  "categories": ["Medical"],
+  "difficultyLevel": "5",
+  "term": "Braces",
+  "pronunciation": "/ˈbreɪ.sɪz/",
+  "partOfSpeech": "Noun (plural)",
+  "englishDefinitions": ["Metal or plastic supports worn on the legs or other parts of the body to provide stability or correct alignment.", "Wire structures worn on teeth to straighten them (dental braces)."],
+  "persianTranslation": ["بریس (تجهیز ارتوپدی)", "زانوبند", "بند دندان"],
+  "examples": [
+    "As a child, she wore leg braces to help correct the alignment of her joints.",
+    "The doctor recommended wearing braces for six months to support her weak knee.",
+    "Many teenagers wear dental braces to straighten their teeth."
+  ],
+  "synonyms": ["orthopedic supports", "leg supports", "splints", "supports"],
+  "antonyms": []
+}

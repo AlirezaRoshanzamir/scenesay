@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "7",
+  "term": "Sea Legs",
+  "pronunciation": "/siː lɛɡz/",
+  "partOfSpeech": "Idiomatic expression (noun)",
+  "englishDefinitions": ["The ability to keep one's balance and avoid feeling sick on a moving ship.", "The ability to adapt to a new or unfamiliar situation."],
+  "persianTranslation": ["تعادل روی کشتی", "سازگاری با محیط جدید", "پاهای دریایی"],
+  "examples": [
+    "It took the new sailors a few days to get their sea legs on the fishing boat.",
+    "Starting a new job is tough, but give yourself time to get your sea legs.",
+    "After a week on the ship, she finally found her sea legs and stopped feeling dizzy."
+  ],
+  "synonyms": ["balance", "steady footing", "adaptability", "acclimatization"],
+  "antonyms": ["seasickness", "instability"]
+}

@@ -1,0 +1,16 @@
+{
+  "categories": ["Formal", "Academic"],
+  "difficultyLevel": "8",
+  "term": "Onslaught",
+  "pronunciation": "/ˈɒn.slɔːt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["A fierce, violent, and overwhelming attack.", "A large quantity of something difficult or unpleasant to deal with."],
+  "persianTranslation": ["حمله شدید", "هجوم", "یورش"],
+  "examples": [
+    "The village could not withstand the onslaught of the enemy forces.",
+    "The new product launch was met with an onslaught of media attention.",
+    "The teacher struggled with the onslaught of questions from students before the exam."
+  ],
+  "synonyms": ["assault", "attack", "barrage", "bombardment", "surge"],
+  "antonyms": ["retreat", "defense", "withdrawal", "calm"]
+}

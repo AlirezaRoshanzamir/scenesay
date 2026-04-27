@@ -1,0 +1,16 @@
+{
+  "categories": ["Academic", "Formal"],
+  "difficultyLevel": "5",
+  "term": "Inspirational",
+  "pronunciation": "/ˌɪn.spɪˈreɪ.ʃən.əl/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": ["Providing or tending to provide inspiration; having the quality of motivating, uplifting, or encouraging others to do or feel something."],
+  "persianTranslation": ["الهام‌بخش", "انگیزه‌دهنده", "مشوق", "روح‌بخش"],
+  "examples": [
+    "Her speech about overcoming poverty was truly inspirational to everyone in the room.",
+    "The coach's inspirational message before the game motivated the team to perform beyond their limits.",
+    "He wrote an inspirational book about rebuilding his life after losing everything."
+  ],
+  "synonyms": ["motivating", "uplifting", "encouraging", "stimulating", "empowering"],
+  "antonyms": ["discouraging", "demotivating", "depressing", "uninspiring"]
+}

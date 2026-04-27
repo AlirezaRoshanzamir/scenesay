@@ -1,0 +1,16 @@
+{
+  "categories": ["Medical"],
+  "difficultyLevel": "7",
+  "term": "Heat Exhaustion",
+  "pronunciation": "/hiːt ɪɡˈzɔː.stʃən/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A medical condition caused by overheating, characterized by heavy sweating, weakness, rapid pulse, and dizziness.", "A heat-related illness less severe than heatstroke, but still requiring immediate treatment."],
+  "persianTranslation": ["گرمازدگی", "خستگی از گرما", "ضعف ناشی از گرمای زیاد"],
+  "examples": [
+    "Several runners suffered from heat exhaustion during the marathon on a very hot day.",
+    "Symptoms of heat exhaustion include heavy sweating, pale skin, and muscle cramps.",
+    "If you feel heat exhaustion coming on, move to a cool place and drink plenty of water."
+  ],
+  "synonyms": ["heatstroke (mild)", "hyperthermia", "heat sickness", "overheating"],
+  "antonyms": []
+}

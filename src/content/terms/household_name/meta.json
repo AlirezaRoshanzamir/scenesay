@@ -1,0 +1,16 @@
+{
+  "categories": ["Idiom"],
+  "difficultyLevel": "6",
+  "term": "Household Name",
+  "pronunciation": "/ˈhaʊs.hoʊld neɪm/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A person, brand, or thing that is very well known by most people in a society."],
+  "persianTranslation": ["اسمی که همه می‌شناسند", "چهره شناخته‌شده", "معروف عام"],
+  "examples": [
+    "After winning three world championships, she became a household name in tennis.",
+    "That fast-food brand is a household name in over 100 countries.",
+    "The inventor became a household name after his product changed everyday life."
+  ],
+  "synonyms": ["celebrity", "famous name", "well-known brand", "icon"],
+  "antonyms": ["unknown", "obscure", "anonymous"]
+}

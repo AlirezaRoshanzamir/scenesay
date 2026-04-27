@@ -1,0 +1,16 @@
+{
+  "categories": ["Academic", "Cultural Reference"],
+  "difficultyLevel": "7",
+  "term": "Segregation",
+  "pronunciation": "/ˌseɡ.rɪˈɡeɪ.ʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["The enforced separation of different groups of people based on race, religion, gender, or other factors.", "In American history, the systematic separation of Black and white people in schools, transportation, and other public spaces."],
+  "persianTranslation": ["تبعیض نژادی", "جداسازی (بر اساس نژاد)", "آپارتاید", "تفکیک"],
+  "examples": [
+    "Racial segregation in American schools was declared unconstitutional in 1954.",
+    "Segregation in public facilities was a painful reality for Black Americans for decades.",
+    "The law was passed to end the segregation of minorities in workplaces."
+  ],
+  "synonyms": ["separation", "apartheid", "discrimination", "exclusion", "division"],
+  "antonyms": ["integration", "inclusion", "desegregation", "equality"]
+}

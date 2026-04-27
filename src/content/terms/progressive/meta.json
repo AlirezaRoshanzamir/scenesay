@@ -1,0 +1,16 @@
+{
+  "categories": ["Academic", "Formal"],
+  "difficultyLevel": "7",
+  "term": "Progressive",
+  "pronunciation": "/prəˈɡres.ɪv/",
+  "partOfSpeech": "Adjective / Noun",
+  "englishDefinitions": ["Favoring social reform, new ideas, and open-mindedness; forward-thinking.", "Happening or developing gradually over time."],
+  "persianTranslation": ["مترقی", "پیشرو", "تدریجی", "اصلاح‌طلب"],
+  "examples": [
+    "The school had a progressive curriculum that encouraged creative thinking and debate.",
+    "Progressive tax systems charge higher rates to those who earn more.",
+    "The city adopted a progressive approach to urban housing to reduce homelessness."
+  ],
+  "synonyms": ["forward-thinking", "modern", "liberal", "reformist", "enlightened"],
+  "antonyms": ["conservative", "traditional", "regressive", "old-fashioned"]
+}

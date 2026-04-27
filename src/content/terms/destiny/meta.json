@@ -1,0 +1,16 @@
+{
+  "categories": ["Academic", "Formal"],
+  "difficultyLevel": "6",
+  "term": "Destiny",
+  "pronunciation": "/ˈdes.tɪ.ni/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["The events that will necessarily happen to a person in the future, especially when seen as predetermined.", "A hidden power believed to control future events; fate."],
+  "persianTranslation": ["سرنوشت", "تقدیر", "قسمت", "مقدر"],
+  "examples": [
+    "She believed it was her destiny to become a doctor, just like her parents.",
+    "Some people think destiny controls our lives; others believe we shape our own future.",
+    "The two rivals seemed destined to meet in the final match."
+  ],
+  "synonyms": ["fate", "fortune", "lot", "kismet", "doom"],
+  "antonyms": ["free will", "chance", "coincidence", "accident"]
+}

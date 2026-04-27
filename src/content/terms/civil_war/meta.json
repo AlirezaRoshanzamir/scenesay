@@ -1,0 +1,16 @@
+{
+  "categories": ["Cultural Reference", "Academic"],
+  "difficultyLevel": "5",
+  "term": "Civil War",
+  "pronunciation": "/ˈsɪv.əl wɔːr/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A war fought between groups of people within the same country.", "In the United States, the war fought from 1861–1865 between the northern Union states and the southern Confederate states, primarily over slavery."],
+  "persianTranslation": ["جنگ داخلی", "جنگ برادرکشی", "جنگ بین دو گروه از یک کشور"],
+  "examples": [
+    "The American Civil War resulted in the abolition of slavery.",
+    "Civil wars are often the most destructive type of conflict because they divide communities and families.",
+    "After the civil war ended, the country faced the challenge of rebuilding and reuniting."
+  ],
+  "synonyms": ["internal conflict", "fratricidal war", "revolutionary war"],
+  "antonyms": ["international war", "peace", "armistice"]
+}

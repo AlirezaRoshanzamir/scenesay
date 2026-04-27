@@ -1,0 +1,16 @@
+{
+  "categories": ["Formal", "Work & Daily Life"],
+  "difficultyLevel": "7",
+  "term": "Induction",
+  "pronunciation": "/ɪnˈdʌk.ʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": ["The formal process of introducing someone into a new role, organization, or institution.", "In the military, the official process of accepting someone into armed service.", "In logic, reasoning from specific examples to a general conclusion."],
+  "persianTranslation": ["ورود رسمی به سازمان", "معرفی رسمی", "استخدام رسمی به ارتش"],
+  "examples": [
+    "On his induction day, the new soldier received his uniform and equipment.",
+    "The company held an induction program for all new employees.",
+    "Her induction into the Hall of Fame was a proud moment for her entire family."
+  ],
+  "synonyms": ["enrollment", "initiation", "admission", "inauguration", "orientation"],
+  "antonyms": ["discharge", "dismissal", "expulsion"]
+}

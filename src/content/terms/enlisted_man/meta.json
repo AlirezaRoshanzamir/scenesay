@@ -1,0 +1,16 @@
+{
+  "categories": ["Work & Daily Life", "Formal"],
+  "difficultyLevel": "6",
+  "term": "Enlisted Man",
+  "pronunciation": "/ɪnˈlɪs.tɪd mæn/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["A member of the armed forces who is not an officer; a non-commissioned member of the military.", "A soldier who joined the military voluntarily or by conscription at a basic rank."],
+  "persianTranslation": ["سرباز داوطلب", "درجه‌دار غیر افسر", "سرباز عادی"],
+  "examples": [
+    "As an enlisted man, he followed orders rather than giving them.",
+    "The program was designed to support enlisted men returning from service.",
+    "Enlisted men are the backbone of any military force."
+  ],
+  "synonyms": ["private", "GI", "non-commissioned soldier", "rank and file", "trooper"],
+  "antonyms": ["officer", "commissioned officer", "commander"]
+}

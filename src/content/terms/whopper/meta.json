@@ -1,0 +1,16 @@
+{
+  "categories": ["Slang", "Humor"],
+  "difficultyLevel": "6",
+  "term": "Whopper",
+  "pronunciation": "/ˈwɒp.ər/",
+  "partOfSpeech": "Noun (informal)",
+  "englishDefinitions": ["A very large lie or exaggeration.", "Something exceptionally large or impressive."],
+  "persianTranslation": ["دروغ بزرگ", "اغراق بزرگ", "چیز خیلی بزرگ"],
+  "examples": [
+    "He told a real whopper about catching a fish the size of a boat.",
+    "That was a whopper of a storm last night — it knocked down a dozen trees.",
+    "Calling that tiny studio apartment 'spacious' is a real whopper."
+  ],
+  "synonyms": ["big lie", "tall tale", "exaggeration", "fabrication"],
+  "antonyms": ["truth", "fact", "understatement"]
+}

@@ -1,0 +1,16 @@
+{
+  "categories": ["Slang"],
+  "difficultyLevel": "4",
+  "term": "Dummy",
+  "pronunciation": "/ˈdʌm.i/",
+  "partOfSpeech": "Noun / Adjective (informal)",
+  "englishDefinitions": ["A stupid or foolish person (informal, offensive).", "A model, copy, or substitute for a real object.", "A pacifier for a baby (British English)."],
+  "persianTranslation": ["احمق", "ساده‌لوح", "مدل یا نمونه مصنوعی", "پستانک"],
+  "examples": [
+    "Don't be such a dummy — read the warning label before using the product.",
+    "The store window featured a dummy dressed in the latest fashion.",
+    "She used a crash test dummy to demonstrate vehicle safety features."
+  ],
+  "synonyms": ["fool", "idiot", "blockhead", "model", "mannequin"],
+  "antonyms": ["genius", "smart person"]
+}

@@ -1,0 +1,16 @@
+{
+  "categories": ["Formal", "Work & Daily Life"],
+  "difficultyLevel": "7",
+  "term": "Discharge Papers",
+  "pronunciation": "/ˈdɪs.tʃɑːrdʒ ˈpeɪ.pərz/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": ["Official documents that formally release a soldier from military service.", "Documents confirming that a person's official obligation or service has ended."],
+  "persianTranslation": ["کارت پایان خدمت سربازی", "اسناد ترخیص از ارتش", "مدارک پایان خدمت"],
+  "examples": [
+    "After two years of service, he finally received his discharge papers.",
+    "She kept her discharge papers in a special folder as a reminder of her time in the military.",
+    "Veterans are advised to keep their discharge papers in a safe place for future reference."
+  ],
+  "synonyms": ["release papers", "separation documents", "DD-214 (US)", "termination papers"],
+  "antonyms": ["enlistment papers", "draft notice", "deployment orders"]
+}
