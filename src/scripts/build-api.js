@@ -58,6 +58,28 @@ function processMedia(srcPath, destDir, apiPrefix) {
   return `${apiPrefix}/${destName}`
 }
 
+const DIFFICULTY_THRESHOLDS = [
+  [2, 'Beginner'],
+  [4, 'Elementary'],
+  [6, 'Intermediate'],
+  [8, 'Upper-Intermediate'],
+  [Infinity, 'Advanced'],
+]
+
+function calcTermsDifficulty(termIds) {
+  const levels = termIds
+    .map(id => {
+      const metaFile = path.join(CONTENT, 'terms', id, 'meta.json')
+      if (!fs.existsSync(metaFile)) return null
+      const level = parseFloat(readJson(metaFile).difficultyLevel)
+      return isNaN(level) ? null : level
+    })
+    .filter(v => v !== null)
+  if (levels.length === 0) return null
+  const mean = levels.reduce((a, b) => a + b, 0) / levels.length
+  return DIFFICULTY_THRESHOLDS.find(([threshold]) => mean <= threshold)[1]
+}
+
 function resolveTerm(termId) {
   const termDir = path.join(CONTENT, 'terms', termId)
   const metaFile = path.join(termDir, 'meta.json')
@@ -108,6 +130,7 @@ async function buildShowsMeta() {
     }
 
     if (meta.type === 'series' && meta.seasons) {
+      const allTermIds = []
       meta.seasons = meta.seasons.map(season => {
         const episodesDir = path.join(showDir, 'seasons', String(season.number), 'episodes')
         const epMetaMap = new Map(
@@ -115,6 +138,7 @@ async function buildShowsMeta() {
             .filter(epNum => fs.existsSync(path.join(episodesDir, epNum, 'meta.json')))
             .map(epNum => {
               const epMeta = readJson(path.join(episodesDir, epNum, 'meta.json'))
+              if (Array.isArray(epMeta.terms)) allTermIds.push(...epMeta.terms)
               return [parseInt(epNum), epMeta]
             })
         )
@@ -131,8 +155,11 @@ async function buildShowsMeta() {
         return { ...rest, episodes }
       })
       meta.available = meta.seasons.some(s => s.episodes.some(ep => ep.available))
+      meta.termsDifficulty = calcTermsDifficulty(allTermIds)
     } else {
-      meta.available = Array.isArray(meta.terms) && meta.terms.length > 0
+      const termIds = Array.isArray(meta.terms) ? meta.terms : []
+      meta.available = termIds.length > 0
+      meta.termsDifficulty = calcTermsDifficulty(termIds)
     }
 
     return meta

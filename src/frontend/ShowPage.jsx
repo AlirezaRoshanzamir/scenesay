@@ -114,10 +114,10 @@ export default function ShowPage({ show, onBack, onEpisodeClick, onMovieClick })
                     </span>
                   )
                 }
-                {show.wordDifficulty && (
+                {show.termsDifficulty && (
                   <span className="show-page-badge difficulty-badge">
-                    <DifficultyDots difficulty={show.wordDifficulty} />
-                    {show.wordDifficulty}
+                    <DifficultyDots difficulty={show.termsDifficulty} />
+                    {show.termsDifficulty}
                   </span>
                 )}
               </div>

@@ -1,10 +1,10 @@
 {
     "title": "Friends",
+    "imdbId": "tt0108778",
     "genre": "Sitcom",
     "year": 1994,
     "description": "Six friends navigate the ups and downs of life, love, and careers in New York City. Set mainly in their apartments and the Central Perk coffee shop, this beloved sitcom follows Ross, Rachel, Monica, Chandler, Joey, and Phoebe through ten hilarious and heartfelt seasons.",
     "nativeLanguage": "English (American)",
-    "wordDifficulty": "Intermediate",
     "type": "series",
     "seasons": [
         {"number": 1, "year": 1994, "episodesCount": 24},

@@ -1,10 +1,10 @@
 {
     "title": "The Office",
+    "imdbId": "tt0386676",
     "genre": "Sitcom",
     "year": 2005,
     "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
     "nativeLanguage": "English (American)",
-    "wordDifficulty": "Intermediate",
     "type": "series",
     "seasons": [
         {"number": 1, "year": 2005, "episodesCount": 24},
