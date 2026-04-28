@@ -62,15 +62,12 @@ function EpisodeTile({ number, title, available, onClick }) {
 }
 
 export default function ShowPage({ show, onBack, onEpisodeClick, onMovieClick }) {
-  const firstAvailableSeason = show.seasons?.find(s => s.availableEpisodes?.length > 0)?.number
+  const firstAvailableSeason = show.seasons?.find(s => s.episodes?.some(ep => ep.available))?.number
   const [activeSeason, setActiveSeason] = useState(firstAvailableSeason || 1)
   const [bgError, setBgError] = useState(false)
 
   const isMovie = show.type === 'movie'
   const currentSeason = show.seasons?.find(s => s.number === activeSeason)
-  const availableMap = new Map(
-    (currentSeason?.availableEpisodes || []).map(ep => [ep.number, ep])
-  )
 
   return (
     <div className="show-page">
@@ -160,7 +157,7 @@ export default function ShowPage({ show, onBack, onEpisodeClick, onMovieClick })
                     onClick={() => setActiveSeason(season.number)}
                   >
                     Season {season.number}
-                    {season.availableEpisodes?.length > 0 && (
+                    {season.episodes?.some(ep => ep.available) && (
                       <span className="season-tab-dot" />
                     )}
                   </button>
@@ -174,29 +171,25 @@ export default function ShowPage({ show, onBack, onEpisodeClick, onMovieClick })
                 <span className="season-year">{currentSeason.year}</span>
               )}
               <span className="season-ep-count">
-                {currentSeason?.episodesCount} episodes
-                {currentSeason?.availableEpisodes?.length > 0 && (
+                {currentSeason?.episodes?.length} episodes
+                {currentSeason?.episodes?.some(ep => ep.available) && (
                   <span className="season-avail-count">
-                    {' '}· {currentSeason.availableEpisodes.length} with vocabulary
+                    {' '}· {currentSeason.episodes.filter(ep => ep.available).length} with vocabulary
                   </span>
                 )}
               </span>
             </div>
 
             <div className="episodes-grid">
-              {Array.from({ length: currentSeason?.episodesCount || 1 }, (_, i) => {
-                const num = i + 1
-                const avEp = availableMap.get(num)
-                return (
-                  <EpisodeTile
-                    key={num}
-                    number={num}
-                    title={avEp?.title}
-                    available={!!avEp}
-                    onClick={() => onEpisodeClick?.(activeSeason, num)}
-                  />
-                )
-              })}
+              {(currentSeason?.episodes || []).map(ep => (
+                <EpisodeTile
+                  key={ep.number}
+                  number={ep.number}
+                  title={ep.title}
+                  available={ep.available}
+                  onClick={() => onEpisodeClick?.(activeSeason, ep.number)}
+                />
+              ))}
             </div>
           </div>
         </div>

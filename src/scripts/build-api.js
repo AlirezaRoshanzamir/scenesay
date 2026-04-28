@@ -110,16 +110,27 @@ async function buildShowsMeta() {
     if (meta.type === 'series' && meta.seasons) {
       meta.seasons = meta.seasons.map(season => {
         const episodesDir = path.join(showDir, 'seasons', String(season.number), 'episodes')
-        const availableEpisodes = listDir(episodesDir)
-          .filter(epNum => fs.existsSync(path.join(episodesDir, epNum, 'meta.json')))
-          .map(epNum => {
-            const epMeta = readJson(path.join(episodesDir, epNum, 'meta.json'))
-            return { number: parseInt(epNum), title: epMeta.title }
-          })
-          .sort((a, b) => a.number - b.number)
-        return { ...season, availableEpisodes }
+        const epMetaMap = new Map(
+          listDir(episodesDir)
+            .filter(epNum => fs.existsSync(path.join(episodesDir, epNum, 'meta.json')))
+            .map(epNum => {
+              const epMeta = readJson(path.join(episodesDir, epNum, 'meta.json'))
+              return [parseInt(epNum), epMeta]
+            })
+        )
+        const { episodesCount, ...rest } = season
+        const episodes = Array.from({ length: episodesCount || 0 }, (_, i) => {
+          const num = i + 1
+          const epMeta = epMetaMap.get(num)
+          return {
+            number: num,
+            title: epMeta?.title ?? null,
+            available: Array.isArray(epMeta?.terms) && epMeta.terms.length > 0
+          }
+        })
+        return { ...rest, episodes }
       })
-      meta.available = meta.seasons.some(s => s.availableEpisodes.length > 0)
+      meta.available = meta.seasons.some(s => s.episodes.some(ep => ep.available))
     } else {
       meta.available = Array.isArray(meta.terms) && meta.terms.length > 0
     }
