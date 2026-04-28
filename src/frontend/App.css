@@ -1078,30 +1078,83 @@ body {
   width: fit-content;
 }
 
-/* ── Term voice button ── */
-.term-voice-btn {
+/* ── Voice combo button ── */
+.voice-combo {
+  position: relative;
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  padding: 0.18rem 0.55rem;
   background: rgba(167, 139, 250, 0.1);
   border: 1px solid rgba(167, 139, 250, 0.25);
   border-radius: 999px;
-  color: var(--accent2);
-  font-size: 0.65rem;
-  cursor: pointer;
   transition: background 0.15s, border-color 0.15s;
-  line-height: 1;
 }
 
-.term-voice-btn:hover {
+.voice-combo:hover,
+.voice-combo.playing {
   background: rgba(167, 139, 250, 0.22);
   border-color: var(--accent2);
 }
 
-.term-voice-btn.playing {
-  background: rgba(167, 139, 250, 0.25);
-  border-color: var(--accent2);
+.voice-combo-play {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.55rem 0.18rem 0.4rem;
+  background: none;
+  border: none;
+  color: var(--accent2);
+  font-size: 0.65rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.voice-combo-name {
+  display: none;
+}
+
+.voice-combo-divider {
+  width: 1px;
+  height: 10px;
+  background: rgba(167, 139, 250, 0.35);
+  flex-shrink: 0;
+}
+
+.voice-combo-select {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.3rem 0.18rem 0.45rem;
+  background: none;
+  border: none;
+  color: var(--accent2);
+  font-size: 0.5rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.voice-combo-dropdown {
+  min-width: 200px;
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  z-index: 200;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.voice-combo-option {
+  padding: 7px 12px;
+  font-size: 0.78rem;
+  color: var(--text);
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.voice-combo-option:hover {
+  background: rgba(167, 139, 250, 0.08);
+}
+
+.voice-combo-option.active {
+  background: rgba(167, 139, 250, 0.15);
+  color: var(--accent2);
 }
 
 /* ── Term images ── */

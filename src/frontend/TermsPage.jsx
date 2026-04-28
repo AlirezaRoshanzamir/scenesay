@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo, useRef } from 'react'
+import { createPortal } from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faMagnifyingGlass, faChevronUp, faChevronDown, faPlay, faPause, faAnglesDown, faAnglesUp } from '@fortawesome/free-solid-svg-icons'
+import { faMagnifyingGlass, faChevronUp, faChevronDown, faVolumeHigh, faPause, faAnglesDown, faAnglesUp } from '@fortawesome/free-solid-svg-icons'
 import Select from 'react-select'
 
 const DIFFICULTY_ORDER = ['Beginner', 'Elementary', 'Intermediate', 'Upper-Intermediate', 'Advanced']
@@ -82,10 +83,108 @@ function getDifficultyLabel(level) {
   return 'Advanced'
 }
 
-function TermCard({ term, expandSignal }) {
-  const [open, setOpen] = useState(false)
-  const [playingIdx, setPlayingIdx] = useState(null)
+function VoiceButton({ term, voices, ttsVoices }) {
+  const allVoices = useMemo(() => [
+    ...voices.map((url, i) => ({ type: 'file', label: `Custom Voice ${i + 1}`, url })),
+    ...ttsVoices.map(v => ({ type: 'tts', label: v.name, voice: v })),
+  ], [voices, ttsVoices])
+
+  const [selectedIdx, setSelectedIdx] = useState(0)
+  const [isPlaying, setIsPlaying] = useState(false)
+  const [dropdownOpen, setDropdownOpen] = useState(false)
+  const [dropdownPos, setDropdownPos] = useState({ top: 0, left: 0 })
   const audioRef = useRef(null)
+  const wrapRef = useRef(null)
+
+  useEffect(() => {
+    if (!dropdownOpen) return
+    function onOutside(e) {
+      if (wrapRef.current && !wrapRef.current.contains(e.target)) setDropdownOpen(false)
+    }
+    document.addEventListener('mousedown', onOutside)
+    return () => document.removeEventListener('mousedown', onOutside)
+  }, [dropdownOpen])
+
+  useEffect(() => () => { audioRef.current?.pause() }, [])
+
+  if (allVoices.length === 0) return null
+
+  const selected = allVoices[Math.min(selectedIdx, allVoices.length - 1)]
+  const hasMultiple = allVoices.length > 1
+
+  function stopAll() {
+    if (audioRef.current) { audioRef.current.pause(); audioRef.current = null }
+    window.speechSynthesis?.cancel()
+    setIsPlaying(false)
+  }
+
+  function playEntry(entry) {
+    setIsPlaying(true)
+    if (entry.type === 'file') {
+      const audio = new Audio(entry.url)
+      audioRef.current = audio
+      audio.play().catch(() => setIsPlaying(false))
+      audio.onended = () => setIsPlaying(false)
+      audio.onerror = () => setIsPlaying(false)
+    } else {
+      window.speechSynthesis.cancel()
+      const utt = new SpeechSynthesisUtterance(term.term)
+      utt.voice = entry.voice
+      utt.lang = 'en-US'
+      utt.onend = () => setIsPlaying(false)
+      utt.onerror = () => setIsPlaying(false)
+      window.speechSynthesis.speak(utt)
+    }
+  }
+
+  function togglePlay() {
+    if (isPlaying) { stopAll(); return }
+    playEntry(selected)
+  }
+
+  function selectVoice(idx) {
+    stopAll()
+    setSelectedIdx(idx)
+    setDropdownOpen(false)
+    playEntry(allVoices[idx])
+  }
+
+  return (
+    <div className={`voice-combo${isPlaying ? ' playing' : ''}`} ref={wrapRef}>
+      {hasMultiple && (
+        <>
+          <button className="voice-combo-select" onClick={() => {
+            if (!dropdownOpen) {
+              const r = wrapRef.current.getBoundingClientRect()
+              setDropdownPos({ top: r.bottom + 5, left: r.left })
+            }
+            setDropdownOpen(o => !o)
+          }} aria-label="Select voice">
+            <FontAwesomeIcon icon={faChevronDown} />
+          </button>
+          <span className="voice-combo-divider" />
+        </>
+      )}
+      <button className="voice-combo-play" onClick={togglePlay} aria-label={`Play with ${selected.label}`}>
+        <FontAwesomeIcon icon={isPlaying ? faPause : faVolumeHigh} />
+        <span className="voice-combo-name">{selected.label}</span>
+      </button>
+      {dropdownOpen && createPortal(
+        <div className="voice-combo-dropdown" style={{ position: 'fixed', top: dropdownPos.top, left: dropdownPos.left }}>
+          {allVoices.map((v, i) => (
+            <div key={i} className={`voice-combo-option${i === selectedIdx ? ' active' : ''}`} onMouseDown={() => selectVoice(i)}>
+              {v.label}
+            </div>
+          ))}
+        </div>,
+        document.body
+      )}
+    </div>
+  )
+}
+
+function TermCard({ term, expandSignal, ttsVoices }) {
+  const [open, setOpen] = useState(false)
   const label = getDifficultyLabel(term.difficultyLevel)
   const color = DIFFICULTY_COLORS[label]
   const voices = term.pronunciationVoices ?? []
@@ -94,27 +193,6 @@ function TermCard({ term, expandSignal }) {
   useEffect(() => {
     if (expandSignal.rev > 0) setOpen(expandSignal.value)
   }, [expandSignal.rev])
-
-  useEffect(() => {
-    return () => { audioRef.current?.pause() }
-  }, [])
-
-  function playVoice(idx) {
-    if (audioRef.current) {
-      audioRef.current.pause()
-      audioRef.current = null
-    }
-    if (playingIdx === idx) {
-      setPlayingIdx(null)
-      return
-    }
-    const audio = new Audio(voices[idx])
-    audioRef.current = audio
-    setPlayingIdx(idx)
-    audio.play().catch(() => setPlayingIdx(null))
-    audio.onended = () => setPlayingIdx(null)
-    audio.onerror = () => setPlayingIdx(null)
-  }
 
   return (
     <div className="term-card">
@@ -130,17 +208,7 @@ function TermCard({ term, expandSignal }) {
 
           <div className="term-card-row2">
             {term.pronunciation && <span className="term-ipa">{term.pronunciation}</span>}
-            {voices.map((_, i) => (
-              <button
-                key={i}
-                className={`term-voice-btn${playingIdx === i ? ' playing' : ''}`}
-                onClick={() => playVoice(i)}
-                aria-label={`Play pronunciation${voices.length > 1 ? ` ${i + 1}` : ''}`}
-              >
-                <FontAwesomeIcon icon={playingIdx === i ? faPause : faPlay} />
-                {voices.length > 1 && <span>{i + 1}</span>}
-              </button>
-            ))}
+            <VoiceButton term={term} voices={voices} ttsVoices={ttsVoices} />
             {term.partOfSpeech && <span className="term-pos">{term.partOfSpeech}</span>}
           </div>
 
@@ -227,6 +295,17 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
   const [terms, setTerms] = useState([])
   const [episodeTitle, setEpisodeTitle] = useState('')
   const [loading, setLoading] = useState(true)
+  const [ttsVoices, setTtsVoices] = useState([])
+
+  useEffect(() => {
+    if (!window.speechSynthesis) return
+    function load() {
+      setTtsVoices(window.speechSynthesis.getVoices().filter(v => v.lang === 'en-US'))
+    }
+    load()
+    window.speechSynthesis.addEventListener('voiceschanged', load)
+    return () => window.speechSynthesis.removeEventListener('voiceschanged', load)
+  }, [])
   const [query, setQuery] = useState('')
   const [filterCats, setFilterCats] = useState([])
   const [filterDiffs, setFilterDiffs] = useState([])
@@ -389,7 +468,7 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
                 </button>
               </div>
               <div className="terms-list">
-                {visible.map((term, i) => <TermCard key={`${term.term}-${i}`} term={term} expandSignal={expandSignal} />)}
+                {visible.map((term, i) => <TermCard key={`${term.term}-${i}`} term={term} expandSignal={expandSignal} ttsVoices={ttsVoices} />)}
               </div>
             </>
           )}
