@@ -648,17 +648,13 @@ body {
 .show-seasons-inner { max-width: 1100px; margin: 0 auto; }
 
 .season-tabs-wrap {
-  overflow-x: auto;
   margin-bottom: 1.5rem;
-  scrollbar-width: none;
 }
-
-.season-tabs-wrap::-webkit-scrollbar { display: none; }
 
 .season-tabs {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
-  width: max-content;
 }
 
 .season-tab {
