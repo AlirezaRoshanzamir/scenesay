@@ -1,0 +1,55 @@
+{
+  "term": "deputy",
+  "categories": [],
+  "pronunciation": "/ˈdɛpjəti/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "One appointed as the substitute of others, and empowered to act for them, in their name or their behalf; a substitute in office.",
+    "(mining, historical) A person employed to install and remove props, brattices, etc. and to clear gas, for the safety of the miners.",
+    "(government) The name for a member of parliament in some countries.",
+    "A member of the French National Assembly.",
+    "(historical) A member of the French Chamber of Deputies, formerly called Corps Législatif.",
+    "(Ireland, often capitalized) A member of Dáil Éireann, or the title of a member of Dáil Éireann.",
+    "(US) a law enforcement officer who works for the county sheriff's office; a deputy sheriff or sheriff's deputy; the entry level rank in such an agency."
+  ],
+  "persianTranslation": [
+    "کسی که به عنوان جانشین دیگران منصوب می شود و اختیار دارد که به جای آنها به نام یا از طرف آنها عمل کند. یک جایگزین در دفتر",
+    "(معدن، تاریخی) شخصی که برای ایمنی معدنچیان برای نصب و برداشتن پایه ها، پایه ها و غیره و پاکسازی گاز استخدام می شود.",
+    "(دولت) نام یک نماینده مجلس در برخی کشورها.",
+    "عضو مجلس ملی فرانسه.",
+    "(تاریخی) یکی از اعضای اتاق نمایندگان فرانسه که قبلاً Corps Législatif نامیده می شد.",
+    "(ایرلند، اغلب با حروف بزرگ) عضو Dáil Éireann یا عنوان عضو Dáil Éireann.",
+    "(ایالات متحده) یک افسر مجری قانون که برای کلانتری شهرستان کار می کند. معاون کلانتر یا معاون کلانتری؛ رتبه سطح ورودی در چنین آژانسی."
+  ],
+  "examples": [
+    "the deputy of a prince",
+    "The deputy sheriff was promoted after his senior retired.",
+    "As the deputy store manager, he is able to fire staff.",
+    "The State Duma comprises 450 deputies.",
+    "Eamon Ryan is a deputy in the Dáil.",
+    "At today's meeting, Deputy Ryan will speak on local issues.",
+    "The sheriff's deputies took the suspect into custody.",
+    "Deputy Jones was promoted to corporal today."
+  ],
+  "synonyms": [
+    "substitute",
+    "representative",
+    "legate",
+    "delegate",
+    "envoy",
+    "agent",
+    "deputy",
+    "emissary",
+    "lieutenant",
+    "proxy",
+    "secondary",
+    "surrogate",
+    "vice",
+    "vicegerent"
+  ],
+  "antonyms": [
+    "client",
+    "principal"
+  ],
+  "difficultyLevel": "3"
+}

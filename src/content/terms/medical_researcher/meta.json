@@ -1,0 +1,27 @@
+{
+  "term": "Medical researcher",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈmɛdɪkəl rɪˈsɝtʃɚ/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A scientist who studies medicine or health in order to discover new treatments, causes of disease, or ways to improve health."
+  ],
+  "persianTranslation": [
+    "پژوهشگر پزشکی",
+    "محقق پزشکی"
+  ],
+  "examples": [
+    "She works as a medical researcher at a university hospital.",
+    "Medical researchers are studying new treatments for the disease.",
+    "The conference brought together medical researchers from around the world."
+  ],
+  "synonyms": [
+    "health researcher",
+    "clinical researcher"
+  ],
+  "antonyms": []
+}

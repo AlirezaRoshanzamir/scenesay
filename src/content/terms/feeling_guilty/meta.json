@@ -1,0 +1,34 @@
+{
+  "term": "Feeling guilty",
+  "categories": [
+    "Informal",
+    "Formal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈfiːlɪŋ ˈɡɪlti/",
+  "partOfSpeech": "Adjective phrase",
+  "englishDefinitions": [
+    "Feeling bad because you think you did something wrong.",
+    "Experiencing guilt or regret."
+  ],
+  "persianTranslation": [
+    "احساس گناه داشتن",
+    "عذاب وجدان داشتن",
+    "پشیمان بودن"
+  ],
+  "examples": [
+    "He was feeling guilty about missing her birthday.",
+    "I’m feeling guilty for not calling my parents sooner.",
+    "She left early and started feeling guilty."
+  ],
+  "synonyms": [
+    "remorseful",
+    "ashamed",
+    "sorry"
+  ],
+  "antonyms": [
+    "innocent",
+    "unashamed",
+    "guilt-free"
+  ]
+}

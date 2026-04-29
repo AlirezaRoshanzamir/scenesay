@@ -1,0 +1,31 @@
+{
+  "term": "living on the streets",
+  "categories": [
+    "Colloquial",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈlɪvɪŋ ɑn ðə strits/",
+  "partOfSpeech": "Phrase",
+  "englishDefinitions": [
+    "Having no home and sleeping outside or in public places."
+  ],
+  "persianTranslation": [
+    "بی‌خانمان بودن",
+    "در خیابان زندگی کردن"
+  ],
+  "examples": [
+    "Many people living on the streets need emergency shelter.",
+    "He ended up living on the streets after losing his job.",
+    "The city is creating programs to help people living on the streets."
+  ],
+  "synonyms": [
+    "homeless",
+    "without a home",
+    "street homeless"
+  ],
+  "antonyms": [
+    "housed",
+    "living in a home"
+  ]
+}

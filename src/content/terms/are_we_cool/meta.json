@@ -1,0 +1,34 @@
+{
+  "term": "Are We Cool",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ɑːr wiː kuːl/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": [
+    "Used to ask whether two people are okay with each other after a disagreement, awkward moment, or negotiation.",
+    "Used to check if someone agrees with a plan, condition, or understanding."
+  ],
+  "persianTranslation": [
+    "اوکی‌ایم؟",
+    "مشکلی با هم نداریم؟",
+    "همه‌چیز مرتبه؟"
+  ],
+  "examples": [
+    "I didn't mean to upset you—are we cool?",
+    "If you can finish the report by Friday, are we cool?",
+    "He apologized for the argument and asked, 'Are we cool?'"
+  ],
+  "synonyms": [
+    "Are we okay?",
+    "Are we good?",
+    "Is everything okay?"
+  ],
+  "antonyms": [
+    "We're not okay.",
+    "We're not cool.",
+    "There's a problem."
+  ]
+}

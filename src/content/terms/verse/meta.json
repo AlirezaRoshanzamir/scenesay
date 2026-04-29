@@ -1,0 +1,29 @@
+{
+  "term": "verse",
+  "categories": [],
+  "pronunciation": "/ˈvɝs/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A poetic form with regular meter and a fixed rhyme scheme.",
+    "Poetic form in general.",
+    "One of several similar units of a song, consisting of several lines, generally rhymed.",
+    "A small section of a holy book (Bible, Quran etc.)",
+    "(music) A portion of an anthem to be performed by a single voice to each part."
+  ],
+  "persianTranslation": [
+    "مصرع",
+    "نظم",
+    "بند"
+  ],
+  "examples": [
+    "Restoration literature is well known for its carefully constructed verse.",
+    "The restrictions of verse have steadily been relaxed over time.",
+    "Note the shift in tone between the first verse and the second."
+  ],
+  "synonyms": [
+    "poetry",
+    "stanza"
+  ],
+  "antonyms": [],
+  "difficultyLevel": "3"
+}

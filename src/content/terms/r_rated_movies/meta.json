@@ -1,0 +1,33 @@
+{
+  "term": "R-rated movies",
+  "categories": [
+    "Cultural Reference",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˌɑːr ˈreɪtɪd ˈmuːviz/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Movies in the U.S. film-rating system that are restricted to viewers age 17 and older unless accompanied by an adult.",
+    "Films that may contain strong language, violence, or sexual content."
+  ],
+  "persianTranslation": [
+    "فیلم‌های دارای رده‌بندی R",
+    "فیلم‌های بزرگسال",
+    "فیلم‌هایی که برای زیر ۱۷ سال مناسب نیستند"
+  ],
+  "examples": [
+    "R-rated movies are not allowed for younger kids without an adult.",
+    "He prefers action-packed R-rated movies.",
+    "The guide explains which scenes make the film R-rated."
+  ],
+  "synonyms": [
+    "adult movies",
+    "restricted movies"
+  ],
+  "antonyms": [
+    "G-rated movies",
+    "PG-rated movies",
+    "family-friendly movies"
+  ]
+}
