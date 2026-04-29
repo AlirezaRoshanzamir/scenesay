@@ -5,14 +5,16 @@
   "type": "module",
   "scripts": {
     "build:api": "node src/scripts/build-api.js",
-    "optimize:media": "node src/scripts/optimize-media.js",
+    "optimize-media": "node src/scripts/optimize-media.js",
     "dev": "npm run build:api && vite",
     "build": "npm run build:api && vite build",
     "preview": "vite preview",
     "deploy:ftp": "node src/scripts/deploy-ftp.js",
-    "download:subtitle": "node --env-file=.env src/scripts/download-subtitle.js",
-    "add:terms": "node --env-file=.env src/scripts/add-terms-to-show.js",
-    "define:terms": "node --env-file=.env src/scripts/define-terms.js"
+    "download-subtitle": "node --env-file=.env src/scripts/download-subtitle.js",
+    "add-terms-to-show": "node --env-file=.env src/scripts/add-terms-to-show.js",
+    "define-terms": "node --env-file=.env src/scripts/define-terms.js",
+    "set-difficulty-by-freq": "node src/scripts/set-difficulty.js",
+    "translate-terms-persian": "node --env-file=.env src/scripts/translate-terms-persian.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.91.1",
