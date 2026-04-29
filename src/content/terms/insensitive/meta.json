@@ -1,0 +1,34 @@
+{
+  "term": "Insensitive",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ɪnˈsensɪtɪv/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "not noticing or caring about other people's feelings",
+    "not easily affected by something"
+  ],
+  "persianTranslation": [
+    "بی‌احساس",
+    "بی‌ملاحظه",
+    "حساس‌نبودن"
+  ],
+  "examples": [
+    "That comment was insensitive and hurtful.",
+    "He was insensitive to her situation.",
+    "The doctor asked if the skin was insensitive to touch."
+  ],
+  "synonyms": [
+    "thoughtless",
+    "unfeeling",
+    "uncaring"
+  ],
+  "antonyms": [
+    "sensitive",
+    "considerate",
+    "thoughtful"
+  ]
+}

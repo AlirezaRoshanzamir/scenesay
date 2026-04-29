@@ -1,0 +1,31 @@
+{
+  "term": "Best Offer",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/best ˈɔfər/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "The most favorable proposal in a negotiation or sale.",
+    "An offer that is higher, better, or more acceptable than others."
+  ],
+  "persianTranslation": [
+    "بهترین پیشنهاد",
+    "بالاترین پیشنهاد"
+  ],
+  "examples": [
+    "The seller said she would accept the best offer by Friday.",
+    "We received several bids, but his was the best offer.",
+    "Please send us your best offer for the used equipment."
+  ],
+  "synonyms": [
+    "top offer",
+    "highest bid"
+  ],
+  "antonyms": [
+    "worst offer",
+    "lowest bid"
+  ]
+}

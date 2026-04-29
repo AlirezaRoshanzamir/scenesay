@@ -1,0 +1,27 @@
+{
+  "term": "Movie Theater",
+  "categories": [
+    "Informal",
+    "Cultural Reference"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈmuːvi ˌθiːətər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a place where people go to watch films on a big screen"
+  ],
+  "persianTranslation": [
+    "سینما",
+    "سالن نمایش فیلم"
+  ],
+  "examples": [
+    "We went to the movie theater on Friday night.",
+    "The movie theater was crowded.",
+    "Let's meet at the movie theater at seven."
+  ],
+  "synonyms": [
+    "cinema",
+    "picture house"
+  ],
+  "antonyms": []
+}

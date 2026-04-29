@@ -1,0 +1,36 @@
+{
+  "term": "unit",
+  "categories": [
+    "Academic",
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈjuːnɪt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A single thing or part that is considered separately from a whole.",
+    "A section of a course or textbook.",
+    "A piece of equipment, machine, or housing module."
+  ],
+  "persianTranslation": [
+    "واحد",
+    "بخش",
+    "قطعه",
+    "واحد درسی"
+  ],
+  "examples": [
+    "This course has ten units.",
+    "The apartment is a separate unit in the building.",
+    "We measured everything in metric units."
+  ],
+  "synonyms": [
+    "section",
+    "module",
+    "component"
+  ],
+  "antonyms": [
+    "whole",
+    "total"
+  ]
+}

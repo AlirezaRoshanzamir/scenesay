@@ -1,0 +1,32 @@
+{
+  "term": "Fall Asleep",
+  "categories": [
+    "Phrasal Verb",
+    "Informal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/fɔl əˈsliːp/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "To begin sleeping.",
+    "To stop being awake and enter sleep."
+  ],
+  "persianTranslation": [
+    "به خواب رفتن",
+    "خوابیدن"
+  ],
+  "examples": [
+    "I usually fall asleep while reading.",
+    "The baby finally fell asleep after midnight.",
+    "Try not to fall asleep during the movie."
+  ],
+  "synonyms": [
+    "go to sleep",
+    "drift off",
+    "nod off"
+  ],
+  "antonyms": [
+    "wake up",
+    "stay awake"
+  ]
+}

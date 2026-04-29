@@ -1,0 +1,29 @@
+{
+  "term": "Ad",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/æd/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Short form of advertisement.",
+    "A notice or message that promotes a product, service, event, or idea."
+  ],
+  "persianTranslation": [
+    "آگهی",
+    "تبلیغ",
+    "اعلان تبلیغاتی"
+  ],
+  "examples": [
+    "I saw an ad for the new phone on TV.",
+    "The online ad was trying to sell shoes.",
+    "She skipped the ad before the video started."
+  ],
+  "synonyms": [
+    "advertisement",
+    "commercial",
+    "promotion"
+  ],
+  "antonyms": []
+}

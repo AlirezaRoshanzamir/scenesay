@@ -1,0 +1,33 @@
+{
+  "term": "Reward",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/rɪˈwɔːrd/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": [
+    "something given in return for good behavior, effort, or a successful action",
+    "to give something to someone in return for work, help, or achievement"
+  ],
+  "persianTranslation": [
+    "پاداش",
+    "جایزه",
+    "پاداش دادن"
+  ],
+  "examples": [
+    "The company offered a reward for finding the missing documents.",
+    "Hard work often brings its own reward.",
+    "They rewarded her for finishing the project early."
+  ],
+  "synonyms": [
+    "prize",
+    "bonus",
+    "compensation"
+  ],
+  "antonyms": [
+    "punishment",
+    "penalty"
+  ]
+}

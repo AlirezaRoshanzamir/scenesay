@@ -1,0 +1,32 @@
+{
+  "term": "Make a Sale",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/meɪk ə seɪl/",
+  "partOfSpeech": "Phrase",
+  "englishDefinitions": [
+    "to sell something to a customer",
+    "to complete a sales transaction"
+  ],
+  "persianTranslation": [
+    "فروش انجام دادن",
+    "چیزی را فروختن",
+    "معامله فروش را نهایی کردن"
+  ],
+  "examples": [
+    "She made a sale just before closing time.",
+    "The salesperson needs to make a sale every day.",
+    "It's hard to make a sale without a good product."
+  ],
+  "synonyms": [
+    "sell something",
+    "complete a sale"
+  ],
+  "antonyms": [
+    "buy",
+    "purchase"
+  ]
+}

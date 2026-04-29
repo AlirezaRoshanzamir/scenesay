@@ -1,0 +1,33 @@
+{
+  "term": "belongs to",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/bɪˈlɔŋz tə/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "to be owned by someone or something",
+    "to be a member or part of a group, place, or category"
+  ],
+  "persianTranslation": [
+    "متعلق به",
+    "مالِ",
+    "عضوِ ... بودن"
+  ],
+  "examples": [
+    "This bicycle belongs to my sister.",
+    "He belongs to a local sports club.",
+    "The painting belongs to the museum now."
+  ],
+  "synonyms": [
+    "is owned by",
+    "is part of",
+    "is a member of"
+  ],
+  "antonyms": [
+    "does not belong to",
+    "is not part of"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "term": "Tetanus Shot",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈtɛtənəs ʃɑt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An injection given to protect a person from tetanus, a serious bacterial infection.",
+    "A vaccination or booster shot against tetanus."
+  ],
+  "persianTranslation": [
+    "واکسن کزاز",
+    "تزریق کزاز",
+    "یادآور کزاز"
+  ],
+  "examples": [
+    "The doctor said I needed a tetanus shot after stepping on a rusty nail.",
+    "She went to the clinic for a tetanus shot before traveling.",
+    "If the wound is deep, you may need a tetanus shot."
+  ],
+  "synonyms": [
+    "tetanus vaccine",
+    "tetanus booster"
+  ],
+  "antonyms": []
+}

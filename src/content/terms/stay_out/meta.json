@@ -1,0 +1,34 @@
+{
+  "term": "Stay Out",
+  "categories": [
+    "Phrasal Verb",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/steɪ aʊt/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "to remain outside a place",
+    "to not go into a place",
+    "to avoid getting involved in something"
+  ],
+  "persianTranslation": [
+    "بیرون ماندن",
+    "داخل نرفتن",
+    "دخالت نکردن"
+  ],
+  "examples": [
+    "Please stay out of the kitchen while I cook.",
+    "The children stayed out until dark.",
+    "I try to stay out of family arguments."
+  ],
+  "synonyms": [
+    "remain outside",
+    "keep out",
+    "avoid involvement"
+  ],
+  "antonyms": [
+    "go in",
+    "get involved"
+  ]
+}

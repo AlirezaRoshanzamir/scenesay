@@ -1,0 +1,34 @@
+{
+  "term": "React",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/riˈækt/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "to respond to something with an action, feeling, or behavior",
+    "to have a physical or chemical response"
+  ],
+  "persianTranslation": [
+    "واکنش نشان دادن",
+    "عکس‌العمل نشان دادن",
+    "پاسخ دادن"
+  ],
+  "examples": [
+    "How did she react to the news?",
+    "People react differently to stress.",
+    "The metal reacts with oxygen in the air."
+  ],
+  "synonyms": [
+    "respond",
+    "reply",
+    "act"
+  ],
+  "antonyms": [
+    "ignore",
+    "dismiss"
+  ]
+}

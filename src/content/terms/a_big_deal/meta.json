@@ -1,0 +1,36 @@
+{
+  "term": "A Big Deal",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ə bɪɡ dil/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Something important or impressive.",
+    "A situation that people think is serious or worth paying attention to.",
+    "Used in phrases like 'not a big deal' to mean something is not very important."
+  ],
+  "persianTranslation": [
+    "مسئله مهم",
+    "موضوع بزرگ",
+    "اتفاق مهم",
+    "اهمیت زیاد"
+  ],
+  "examples": [
+    "Getting accepted to that university was a big deal for her.",
+    "Don't worry; it's not a big deal.",
+    "This contract is a big deal for the company."
+  ],
+  "synonyms": [
+    "important thing",
+    "major issue",
+    "big event"
+  ],
+  "antonyms": [
+    "small matter",
+    "minor issue",
+    "nothing important"
+  ]
+}

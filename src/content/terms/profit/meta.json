@@ -1,0 +1,33 @@
+{
+  "term": "Profit",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈprɑfɪt/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": [
+    "The amount of money left after costs and expenses are paid.",
+    "To gain money from a business activity or transaction."
+  ],
+  "persianTranslation": [
+    "سود",
+    "منفعت",
+    "سود بردن"
+  ],
+  "examples": [
+    "The company made a large profit last year.",
+    "We need to increase sales to profit from the new product.",
+    "After paying all the bills, there was no profit left."
+  ],
+  "synonyms": [
+    "gain",
+    "earnings",
+    "return"
+  ],
+  "antonyms": [
+    "loss"
+  ]
+}

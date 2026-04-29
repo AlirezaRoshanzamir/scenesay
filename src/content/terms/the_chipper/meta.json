@@ -1,0 +1,29 @@
+{
+  "term": "The Chipper",
+  "categories": [
+    "Cultural Reference",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ðə ˈtʃɪpər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A machine that cuts wood or other material into small chips.",
+    "A device used for shredding or grinding material into chips."
+  ],
+  "persianTranslation": [
+    "چیپر",
+    "دستگاه خردکننده",
+    "دستگاه چیپ‌کن"
+  ],
+  "examples": [
+    "The crew loaded branches into the chipper.",
+    "The chipper reduced the wood to small pieces.",
+    "He repaired the chipper before starting work."
+  ],
+  "synonyms": [
+    "wood chipper",
+    "shredder"
+  ],
+  "antonyms": []
+}

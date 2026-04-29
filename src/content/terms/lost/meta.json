@@ -1,0 +1,35 @@
+{
+  "term": "Lost",
+  "categories": [
+    "Informal",
+    "Formal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/lɔst/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "unable to find your way or know where you are",
+    "no longer in your possession or available",
+    "having failed to win"
+  ],
+  "persianTranslation": [
+    "گم‌شده",
+    "از دست‌رفته",
+    "باخته"
+  ],
+  "examples": [
+    "We got lost in the city center.",
+    "I think my keys are lost.",
+    "Our team lost the match."
+  ],
+  "synonyms": [
+    "misplaced",
+    "missing",
+    "defeated"
+  ],
+  "antonyms": [
+    "found",
+    "won",
+    "located"
+  ]
+}

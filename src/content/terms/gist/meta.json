@@ -1,0 +1,33 @@
+{
+  "term": "gist",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/dʒɪst/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the main or central meaning of something",
+    "the general idea without all the details"
+  ],
+  "persianTranslation": [
+    "مقصود اصلی",
+    "خلاصهٔ مطلب",
+    "جانِ کلام"
+  ],
+  "examples": [
+    "I didn't catch every word, but I got the gist of it.",
+    "Can you give me the gist of the article?",
+    "The gist of her argument is that we need more time."
+  ],
+  "synonyms": [
+    "main idea",
+    "essence",
+    "core"
+  ],
+  "antonyms": [
+    "details",
+    "specifics"
+  ]
+}

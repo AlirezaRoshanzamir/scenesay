@@ -1,0 +1,27 @@
+{
+  "term": "Are You",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "1",
+  "pronunciation": "/ɑr juː/",
+  "partOfSpeech": "Question Beginning",
+  "englishDefinitions": [
+    "The beginning of a question using the verb 'to be' with 'you.'",
+    "Used to ask about someone's state, identity, condition, or action."
+  ],
+  "persianTranslation": [
+    "آیا تو ...؟",
+    "آیا شما ...؟"
+  ],
+  "examples": [
+    "Are you ready?",
+    "Are you coming with us?",
+    "Are you okay?"
+  ],
+  "synonyms": [
+    "do you",
+    "is it that you"
+  ],
+  "antonyms": []
+}

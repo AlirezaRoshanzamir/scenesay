@@ -1,0 +1,33 @@
+{
+  "term": "Robbed",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/rɑbd/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "past tense and past participle of 'rob'; to take something from someone by force or threat",
+    "to make someone lose something unfairly"
+  ],
+  "persianTranslation": [
+    "مورد سرقت قرار گرفتن",
+    "دزدیده شدن",
+    "به‌زور از کسی چیزی گرفتن"
+  ],
+  "examples": [
+    "The store was robbed last night.",
+    "She said she was robbed at gunpoint.",
+    "We felt robbed when the referee made that bad call."
+  ],
+  "synonyms": [
+    "stolen from",
+    "mugged",
+    "burglarized"
+  ],
+  "antonyms": [
+    "protected",
+    "gave"
+  ]
+}

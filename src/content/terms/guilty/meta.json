@@ -1,0 +1,34 @@
+{
+  "term": "Guilty",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈɡɪlti/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "responsible for a crime or wrongdoing",
+    "feeling bad because you think you did something wrong"
+  ],
+  "persianTranslation": [
+    "مقصر",
+    "گناهکار",
+    "احساس گناه‌کار بودن"
+  ],
+  "examples": [
+    "The court found him guilty.",
+    "I felt guilty for missing my friend's party.",
+    "She looked guilty when I asked about the broken vase."
+  ],
+  "synonyms": [
+    "responsible",
+    "at fault",
+    "culpable"
+  ],
+  "antonyms": [
+    "innocent",
+    "blameless",
+    "free of guilt"
+  ]
+}

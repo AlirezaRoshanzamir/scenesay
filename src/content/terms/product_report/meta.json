@@ -1,0 +1,31 @@
+{
+  "term": "Product Report",
+  "categories": [
+    "Formal",
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈprɑdʌkt rɪˈpɔrt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A report that gives information about a product, such as its features, performance, sales, or problems.",
+    "A document used to evaluate or describe a product."
+  ],
+  "persianTranslation": [
+    "گزارش محصول",
+    "گزارش دربارهٔ محصول",
+    "گزارش عملکرد محصول"
+  ],
+  "examples": [
+    "The manager asked for a product report before the meeting.",
+    "Our product report showed strong sales in the first quarter.",
+    "The engineer wrote a product report about the device's defects."
+  ],
+  "synonyms": [
+    "product analysis",
+    "product evaluation",
+    "sales report"
+  ],
+  "antonyms": []
+}

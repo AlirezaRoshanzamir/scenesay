@@ -1,0 +1,34 @@
+{
+  "term": "Spirit",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈspɪrɪt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The non-physical part of a person, often associated with mind, soul, or inner life.",
+    "A mood, attitude, or feeling of courage and energy.",
+    "A ghost or supernatural being."
+  ],
+  "persianTranslation": [
+    "روح",
+    "جان",
+    "خلق و خو",
+    "شبح"
+  ],
+  "examples": [
+    "Her spirit remained strong during the illness.",
+    "The team showed great spirit after losing the first game.",
+    "People say the old house is haunted by a spirit."
+  ],
+  "synonyms": [
+    "soul",
+    "mind",
+    "ghost"
+  ],
+  "antonyms": [
+    "body"
+  ]
+}

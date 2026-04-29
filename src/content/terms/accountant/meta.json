@@ -1,0 +1,28 @@
+{
+  "term": "Accountant",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/əˈkaʊntənt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A person whose job is to keep or inspect financial records and prepare reports.",
+    "Someone who works with taxes, budgets, and business accounts."
+  ],
+  "persianTranslation": [
+    "حسابدار",
+    "ممیز مالی"
+  ],
+  "examples": [
+    "My sister works as an accountant for a large company.",
+    "The accountant checked the books before tax season.",
+    "You should ask an accountant for advice about expenses."
+  ],
+  "synonyms": [
+    "bookkeeper",
+    "auditor"
+  ],
+  "antonyms": []
+}

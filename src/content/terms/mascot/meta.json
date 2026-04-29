@@ -1,0 +1,28 @@
+{
+  "term": "Mascot",
+  "categories": [
+    "Cultural Reference",
+    "Noun"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈmæskət/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An animal, person, or object that is believed to bring good luck or that represents a team, school, company, or event."
+  ],
+  "persianTranslation": [
+    "نماد تیم/مدرسه",
+    "طلسم شانس",
+    "مَسکات"
+  ],
+  "examples": [
+    "The school's mascot is a tiger.",
+    "Our team’s mascot appears at every game.",
+    "Many companies use a mascot in their advertisements."
+  ],
+  "synonyms": [
+    "symbol",
+    "emblem"
+  ],
+  "antonyms": []
+}

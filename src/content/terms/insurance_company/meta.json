@@ -1,0 +1,27 @@
+{
+  "term": "Insurance Company",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ɪnˈʃʊrəns ˈkʌmpəni/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a company that provides insurance and pays money when covered events happen"
+  ],
+  "persianTranslation": [
+    "شرکت بیمه",
+    "بیمه‌گر"
+  ],
+  "examples": [
+    "The insurance company paid for the damage.",
+    "Call the insurance company to file a claim.",
+    "He switched to a cheaper insurance company."
+  ],
+  "synonyms": [
+    "insurer",
+    "underwriter"
+  ],
+  "antonyms": []
+}

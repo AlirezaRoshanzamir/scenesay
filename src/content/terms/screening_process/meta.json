@@ -1,0 +1,30 @@
+{
+  "term": "screening process",
+  "categories": [
+    "Formal",
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈskriːnɪŋ ˈprɑːsɛs/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A procedure used to examine people or things and decide whether they meet certain requirements."
+  ],
+  "persianTranslation": [
+    "فرایند غربال‌گری",
+    "روند بررسی و انتخاب",
+    "فرآیند پالایش"
+  ],
+  "examples": [
+    "Applicants must go through a screening process before hiring.",
+    "The company uses a screening process to choose candidates.",
+    "There is a screening process for new volunteers."
+  ],
+  "synonyms": [
+    "selection process",
+    "vetting process",
+    "evaluation process"
+  ],
+  "antonyms": []
+}
