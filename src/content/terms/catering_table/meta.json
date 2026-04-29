@@ -1,0 +1,27 @@
+{
+  "term": "Catering Table",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈkeɪtərɪŋ ˈteɪbəl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A table set up with food and drinks at an event, often provided by a catering service."
+  ],
+  "persianTranslation": [
+    "میز پذیرایی",
+    "میز غذا و نوشیدنی"
+  ],
+  "examples": [
+    "The guests gathered around the catering table.",
+    "There were sandwiches and fruit on the catering table.",
+    "A catering table was set up near the entrance."
+  ],
+  "synonyms": [
+    "buffet table",
+    "refreshment table"
+  ],
+  "antonyms": []
+}

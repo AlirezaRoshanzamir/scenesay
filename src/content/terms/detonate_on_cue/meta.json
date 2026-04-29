@@ -1,0 +1,31 @@
+{
+  "term": "Detonate On Cue",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/ˈdɛtəneɪt ɑn kjuː/",
+  "partOfSpeech": "Verb Phrase",
+  "englishDefinitions": [
+    "Explode at the exact planned moment, usually when signaled or instructed."
+  ],
+  "persianTranslation": [
+    "در زمان مقرر منفجر شدن",
+    "با علامت/اشاره منفجر شدن"
+  ],
+  "examples": [
+    "The charges were set to detonate on cue during the stunt.",
+    "In the film, the bridge was designed to detonate on cue.",
+    "The special effects team made the device detonate on cue."
+  ],
+  "synonyms": [
+    "explode on signal",
+    "go off on cue",
+    "blast at the right moment"
+  ],
+  "antonyms": [
+    "fail to detonate",
+    "misfire"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "term": "Panel",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈpænəl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A group of people chosen to discuss, judge, or advise on a topic.",
+    "A flat piece of material that forms part of a wall, door, machine, or screen.",
+    "A section of a comic strip, display, or user interface."
+  ],
+  "persianTranslation": [
+    "هیئت",
+    "گروه کارشناسان",
+    "پنل",
+    "صفحه یا بخش تخت"
+  ],
+  "examples": [
+    "A panel of experts answered questions after the lecture.",
+    "The control panel is on the left side of the machine.",
+    "Each panel of the comic tells a different part of the story."
+  ],
+  "synonyms": [
+    "committee",
+    "board",
+    "group",
+    "section",
+    "plate"
+  ],
+  "antonyms": []
+}

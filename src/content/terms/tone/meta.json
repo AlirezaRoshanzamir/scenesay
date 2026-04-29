@@ -1,0 +1,33 @@
+{
+  "term": "Tone",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/toʊn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The general feeling or attitude expressed in speech, writing, music, or art.",
+    "The quality of someone's voice that shows emotion or attitude."
+  ],
+  "persianTranslation": [
+    "لحن",
+    "فضا",
+    "حس"
+  ],
+  "examples": [
+    "The tone of the letter was polite but firm.",
+    "Her tone changed when she became angry.",
+    "The film has a dark and serious tone."
+  ],
+  "synonyms": [
+    "mood",
+    "style",
+    "attitude"
+  ],
+  "antonyms": [
+    "disorder",
+    "neutrality"
+  ]
+}

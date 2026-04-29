@@ -1,0 +1,36 @@
+{
+  "term": "Joke",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/dʒoʊk/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "A funny story, phrase, or action meant to make people laugh.",
+    "Something not taken seriously or considered ridiculous.",
+    "To say something funny or not serious."
+  ],
+  "persianTranslation": [
+    "شوخی",
+    "لطیفه",
+    "مزاح کردن",
+    "چیز مسخره یا جدی‌نگرفتنی"
+  ],
+  "examples": [
+    "He told a joke that made everyone laugh.",
+    "I was only joking; I didn't mean to upset you.",
+    "The meeting was such a joke that nobody learned anything."
+  ],
+  "synonyms": [
+    "funny story",
+    "wisecrack",
+    "prank",
+    "jest"
+  ],
+  "antonyms": [
+    "seriousness",
+    "truth"
+  ]
+}

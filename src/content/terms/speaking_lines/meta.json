@@ -1,0 +1,32 @@
+{
+  "term": "Speaking Lines",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈspiːkɪŋ laɪnz/",
+  "partOfSpeech": "Noun Phrase",
+  "englishDefinitions": [
+    "words in a script that an actor is meant to say aloud",
+    "dialogue spoken by a character"
+  ],
+  "persianTranslation": [
+    "دیالوگ",
+    "جملات گفتاری",
+    "نقشِ صحبت‌دار"
+  ],
+  "examples": [
+    "The actor had only a few speaking lines in the play.",
+    "She memorized all her speaking lines before rehearsal.",
+    "Not every role in the movie had speaking lines."
+  ],
+  "synonyms": [
+    "dialogue",
+    "lines",
+    "scripted dialogue"
+  ],
+  "antonyms": [
+    "silent role",
+    "non-speaking part"
+  ]
+}

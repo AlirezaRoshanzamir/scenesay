@@ -1,0 +1,31 @@
+{
+  "term": "Fossils",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈfɑːsəlz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The preserved remains or traces of ancient plants, animals, or other organisms found in rock.",
+    "Evidence from the distant past, especially used in science to study ancient life."
+  ],
+  "persianTranslation": [
+    "سنگواره‌ها",
+    "فسیل‌ها",
+    "بقایای موجودات باستانی"
+  ],
+  "examples": [
+    "Scientists found dinosaur fossils in the desert.",
+    "These fossils are millions of years old.",
+    "The museum has a large collection of plant and animal fossils."
+  ],
+  "synonyms": [
+    "remains",
+    "imprints",
+    "traces",
+    "petrified remains"
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,28 @@
+{
+  "term": "Glitches",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈɡlɪtʃɪz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Small, temporary problems or faults in a machine, system, or process."
+  ],
+  "persianTranslation": [
+    "اختلال‌های کوچک",
+    "ایرادهای موقت",
+    "نقص‌های فنی"
+  ],
+  "examples": [
+    "There were a few glitches during the live broadcast.",
+    "The app has some glitches after the update.",
+    "Technical glitches delayed the start of the show."
+  ],
+  "synonyms": [
+    "bugs",
+    "faults",
+    "errors"
+  ],
+  "antonyms": []
+}

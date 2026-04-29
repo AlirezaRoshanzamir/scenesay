@@ -1,0 +1,38 @@
+{
+  "term": "Come On",
+  "categories": [
+    "Phrasal Verb",
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/kʌm ɑːn/",
+  "partOfSpeech": "Phrasal verb / Interjection",
+  "englishDefinitions": [
+    "Used to encourage someone to do something or move faster.",
+    "Used to show disbelief, annoyance, or disagreement.",
+    "To start operating or become available, especially for a machine, light, or program."
+  ],
+  "persianTranslation": [
+    "یالا",
+    "بی‌خیال",
+    "زود باش",
+    "روشن شدن یا شروع به کار کردن"
+  ],
+  "examples": [
+    "Come on, we’re going to be late!",
+    "Oh, come on, that can’t be true.",
+    "The lights came on when we entered the room."
+  ],
+  "synonyms": [
+    "hurry up",
+    "let’s go",
+    "be serious",
+    "start"
+  ],
+  "antonyms": [
+    "stop",
+    "wait",
+    "turn off"
+  ]
+}

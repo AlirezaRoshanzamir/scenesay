@@ -1,0 +1,28 @@
+{
+  "term": "Cotton Gin",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈkɑːtən ˌdʒɪn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A machine that separates cotton fibers from their seeds.",
+    "An important agricultural invention often associated with Eli Whitney and the history of cotton production in the United States."
+  ],
+  "persianTranslation": [
+    "دستگاه پنبه‌پاک‌کنی",
+    "ماشین جداکننده دانه از پنبه"
+  ],
+  "examples": [
+    "The cotton gin made it much faster to process raw cotton.",
+    "Students learned about the cotton gin in their history class.",
+    "Before the cotton gin, separating cotton seeds by hand took a long time."
+  ],
+  "synonyms": [
+    "cotton engine",
+    "cotton-cleaning machine"
+  ],
+  "antonyms": []
+}

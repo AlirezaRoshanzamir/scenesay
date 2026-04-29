@@ -1,0 +1,34 @@
+{
+  "term": "Transition",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/trænˈzɪʃən/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "A change from one state, place, or situation to another.",
+    "To change from one state, place, or situation to another."
+  ],
+  "persianTranslation": [
+    "گذار",
+    "انتقال",
+    "تغییر مرحله"
+  ],
+  "examples": [
+    "The transition from school to work can be difficult.",
+    "The scene uses a smooth transition to the next shot.",
+    "She is transitioning into a new role."
+  ],
+  "synonyms": [
+    "change",
+    "shift",
+    "move"
+  ],
+  "antonyms": [
+    "stability",
+    "continuation"
+  ]
+}

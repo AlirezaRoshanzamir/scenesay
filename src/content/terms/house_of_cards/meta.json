@@ -1,0 +1,32 @@
+{
+  "term": "House of Cards",
+  "categories": [
+    "Idiom",
+    "Colloquial"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/ˌhaʊs əv ˈkɑːrdz/",
+  "partOfSpeech": "Idiom",
+  "englishDefinitions": [
+    "A situation, plan, or system that is very weak and likely to fail.",
+    "A structure that depends on every part staying in place, so if one part falls, everything may collapse."
+  ],
+  "persianTranslation": [
+    "ساختمان کارت‌ها",
+    "ساختار سست و شکننده",
+    "چیزی که با یک ضربه فرو می‌ریزد"
+  ],
+  "examples": [
+    "The company’s finances were a house of cards.",
+    "Without his support, their plan turned into a house of cards.",
+    "One mistake was enough to make the whole project collapse like a house of cards."
+  ],
+  "synonyms": [
+    "fragile structure",
+    "unstable system"
+  ],
+  "antonyms": [
+    "solid structure",
+    "stable foundation"
+  ]
+}

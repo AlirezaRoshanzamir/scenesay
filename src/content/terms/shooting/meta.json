@@ -1,0 +1,29 @@
+{
+  "term": "Shooting",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈʃuː.tɪŋ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The act or process of filming a movie or scene.",
+    "The act of firing a gun; in general use, a violent event involving gunfire."
+  ],
+  "persianTranslation": [
+    "فیلم‌برداری",
+    "شلیک",
+    "تیراندازی"
+  ],
+  "examples": [
+    "The shooting lasted for three months.",
+    "They postponed the shooting because of the weather.",
+    "The shooting of the final scene took all night."
+  ],
+  "synonyms": [
+    "filming",
+    "production"
+  ],
+  "antonyms": []
+}

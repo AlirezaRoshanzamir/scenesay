@@ -1,0 +1,29 @@
+{
+  "term": "Narrator",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈnær.ə.tɚ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a person or voice that tells a story",
+    "the voice in a film, audiobook, or story that explains events"
+  ],
+  "persianTranslation": [
+    "راوی",
+    "گویندهٔ داستان"
+  ],
+  "examples": [
+    "The narrator describes the events from a child's point of view.",
+    "In this audiobook, the narrator has a very calm voice.",
+    "The narrator reveals information the characters do not know."
+  ],
+  "synonyms": [
+    "storyteller",
+    "speaker",
+    "voice-over"
+  ],
+  "antonyms": []
+}

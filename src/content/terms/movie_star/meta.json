@@ -1,0 +1,32 @@
+{
+  "term": "Movie Star",
+  "categories": [
+    "Informal",
+    "Cultural Reference"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈmuː.vi stɑr/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A famous actor or actress, especially one who is well known and admired."
+  ],
+  "persianTranslation": [
+    "ستارهٔ سینما",
+    "بازیگر مشهور"
+  ],
+  "examples": [
+    "She became a movie star after her first major role.",
+    "The movie star arrived with cameras flashing.",
+    "He dreamed of becoming a movie star as a child."
+  ],
+  "synonyms": [
+    "film star",
+    "star",
+    "celebrity"
+  ],
+  "antonyms": [
+    "unknown actor",
+    "extra",
+    "nobody"
+  ]
+}

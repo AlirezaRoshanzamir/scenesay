@@ -1,0 +1,32 @@
+{
+  "term": "Below Normal",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/bɪˈloʊ ˈnɔːrməl/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Less than the usual or expected level."
+  ],
+  "persianTranslation": [
+    "زیرِ حد طبیعی",
+    "پایین‌تر از معمول"
+  ],
+  "examples": [
+    "His blood pressure was below normal.",
+    "The temperature stayed below normal for most of the week.",
+    "Her test score was slightly below normal for the class."
+  ],
+  "synonyms": [
+    "low",
+    "under normal",
+    "subnormal"
+  ],
+  "antonyms": [
+    "above normal",
+    "normal",
+    "average"
+  ]
+}

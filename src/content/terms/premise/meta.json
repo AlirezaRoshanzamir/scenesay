@@ -1,0 +1,30 @@
+{
+  "term": "Premise",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈprɛmɪs/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The basic idea or main statement that a story, argument, or plan is based on.",
+    "A proposition or assumption used as the starting point for reasoning."
+  ],
+  "persianTranslation": [
+    "مقدمه",
+    "فرضیه",
+    "ایده اصلی"
+  ],
+  "examples": [
+    "The premise of the movie is simple but powerful.",
+    "His argument is based on a false premise.",
+    "The premise for the experiment was carefully explained."
+  ],
+  "synonyms": [
+    "basis",
+    "assumption",
+    "starting point"
+  ],
+  "antonyms": []
+}

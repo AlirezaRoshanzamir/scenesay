@@ -1,0 +1,35 @@
+{
+  "term": "Dilemma",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/dɪˈlɛmə/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A situation in which a difficult choice must be made between two or more options.",
+    "A problem or situation that is hard to solve."
+  ],
+  "persianTranslation": [
+    "دوراهی",
+    "معضل",
+    "بن‌بست"
+  ],
+  "examples": [
+    "She faced a dilemma about whether to accept the job offer.",
+    "The city has a dilemma: spend more money or raise taxes.",
+    "It was a moral dilemma that had no easy answer."
+  ],
+  "synonyms": [
+    "problem",
+    "predicament",
+    "quandary",
+    "difficult choice"
+  ],
+  "antonyms": [
+    "solution",
+    "certainty",
+    "clear choice"
+  ]
+}

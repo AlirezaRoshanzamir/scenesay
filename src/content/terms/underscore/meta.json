@@ -1,0 +1,33 @@
+{
+  "term": "Underscore",
+  "categories": [
+    "Verb",
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˌʌndərˈskɔːr/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "To emphasize something or show that it is especially important.",
+    "To draw a line under a word or symbol in text."
+  ],
+  "persianTranslation": [
+    "تأکید کردن بر",
+    "زیرخط کشیدن"
+  ],
+  "examples": [
+    "The report underscores the need for change.",
+    "She underscored the key points in her notes.",
+    "The results underscore how serious the problem is."
+  ],
+  "synonyms": [
+    "emphasize",
+    "highlight",
+    "stress"
+  ],
+  "antonyms": [
+    "downplay",
+    "minimize"
+  ]
+}

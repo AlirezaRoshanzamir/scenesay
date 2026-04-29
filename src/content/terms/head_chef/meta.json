@@ -1,0 +1,32 @@
+{
+  "term": "Head Chef",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˌhɛd ˈʃɛf/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "The chef in charge of a kitchen, menu, cooking staff, and food quality.",
+    "The main cook responsible for leading a restaurant kitchen."
+  ],
+  "persianTranslation": [
+    "سرآشپز",
+    "رئیس آشپزخانه"
+  ],
+  "examples": [
+    "The head chef created a new menu for the summer season.",
+    "Everyone in the kitchen reports to the head chef.",
+    "She became head chef after ten years of restaurant experience."
+  ],
+  "synonyms": [
+    "executive chef",
+    "chef de cuisine",
+    "chief cook"
+  ],
+  "antonyms": [
+    "assistant chef",
+    "line cook"
+  ]
+}

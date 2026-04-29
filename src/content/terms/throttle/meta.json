@@ -1,0 +1,36 @@
+{
+  "term": "Throttle",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈθrɑtəl/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": [
+    "A device or control used to regulate speed or power, especially in engines.",
+    "To choke or squeeze someone’s throat; to limit or control strongly."
+  ],
+  "persianTranslation": [
+    "گاز",
+    "دستهٔ کنترل سرعت",
+    "خفه کردن",
+    "فشردن گلو",
+    "شدیداً کنترل کردن"
+  ],
+  "examples": [
+    "He pressed the throttle to make the car go faster.",
+    "The robot can throttle power to save energy.",
+    "In anger, he threatened to throttle the thief."
+  ],
+  "synonyms": [
+    "accelerator",
+    "control",
+    "choke"
+  ],
+  "antonyms": [
+    "release",
+    "loosen",
+    "free"
+  ]
+}

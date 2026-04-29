@@ -1,0 +1,31 @@
+{
+  "term": "Fancy Dinner",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈfænsi ˈdɪnər/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A dinner that is elegant, special, or more formal than usual."
+  ],
+  "persianTranslation": [
+    "شام مجلل",
+    "شام رسمی",
+    "شام شیک"
+  ],
+  "examples": [
+    "We went out for a fancy dinner to celebrate her promotion.",
+    "He wore a suit to the fancy dinner at the hotel.",
+    "They saved money all month for one fancy dinner."
+  ],
+  "synonyms": [
+    "formal dinner",
+    "elegant dinner",
+    "special dinner"
+  ],
+  "antonyms": [
+    "casual meal",
+    "plain dinner"
+  ]
+}

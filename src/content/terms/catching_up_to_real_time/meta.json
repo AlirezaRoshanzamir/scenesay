@@ -1,0 +1,30 @@
+{
+  "term": "Catching up to real time",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈkætʃ.ɪŋ ʌp tuː ˈriː.əl taɪm/",
+  "partOfSpeech": "Phrase",
+  "englishDefinitions": [
+    "becoming current so that events or data are updated without delay"
+  ],
+  "persianTranslation": [
+    "هم‌زمان شدن با زمان واقعی",
+    "به‌روز شدن تا لحظهٔ حال"
+  ],
+  "examples": [
+    "The software is catching up to real time after the delay.",
+    "The live feed is still catching up to real time.",
+    "Our report systems are catching up to real time."
+  ],
+  "synonyms": [
+    "becoming current",
+    "updating live"
+  ],
+  "antonyms": [
+    "falling behind",
+    "being delayed"
+  ]
+}

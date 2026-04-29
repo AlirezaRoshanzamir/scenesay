@@ -1,0 +1,30 @@
+{
+  "term": "Journalist",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈdʒɜːrnəlɪst/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A person whose job is to collect, write, or report news for newspapers, magazines, television, radio, or online media.",
+    "A professional reporter or news writer."
+  ],
+  "persianTranslation": [
+    "روزنامه‌نگار",
+    "خبرنگار",
+    "ژورنالیست"
+  ],
+  "examples": [
+    "The journalist interviewed the mayor about the new law.",
+    "She works as a journalist for an online newspaper.",
+    "A good journalist checks facts carefully before publishing a story."
+  ],
+  "synonyms": [
+    "reporter",
+    "correspondent",
+    "news writer"
+  ],
+  "antonyms": []
+}

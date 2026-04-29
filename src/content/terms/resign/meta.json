@@ -1,0 +1,31 @@
+{
+  "term": "Resign",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/rɪˈzaɪn/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "To leave a job or position voluntarily.",
+    "To accept something unpleasant because you cannot change it."
+  ],
+  "persianTranslation": [
+    "استعفا دادن",
+    "ناچار به پذیرفتن شدن"
+  ],
+  "examples": [
+    "The minister decided to resign after the scandal.",
+    "She will resign from her post next week.",
+    "He had to resign himself to the fact that the plan had failed."
+  ],
+  "synonyms": [
+    "quit",
+    "step down",
+    "accept"
+  ],
+  "antonyms": [
+    "take office",
+    "refuse"
+  ]
+}

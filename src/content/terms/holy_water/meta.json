@@ -1,0 +1,30 @@
+{
+  "term": "Holy Water",
+  "categories": [
+    "Cultural Reference",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈhoʊli ˈwɔːtər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Water that has been blessed by a religious leader and is used in religious ceremonies, especially in Christianity."
+  ],
+  "persianTranslation": [
+    "آب مقدس",
+    "آب تبرک‌شده"
+  ],
+  "examples": [
+    "The priest sprinkled holy water during the ceremony.",
+    "Some churches keep holy water near the entrance.",
+    "In the movie, holy water was used to fight evil spirits."
+  ],
+  "synonyms": [
+    "blessed water",
+    "sacred water"
+  ],
+  "antonyms": [
+    "ordinary water",
+    "unblessed water"
+  ]
+}

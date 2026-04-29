@@ -1,0 +1,33 @@
+{
+  "term": "Trade Off",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈtreɪd ɔf/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": [
+    "a situation in which you accept the disadvantages of one choice in order to get the advantages of another",
+    "to exchange one benefit or feature for another"
+  ],
+  "persianTranslation": [
+    "معاملهٔ دو سر باخت/برد",
+    "دادن چیزی در برابر چیز دیگر",
+    "فدا کردن یک مزیت برای مزیت دیگر"
+  ],
+  "examples": [
+    "There is always a trade-off between speed and safety.",
+    "They traded off comfort for lower costs.",
+    "Choosing this job means accepting some trade-offs."
+  ],
+  "synonyms": [
+    "compromise",
+    "exchange",
+    "balance"
+  ],
+  "antonyms": [
+    "advantage without cost",
+    "gain with no loss"
+  ]
+}

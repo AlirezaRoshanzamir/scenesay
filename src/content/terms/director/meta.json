@@ -1,0 +1,32 @@
+{
+  "term": "Director",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/dəˈrɛktər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A person who controls or leads a film, play, company, department, or project."
+  ],
+  "persianTranslation": [
+    "کارگردان",
+    "مدیر",
+    "رئیس"
+  ],
+  "examples": [
+    "The director explained the scene to the actors.",
+    "She became the director of the new company.",
+    "The film director won several awards."
+  ],
+  "synonyms": [
+    "manager",
+    "leader",
+    "supervisor"
+  ],
+  "antonyms": [
+    "follower",
+    "employee"
+  ]
+}

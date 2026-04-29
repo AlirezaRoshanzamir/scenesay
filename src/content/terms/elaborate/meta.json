@@ -1,0 +1,33 @@
+{
+  "term": "Elaborate",
+  "categories": [
+    "Verb",
+    "Adjective"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ɪˈlæbəreɪt/",
+  "partOfSpeech": "Verb, Adjective",
+  "englishDefinitions": [
+    "To give more details or explain something more fully.",
+    "Having many details or a complicated design."
+  ],
+  "persianTranslation": [
+    "شرح دادن",
+    "بسط دادن",
+    "پیچیده و مفصل"
+  ],
+  "examples": [
+    "Can you elaborate on your idea?",
+    "The artist created an elaborate pattern.",
+    "She gave an elaborate explanation of the process."
+  ],
+  "synonyms": [
+    "explain",
+    "expand",
+    "detailed"
+  ],
+  "antonyms": [
+    "simplify",
+    "brief"
+  ]
+}

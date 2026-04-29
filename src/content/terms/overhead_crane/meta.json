@@ -1,0 +1,26 @@
+{
+  "term": "Overhead Crane",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˌoʊvərˈhed kreɪn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a crane that moves heavy objects above the ground, usually along beams or tracks"
+  ],
+  "persianTranslation": [
+    "جرثقیل سقفی",
+    "جرثقیل بالاسری"
+  ],
+  "examples": [
+    "The factory used an overhead crane to move steel beams.",
+    "Workers stood clear while the overhead crane lifted the container.",
+    "An overhead crane can carry very heavy loads safely."
+  ],
+  "synonyms": [
+    "gantry crane",
+    "bridge crane"
+  ],
+  "antonyms": []
+}

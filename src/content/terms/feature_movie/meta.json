@@ -1,0 +1,28 @@
+{
+  "term": "Feature Movie",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈfiːtʃər ˈmuːvi/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A full-length movie, usually the main film shown in a cinema or on a streaming service."
+  ],
+  "persianTranslation": [
+    "فیلم بلند",
+    "فیلم اصلی"
+  ],
+  "examples": [
+    "This is her first feature movie as a director.",
+    "The festival will screen a feature movie tonight.",
+    "A feature movie usually lasts longer than a short film."
+  ],
+  "synonyms": [
+    "feature film",
+    "full-length film"
+  ],
+  "antonyms": [
+    "short film"
+  ]
+}

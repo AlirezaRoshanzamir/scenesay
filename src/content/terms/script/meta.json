@@ -1,0 +1,33 @@
+{
+  "term": "Script",
+  "categories": [
+    "Technical",
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/skrɪpt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The written text of a play, movie, speech, or program.",
+    "A set of instructions written for a computer to follow.",
+    "A person's style of handwriting."
+  ],
+  "persianTranslation": [
+    "فیلمنامه",
+    "متن",
+    "اسکریپت",
+    "خط"
+  ],
+  "examples": [
+    "The actor forgot part of his script.",
+    "She wrote a script for the presentation.",
+    "The program runs a script automatically."
+  ],
+  "synonyms": [
+    "manuscript",
+    "text",
+    "screenplay"
+  ],
+  "antonyms": []
+}

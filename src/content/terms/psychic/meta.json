@@ -1,0 +1,34 @@
+{
+  "term": "Psychic",
+  "categories": [
+    "Technical",
+    "Colloquial"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈsaɪkɪk/",
+  "partOfSpeech": "Adjective; Noun",
+  "englishDefinitions": [
+    "Having or seeming to have special mental powers, such as knowing the future or reading minds.",
+    "A person who claims to have supernatural mental abilities."
+  ],
+  "persianTranslation": [
+    "دارای قدرت‌های ذهنی ماورایی",
+    "غیب‌گو",
+    "روان‌بین",
+    "کسی که ادعای پیشگویی یا ذهن‌خوانی دارد"
+  ],
+  "examples": [
+    "She claimed to be psychic and said she could predict the future.",
+    "That was a lucky guess—you are not psychic.",
+    "They visited a psychic at the fair for fun."
+  ],
+  "synonyms": [
+    "clairvoyant",
+    "mind reader",
+    "fortune-teller",
+    "medium"
+  ],
+  "antonyms": [
+    "skeptic"
+  ]
+}

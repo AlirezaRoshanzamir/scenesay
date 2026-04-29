@@ -1,0 +1,31 @@
+{
+  "term": "Real Time",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈriːəl taɪm/",
+  "partOfSpeech": "Adjective phrase / Adverbial phrase",
+  "englishDefinitions": [
+    "Happening immediately as events occur, without delay.",
+    "Processed or shown at the same time that something is happening."
+  ],
+  "persianTranslation": [
+    "بلادرنگ",
+    "هم‌زمان با وقوع"
+  ],
+  "examples": [
+    "The app shows real-time traffic updates.",
+    "We watched the results in real time as the votes were counted.",
+    "Real-time translation can be useful during international meetings."
+  ],
+  "synonyms": [
+    "live",
+    "instantaneous"
+  ],
+  "antonyms": [
+    "delayed",
+    "offline"
+  ]
+}

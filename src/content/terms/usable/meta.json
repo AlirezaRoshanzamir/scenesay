@@ -1,0 +1,34 @@
+{
+  "term": "Usable",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈjuːzəbəl/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "able to be used effectively",
+    "good enough for a practical purpose"
+  ],
+  "persianTranslation": [
+    "قابل استفاده",
+    "کاربردی",
+    "مصرف‌پذیر"
+  ],
+  "examples": [
+    "Only one photo was usable after the accident.",
+    "The data is not yet usable for analysis.",
+    "This old computer is still usable for basic tasks."
+  ],
+  "synonyms": [
+    "functional",
+    "practical",
+    "serviceable"
+  ],
+  "antonyms": [
+    "unusable",
+    "broken",
+    "useless"
+  ]
+}

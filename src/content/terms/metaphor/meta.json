@@ -1,0 +1,28 @@
+{
+  "term": "Metaphor",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈmɛt.ə.fɔːr/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A figure of speech that describes one thing as if it were another to show a shared quality or create an image."
+  ],
+  "persianTranslation": [
+    "استعاره"
+  ],
+  "examples": [
+    "“Time is money” is a common metaphor.",
+    "The poem uses a metaphor about winter to suggest sadness.",
+    "Teachers explained the difference between a simile and a metaphor."
+  ],
+  "synonyms": [
+    "figure of speech",
+    "comparison"
+  ],
+  "antonyms": [
+    "literal language"
+  ]
+}

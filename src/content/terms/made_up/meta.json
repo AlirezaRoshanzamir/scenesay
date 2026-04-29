@@ -1,0 +1,38 @@
+{
+  "term": "Made Up",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˌmeɪd ˈʌp/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Invented and not true or real.",
+    "Created from imagination."
+  ],
+  "persianTranslation": [
+    "ساختگی",
+    "خیالی",
+    "از خود درآورده",
+    "غیرواقعی"
+  ],
+  "examples": [
+    "That story is completely made up.",
+    "The name of the city in the book is made up.",
+    "He gave a made-up excuse for being late."
+  ],
+  "synonyms": [
+    "invented",
+    "fictional",
+    "imaginary",
+    "fabricated",
+    "false"
+  ],
+  "antonyms": [
+    "real",
+    "true",
+    "factual",
+    "genuine"
+  ]
+}

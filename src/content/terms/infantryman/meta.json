@@ -1,0 +1,31 @@
+{
+  "term": "Infantryman",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈɪnfəntrimən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a soldier who fights on foot in the army",
+    "a member of the infantry"
+  ],
+  "persianTranslation": [
+    "سرباز پیاده‌نظام",
+    "رزمنده پیاده‌نظام"
+  ],
+  "examples": [
+    "The infantryman carried heavy equipment through the mud.",
+    "He trained to become an infantryman.",
+    "An infantryman must be prepared for difficult conditions."
+  ],
+  "synonyms": [
+    "foot soldier",
+    "infantry soldier"
+  ],
+  "antonyms": [
+    "cavalryman",
+    "airman"
+  ]
+}

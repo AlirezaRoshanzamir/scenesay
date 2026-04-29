@@ -1,0 +1,29 @@
+{
+  "term": "Cab",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/kæb/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A taxi; a car that you pay to take you somewhere.",
+    "The front part of a truck where the driver sits."
+  ],
+  "persianTranslation": [
+    "تاکسی",
+    "کابین راننده"
+  ],
+  "examples": [
+    "We took a cab to the airport.",
+    "Call a cab if the train is late.",
+    "The truck driver climbed into the cab."
+  ],
+  "synonyms": [
+    "taxi",
+    "taxicab",
+    "driver's compartment"
+  ],
+  "antonyms": []
+}

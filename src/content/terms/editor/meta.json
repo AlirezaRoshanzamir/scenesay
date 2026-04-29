@@ -1,0 +1,30 @@
+{
+  "term": "Editor",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈɛdɪtər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A person who prepares text, film, or other material by correcting, selecting, or arranging it.",
+    "A person in charge of a newspaper, magazine, website, or publishing project."
+  ],
+  "persianTranslation": [
+    "ویراستار",
+    "سردبیر",
+    "تدوین‌گر"
+  ],
+  "examples": [
+    "The editor checked the article for mistakes.",
+    "The editor cut several scenes from the film.",
+    "She works as an editor for a magazine."
+  ],
+  "synonyms": [
+    "proofreader",
+    "publisher",
+    "reviser"
+  ],
+  "antonyms": []
+}

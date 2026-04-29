@@ -1,0 +1,32 @@
+{
+  "term": "Improv",
+  "categories": [
+    "Informal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈɪmprɑːv/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Improvised performance, especially comedy or acting without a fixed script.",
+    "Spontaneous creation or performance without preparation."
+  ],
+  "persianTranslation": [
+    "بداهه‌پردازی",
+    "نمایش بداهه",
+    "بداهه‌گویی"
+  ],
+  "examples": [
+    "The actors did a lot of improv during rehearsal.",
+    "She joined an improv class to improve her speaking skills.",
+    "The scene was based on improv, so every performance was different."
+  ],
+  "synonyms": [
+    "improvisation",
+    "spontaneous performance"
+  ],
+  "antonyms": [
+    "scripted performance",
+    "prepared performance"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "Re Examine",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˌriː ɪɡˈzæmɪn/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "To examine again, especially carefully or in order to think about it in a new way."
+  ],
+  "persianTranslation": [
+    "دوباره بررسی کردن",
+    "بازبینی کردن",
+    "از نو ارزیابی کردن"
+  ],
+  "examples": [
+    "The scientists decided to re-examine the data.",
+    "We should re-examine our assumptions before making a decision.",
+    "The court may re-examine the case if new evidence appears."
+  ],
+  "synonyms": [
+    "review",
+    "reassess",
+    "inspect again"
+  ],
+  "antonyms": [
+    "ignore",
+    "overlook",
+    "dismiss"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "term": "Sad Fact Remains",
+  "categories": [
+    "Idiom",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/sæd fækt rɪˈmeɪnz/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": [
+    "Used to introduce or emphasize an unfortunate truth that is still true despite other information.",
+    "A shortened form of the phrase the sad fact remains."
+  ],
+  "persianTranslation": [
+    "واقعیت تلخ همچنان باقی است",
+    "حقیقت ناراحت‌کننده این است",
+    "با این حال واقعیت غم‌انگیز پابرجاست"
+  ],
+  "examples": [
+    "The sad fact remains that many animals are abandoned after the holiday.",
+    "We tried to help, but the sad fact remains that we did not have enough money.",
+    "The sad fact remains: the old building cannot be repaired safely."
+  ],
+  "synonyms": [
+    "unfortunately",
+    "the truth is",
+    "the unfortunate reality is",
+    "sadly"
+  ],
+  "antonyms": [
+    "fortunately",
+    "luckily"
+  ]
+}

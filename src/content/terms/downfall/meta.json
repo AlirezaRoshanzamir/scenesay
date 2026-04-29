@@ -1,0 +1,32 @@
+{
+  "term": "Downfall",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈdaʊnˌfɔl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the loss of power, success, or popularity",
+    "the cause of someone's failure or ruin"
+  ],
+  "persianTranslation": [
+    "سقوط",
+    "افول",
+    "نابودی"
+  ],
+  "examples": [
+    "Greed was the company's downfall.",
+    "The scandal led to his downfall.",
+    "Many historians study the downfall of empires."
+  ],
+  "synonyms": [
+    "ruin",
+    "collapse"
+  ],
+  "antonyms": [
+    "rise",
+    "success"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "Shoot",
+  "categories": [
+    "Informal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ʃuːt/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "to film or record a movie, scene, or video",
+    "to fire a gun or other weapon"
+  ],
+  "persianTranslation": [
+    "فیلم‌برداری کردن",
+    "شلیک کردن",
+    "ضبط کردن"
+  ],
+  "examples": [
+    "They will shoot the scene tomorrow morning.",
+    "The crew shot the film in New York.",
+    "Police say the suspect tried to shoot the guard."
+  ],
+  "synonyms": [
+    "film",
+    "record",
+    "fire"
+  ],
+  "antonyms": [
+    "cut",
+    "edit"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "term": "Acoustic Guitar",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/əˌkuːstɪk ɡɪˈtɑːr/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "a guitar that makes sound naturally through its hollow body, without electronic amplification"
+  ],
+  "persianTranslation": [
+    "گیتار آکوستیک",
+    "گیتار غیر برقی"
+  ],
+  "examples": [
+    "He played the acoustic guitar at the campfire.",
+    "An acoustic guitar has a warm, natural sound.",
+    "She bought a new acoustic guitar for her lessons."
+  ],
+  "synonyms": [
+    "unplugged guitar"
+  ],
+  "antonyms": [
+    "electric guitar"
+  ]
+}

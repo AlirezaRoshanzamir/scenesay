@@ -1,0 +1,40 @@
+{
+  "term": "Shelter",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈʃeltər/",
+  "partOfSpeech": "Noun; Verb",
+  "englishDefinitions": [
+    "A place that gives protection from danger, bad weather, or harm.",
+    "A temporary place for people or animals who need safety or housing.",
+    "To protect someone or something from danger, weather, or difficulty."
+  ],
+  "persianTranslation": [
+    "پناهگاه",
+    "سرپناه",
+    "محل امن",
+    "پناه دادن",
+    "محافظت کردن"
+  ],
+  "examples": [
+    "The hikers found shelter from the rain under a large tree.",
+    "Many families went to the emergency shelter after the flood.",
+    "The wall sheltered the garden from the strong wind."
+  ],
+  "synonyms": [
+    "refuge",
+    "protection",
+    "safe place",
+    "haven",
+    "protect"
+  ],
+  "antonyms": [
+    "danger",
+    "exposure",
+    "harm",
+    "abandon"
+  ]
+}

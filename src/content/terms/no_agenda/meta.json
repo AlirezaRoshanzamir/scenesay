@@ -1,0 +1,30 @@
+{
+  "term": "No Agenda",
+  "categories": [
+    "Informal",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/noʊ əˈdʒɛndə/",
+  "partOfSpeech": "Phrase",
+  "englishDefinitions": [
+    "No hidden purpose, plan, or ulterior motive."
+  ],
+  "persianTranslation": [
+    "بدون هدف پنهان",
+    "بدون نیت خاص"
+  ],
+  "examples": [
+    "I'm asking this with no agenda.",
+    "She seemed honest and had no agenda.",
+    "The meeting was informal and had no agenda."
+  ],
+  "synonyms": [
+    "no ulterior motive",
+    "without a hidden motive"
+  ],
+  "antonyms": [
+    "hidden agenda",
+    "ulterior motive"
+  ]
+}

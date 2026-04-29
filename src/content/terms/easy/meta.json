@@ -1,0 +1,37 @@
+{
+  "term": "Easy",
+  "categories": [
+    "Colloquial"
+  ],
+  "difficultyLevel": "1",
+  "pronunciation": "/ˈiːzi/",
+  "partOfSpeech": "Adjective or adverb",
+  "englishDefinitions": [
+    "Not difficult; simple to do or understand.",
+    "Comfortable, relaxed, or free from worry.",
+    "Used as a command meaning 'calm down' or 'be careful.'"
+  ],
+  "persianTranslation": [
+    "آسان",
+    "ساده",
+    "راحت",
+    "آرام باش"
+  ],
+  "examples": [
+    "This test is easy if you study.",
+    "She has an easy smile that makes people feel welcome.",
+    "Easy! Don't carry all those boxes at once."
+  ],
+  "synonyms": [
+    "simple",
+    "effortless",
+    "straightforward",
+    "relaxed"
+  ],
+  "antonyms": [
+    "difficult",
+    "hard",
+    "complicated",
+    "stressful"
+  ]
+}

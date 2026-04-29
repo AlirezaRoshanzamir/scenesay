@@ -1,0 +1,31 @@
+{
+  "term": "Here's the Thing",
+  "categories": [
+    "Idiom",
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/hɪrz ðə θɪŋ/",
+  "partOfSpeech": "Idiomatic expression",
+  "englishDefinitions": [
+    "Used to introduce the main point, problem, or explanation.",
+    "Used before giving important information or a different perspective."
+  ],
+  "persianTranslation": [
+    "مسئله این است که",
+    "نکته اینجاست که",
+    "ببین موضوع اینه که"
+  ],
+  "examples": [
+    "Here's the thing: we don’t have enough money to buy a new car.",
+    "I like the apartment, but here's the thing—it’s too far from work.",
+    "Here's the thing, I never agreed to that plan."
+  ],
+  "synonyms": [
+    "the point is",
+    "the problem is",
+    "what I mean is"
+  ],
+  "antonyms": []
+}

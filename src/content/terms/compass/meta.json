@@ -1,0 +1,25 @@
+{
+  "term": "Compass",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈkʌmpəs/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A device that shows direction by pointing to magnetic north.",
+    "A tool used for drawing circles and arcs."
+  ],
+  "persianTranslation": [
+    "قطب‌نما",
+    "پرگار"
+  ],
+  "examples": [
+    "We used a compass to find north.",
+    "A compass is useful when hiking in the mountains.",
+    "The student drew a circle with a compass."
+  ],
+  "synonyms": [],
+  "antonyms": []
+}

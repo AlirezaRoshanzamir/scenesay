@@ -1,0 +1,28 @@
+{
+  "term": "Military Tradition",
+  "categories": [
+    "Formal",
+    "Cultural Reference"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈmɪlɪteri trəˈdɪʃən/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A custom, practice, or belief that has long been part of military life.",
+    "Something passed down over time in armed forces."
+  ],
+  "persianTranslation": [
+    "سنت نظامی",
+    "آیین/رسم ارتش"
+  ],
+  "examples": [
+    "Saluting the flag is a military tradition.",
+    "The ceremony honored an old military tradition.",
+    "He spoke proudly about his family's military tradition."
+  ],
+  "synonyms": [
+    "military custom",
+    "armed forces tradition"
+  ],
+  "antonyms": []
+}

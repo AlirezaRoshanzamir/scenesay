@@ -1,0 +1,38 @@
+{
+  "term": "Set",
+  "categories": [
+    "Technical",
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/sɛt/",
+  "partOfSpeech": "Verb / Noun / Adjective",
+  "englishDefinitions": [
+    "To place something in a certain position.",
+    "To establish, arrange, or decide something.",
+    "A group of things belonging together.",
+    "Fixed or ready."
+  ],
+  "persianTranslation": [
+    "گذاشتن",
+    "تنظیم کردن",
+    "قرار دادن",
+    "مجموعه",
+    "ثابت"
+  ],
+  "examples": [
+    "Please set the book on the table.",
+    "They set a new record last year.",
+    "The dining set includes four chairs and a table."
+  ],
+  "synonyms": [
+    "place",
+    "put",
+    "establish"
+  ],
+  "antonyms": [
+    "remove",
+    "unset"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "Break In",
+  "categories": [
+    "Phrasal Verb",
+    "Informal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈbreɪk ɪn/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "To enter a building or place by force or illegally.",
+    "To interrupt a conversation or activity suddenly.",
+    "To make something new work properly through initial use or adjustment."
+  ],
+  "persianTranslation": [
+    "با زور وارد شدن / دزدی کردن",
+    "وسط حرف کسی پریدن",
+    "جا انداختن / آب‌بندی کردن"
+  ],
+  "examples": [
+    "Someone tried to break in through the back door.",
+    "Sorry to break in, but I have an urgent question.",
+    "You need to break in new shoes before wearing them all day."
+  ],
+  "synonyms": [
+    "burgle",
+    "interrupt"
+  ],
+  "antonyms": [
+    "leave alone",
+    "continue"
+  ]
+}

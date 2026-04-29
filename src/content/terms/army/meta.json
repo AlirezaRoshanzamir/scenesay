@@ -1,0 +1,29 @@
+{
+  "term": "Army",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈɑːrmi/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the part of a country's military that fights on land",
+    "a large organized group of people"
+  ],
+  "persianTranslation": [
+    "ارتش",
+    "نیروی زمینی",
+    "لشکر"
+  ],
+  "examples": [
+    "He joined the army after college.",
+    "The army was sent to the border.",
+    "An army of volunteers cleaned up the park."
+  ],
+  "synonyms": [
+    "military",
+    "land forces",
+    "troops"
+  ],
+  "antonyms": []
+}

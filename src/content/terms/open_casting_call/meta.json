@@ -1,0 +1,31 @@
+{
+  "term": "Open Casting Call",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌoʊpən ˈkæstɪŋ kɔːl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An audition event that anyone can attend to try out for a role in a film, play, or TV show.",
+    "A public announcement inviting actors to audition."
+  ],
+  "persianTranslation": [
+    "فراخوان عمومی بازیگری",
+    "دعوت عمومی برای تست بازیگری"
+  ],
+  "examples": [
+    "Thousands of people came to the open casting call.",
+    "The studio announced an open casting call for young actors.",
+    "She got her first role after attending an open casting call."
+  ],
+  "synonyms": [
+    "open audition",
+    "public audition"
+  ],
+  "antonyms": [
+    "private audition",
+    "closed casting call"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "Key Plot Word",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "8",
+  "pronunciation": "/kiː plɑt wɝːd/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "An important word in a story that carries major meaning for the plot.",
+    "A word that helps reveal or drive the main events of a narrative."
+  ],
+  "persianTranslation": [
+    "واژهٔ کلیدیِ داستان",
+    "کلمهٔ مهمِ طرح داستان",
+    "واژهٔ محوریِ خط داستانی"
+  ],
+  "examples": [
+    "The detective noticed a key plot word in the ransom note.",
+    "In class, we discussed the key plot words that reveal the theme.",
+    "The author repeats one key plot word throughout the story."
+  ],
+  "synonyms": [
+    "important keyword",
+    "central term",
+    "plot-related word"
+  ],
+  "antonyms": [
+    "minor detail",
+    "irrelevant word"
+  ]
+}

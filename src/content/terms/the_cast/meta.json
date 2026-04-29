@@ -1,0 +1,34 @@
+{
+  "term": "The Cast",
+  "categories": [
+    "Technical",
+    "Cultural Reference"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ðə kæst/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "The group of actors in a movie, play, TV show, or performance.",
+    "All the performers who play roles in a production."
+  ],
+  "persianTranslation": [
+    "بازیگران",
+    "گروه بازیگران",
+    "اعضای بازیگر یک نمایش یا فیلم"
+  ],
+  "examples": [
+    "The cast of the show became very famous.",
+    "After the play, the cast came out to bow.",
+    "The movie has a talented cast."
+  ],
+  "synonyms": [
+    "actors",
+    "performers",
+    "ensemble",
+    "players"
+  ],
+  "antonyms": [
+    "audience",
+    "viewers"
+  ]
+}

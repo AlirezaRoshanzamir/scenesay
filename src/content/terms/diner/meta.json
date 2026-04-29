@@ -1,0 +1,30 @@
+{
+  "term": "Diner",
+  "categories": [
+    "Cultural Reference",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈdaɪnər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A small, informal restaurant, especially one in the United States, often serving breakfast, sandwiches, coffee, and simple meals.",
+    "A person who is eating a meal, especially in a restaurant."
+  ],
+  "persianTranslation": [
+    "رستوران کوچک و غیررسمی",
+    "غذاخوری",
+    "کسی که در رستوران غذا می‌خورد"
+  ],
+  "examples": [
+    "We stopped at a diner for pancakes and coffee.",
+    "The diner near my office is open twenty-four hours a day.",
+    "The waiter asked each diner what they wanted to drink."
+  ],
+  "synonyms": [
+    "restaurant",
+    "café",
+    "eatery"
+  ],
+  "antonyms": []
+}

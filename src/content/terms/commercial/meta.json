@@ -1,0 +1,38 @@
+{
+  "term": "Commercial",
+  "categories": [
+    "Academic",
+    "Technical",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/kəˈmɝːʃəl/",
+  "partOfSpeech": "Noun, Adjective",
+  "englishDefinitions": [
+    "As a noun, an advertisement on television, radio, or online.",
+    "As an adjective, related to business, trade, or making money.",
+    "Designed to sell products or appeal to a large audience."
+  ],
+  "persianTranslation": [
+    "آگهی تبلیغاتی",
+    "تبلیغ تلویزیونی",
+    "تجاری",
+    "بازرگانی"
+  ],
+  "examples": [
+    "I changed the channel during the commercial.",
+    "The company made a funny commercial for its new phone.",
+    "The project has strong commercial value."
+  ],
+  "synonyms": [
+    "advertisement",
+    "ad",
+    "promo",
+    "business-related"
+  ],
+  "antonyms": [
+    "noncommercial",
+    "public-service",
+    "artistic"
+  ]
+}

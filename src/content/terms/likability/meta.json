@@ -1,0 +1,33 @@
+{
+  "term": "Likability",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌlaɪkəˈbɪləti/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the quality of being pleasant, friendly, and easy to like",
+    "how much other people like someone"
+  ],
+  "persianTranslation": [
+    "دوست‌داشتنی بودن",
+    "مقبولیت",
+    "جذابیت شخصیتی"
+  ],
+  "examples": [
+    "Her likability helped her win the election.",
+    "The actor is known for his likability and warmth.",
+    "Charisma can increase a speaker's likability."
+  ],
+  "synonyms": [
+    "charm",
+    "appeal",
+    "popularity"
+  ],
+  "antonyms": [
+    "unlikability",
+    "unpleasantness",
+    "unpopularity"
+  ]
+}

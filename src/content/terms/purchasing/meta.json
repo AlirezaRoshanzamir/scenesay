@@ -1,0 +1,35 @@
+{
+  "term": "Purchasing",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈpɝːtʃəsɪŋ/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "The act or process of buying goods or services.",
+    "The department or activity in an organization responsible for buying supplies.",
+    "Present participle of “purchase,” meaning buying."
+  ],
+  "persianTranslation": [
+    "خرید",
+    "فرآیند خرید",
+    "تدارکات",
+    "خریداری کردن"
+  ],
+  "examples": [
+    "Online purchasing has become very common.",
+    "She works in the purchasing department of a hospital.",
+    "The company is purchasing new computers for the office."
+  ],
+  "synonyms": [
+    "buying",
+    "procurement",
+    "acquisition"
+  ],
+  "antonyms": [
+    "selling",
+    "sale"
+  ]
+}

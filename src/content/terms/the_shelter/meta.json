@@ -1,0 +1,34 @@
+{
+  "term": "The Shelter",
+  "categories": [
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ðə ˈʃeltər/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A place that gives temporary protection, housing, or care to people or animals.",
+    "An animal shelter where lost, abandoned, or homeless animals are kept and cared for.",
+    "A building or organization that provides safety for people in need."
+  ],
+  "persianTranslation": [
+    "پناهگاه",
+    "سرپناه",
+    "مرکز نگهداری حیوانات بی‌سرپرست"
+  ],
+  "examples": [
+    "We adopted our dog from the shelter.",
+    "The shelter provides food and beds for people without homes.",
+    "She volunteers at the shelter every weekend."
+  ],
+  "synonyms": [
+    "refuge",
+    "sanctuary",
+    "safe place",
+    "rescue center"
+  ],
+  "antonyms": [
+    "danger",
+    "exposure"
+  ]
+}

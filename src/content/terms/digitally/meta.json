@@ -1,0 +1,30 @@
+{
+  "term": "Digitally",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈdɪdʒɪtəli/",
+  "partOfSpeech": "Adverb",
+  "englishDefinitions": [
+    "Using computer technology or electronic data."
+  ],
+  "persianTranslation": [
+    "به‌صورت دیجیتال",
+    "به‌طور رایانه‌ای"
+  ],
+  "examples": [
+    "The image was digitally enhanced.",
+    "She signed the form digitally.",
+    "Many books are now stored digitally."
+  ],
+  "synonyms": [
+    "electronically",
+    "using computers"
+  ],
+  "antonyms": [
+    "manually",
+    "physically"
+  ]
+}

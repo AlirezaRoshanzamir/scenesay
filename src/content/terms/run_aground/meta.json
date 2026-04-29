@@ -1,0 +1,34 @@
+{
+  "term": "Run Aground",
+  "categories": [
+    "Phrasal Verb",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/rʌn əˈɡraʊnd/",
+  "partOfSpeech": "Phrasal Verb",
+  "englishDefinitions": [
+    "For a ship or boat to hit the bottom of the sea or shore and be unable to move freely.",
+    "To fail or stop making progress."
+  ],
+  "persianTranslation": [
+    "به گل نشستن",
+    "دچار شکست شدن",
+    "متوقف شدن"
+  ],
+  "examples": [
+    "The ship ran aground near the harbor.",
+    "Their plans ran aground because of a lack of funding.",
+    "The boat ran aground during the storm."
+  ],
+  "synonyms": [
+    "be stranded",
+    "get stuck",
+    "founder"
+  ],
+  "antonyms": [
+    "set sail",
+    "progress",
+    "move forward"
+  ]
+}

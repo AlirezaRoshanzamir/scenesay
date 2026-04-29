@@ -1,0 +1,29 @@
+{
+  "term": "digital imagery",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈdɪdʒɪtl ˈɪmɪdʒəri/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Pictures, visual content, or representations created, stored, or processed using digital technology."
+  ],
+  "persianTranslation": [
+    "تصاویر دیجیتال",
+    "تصویرسازی دیجیتال",
+    "داده‌های تصویری دیجیتال"
+  ],
+  "examples": [
+    "The report uses digital imagery to compare land use over time.",
+    "Digital imagery has changed the way films are made.",
+    "Satellite digital imagery helped the scientists track the storm."
+  ],
+  "synonyms": [
+    "digital images",
+    "computer-generated imagery",
+    "digital visuals"
+  ],
+  "antonyms": []
+}

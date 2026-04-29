@@ -1,0 +1,30 @@
+{
+  "term": "Refrigerator",
+  "categories": [
+    "Technical",
+    "Colloquial"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/rɪˈfrɪdʒəreɪtər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An electrical appliance that keeps food and drinks cold.",
+    "A fridge."
+  ],
+  "persianTranslation": [
+    "یخچال"
+  ],
+  "examples": [
+    "Please put the milk back in the refrigerator.",
+    "Our refrigerator stopped working during the night.",
+    "There is some leftover pizza in the refrigerator."
+  ],
+  "synonyms": [
+    "fridge",
+    "icebox"
+  ],
+  "antonyms": [
+    "oven",
+    "heater"
+  ]
+}

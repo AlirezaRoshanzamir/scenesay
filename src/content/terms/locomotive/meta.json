@@ -1,0 +1,27 @@
+{
+  "term": "Locomotive",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌloʊkəˈmoʊtɪv/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A rail vehicle that provides power for a train."
+  ],
+  "persianTranslation": [
+    "لوکوموتیو",
+    "موتور قطار"
+  ],
+  "examples": [
+    "The locomotive pulled several passenger cars.",
+    "Steam locomotives are popular in museums and history books.",
+    "The locomotive stopped at the station for repairs."
+  ],
+  "synonyms": [
+    "engine",
+    "train engine"
+  ],
+  "antonyms": []
+}

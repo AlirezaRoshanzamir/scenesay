@@ -1,0 +1,32 @@
+{
+  "term": "Digital Effects",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈdɪdʒɪtl ɪˈfɛkts/",
+  "partOfSpeech": "Noun Phrase",
+  "englishDefinitions": [
+    "Visual or audio effects created using computer technology, especially in film, television, or games."
+  ],
+  "persianTranslation": [
+    "جلوه‌های دیجیتال",
+    "افکت‌های رایانه‌ای",
+    "جلوه‌های ویژه دیجیتالی"
+  ],
+  "examples": [
+    "The movie used digital effects to create the monster.",
+    "Digital effects made the scene look very realistic.",
+    "The studio spent millions on digital effects."
+  ],
+  "synonyms": [
+    "computer-generated effects",
+    "CG effects",
+    "special effects"
+  ],
+  "antonyms": [
+    "practical effects",
+    "real-world effects"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "term": "Damaged",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈdæmɪdʒd/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Hurt, broken, or made less good or useful.",
+    "Affected in a harmful way."
+  ],
+  "persianTranslation": [
+    "آسیب‌دیده",
+    "خراب",
+    "صدمه‌دیده"
+  ],
+  "examples": [
+    "The package arrived damaged.",
+    "His reputation was damaged by the scandal.",
+    "The storm left several damaged buildings behind."
+  ],
+  "synonyms": [
+    "broken",
+    "hurt",
+    "injured"
+  ],
+  "antonyms": [
+    "intact",
+    "undamaged",
+    "unhurt"
+  ]
+}

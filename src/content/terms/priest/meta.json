@@ -1,0 +1,33 @@
+{
+  "term": "Priest",
+  "categories": [
+    "Cultural Reference",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/priːst/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A religious leader who performs ceremonies and services, especially in Christian churches.",
+    "A person authorized to lead worship or perform sacred duties in some religions."
+  ],
+  "persianTranslation": [
+    "کشیش",
+    "روحانی",
+    "کاهن"
+  ],
+  "examples": [
+    "The priest led the Sunday service.",
+    "They asked the priest to bless the marriage.",
+    "In ancient societies, a priest often performed important religious rituals."
+  ],
+  "synonyms": [
+    "clergyman",
+    "minister",
+    "pastor",
+    "cleric"
+  ],
+  "antonyms": [
+    "layperson"
+  ]
+}

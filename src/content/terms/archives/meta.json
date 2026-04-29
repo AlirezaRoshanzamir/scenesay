@@ -1,0 +1,30 @@
+{
+  "term": "Archives",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈɑːrkaɪvz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a place or collection where historical records and documents are kept",
+    "stored records, files, or footage kept for future reference"
+  ],
+  "persianTranslation": [
+    "آرشیو",
+    "بایگانی",
+    "مخزن اسناد"
+  ],
+  "examples": [
+    "The letters are kept in the national archives.",
+    "She searched the archives for old newspaper articles.",
+    "The archives contain valuable historical records."
+  ],
+  "synonyms": [
+    "records",
+    "repository",
+    "collection"
+  ],
+  "antonyms": []
+}

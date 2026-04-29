@@ -1,0 +1,26 @@
+{
+  "term": "TV News",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˌtiːˈviː njuːz/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "News programs broadcast on television."
+  ],
+  "persianTranslation": [
+    "اخبار تلویزیونی",
+    "خبرهای تلویزیون"
+  ],
+  "examples": [
+    "I saw the report on TV news last night.",
+    "TV news covered the storm all day.",
+    "My parents still watch TV news every evening."
+  ],
+  "synonyms": [
+    "television news",
+    "news broadcast"
+  ],
+  "antonyms": []
+}

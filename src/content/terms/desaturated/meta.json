@@ -1,0 +1,34 @@
+{
+  "term": "Desaturated",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˌdiːˈsætʃəreɪtɪd/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Having reduced color intensity; less vivid or less saturated."
+  ],
+  "persianTranslation": [
+    "کم‌رنگ",
+    "کم‌اشباع",
+    "بی‌رنگ‌تر",
+    "رنگ‌پریده"
+  ],
+  "examples": [
+    "The photo looks desaturated, with very muted colors.",
+    "She edited the image to make it more desaturated.",
+    "A desaturated background can help the subject stand out."
+  ],
+  "synonyms": [
+    "muted",
+    "washed out",
+    "less vivid"
+  ],
+  "antonyms": [
+    "saturated",
+    "vivid",
+    "bright"
+  ]
+}

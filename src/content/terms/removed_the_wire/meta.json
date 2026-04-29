@@ -1,0 +1,33 @@
+{
+  "term": "Removed the Wire",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/rɪˈmuːvd ðə waɪər/",
+  "partOfSpeech": "Phrase",
+  "englishDefinitions": [
+    "took away a wire or cable from something",
+    "disconnected a wire"
+  ],
+  "persianTranslation": [
+    "سیم را برداشت",
+    "سیم را جدا کرد",
+    "سیم‌کشی را قطع کرد"
+  ],
+  "examples": [
+    "He removed the wire before opening the panel.",
+    "The technician removed the wire and checked the connection.",
+    "She removed the wire to stop the machine from short-circuiting."
+  ],
+  "synonyms": [
+    "disconnected the wire",
+    "unplugged",
+    "detached"
+  ],
+  "antonyms": [
+    "attached the wire",
+    "connected",
+    "wired"
+  ]
+}

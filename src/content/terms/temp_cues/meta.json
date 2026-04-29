@@ -1,0 +1,29 @@
+{
+  "term": "Temp Cues",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/tɛmp kjuːz/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Temporary pieces of music or sound placed in a project before the final cues are created."
+  ],
+  "persianTranslation": [
+    "کِیوهای موقت",
+    "نشانگرهای موسیقی موقت"
+  ],
+  "examples": [
+    "The director used temp cues during editing.",
+    "Temp cues helped the team judge the timing.",
+    "The final score replaced the temp cues."
+  ],
+  "synonyms": [
+    "temporary cues",
+    "placeholder cues"
+  ],
+  "antonyms": [
+    "final cues",
+    "finished cues"
+  ]
+}

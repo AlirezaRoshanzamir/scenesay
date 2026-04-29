@@ -1,0 +1,30 @@
+{
+  "term": "Heritage",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈhɛrɪtɪdʒ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The history, traditions, language, and culture passed down from earlier generations.",
+    "Something valuable that is inherited from the past."
+  ],
+  "persianTranslation": [
+    "میراث",
+    "ارث فرهنگی",
+    "سنت‌های به‌جا مانده"
+  ],
+  "examples": [
+    "The museum celebrates local heritage.",
+    "Language is an important part of cultural heritage.",
+    "They are proud of their family heritage."
+  ],
+  "synonyms": [
+    "legacy",
+    "tradition",
+    "inheritance"
+  ],
+  "antonyms": []
+}

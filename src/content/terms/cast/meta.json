@@ -1,0 +1,37 @@
+{
+  "term": "Cast",
+  "categories": [
+    "Technical",
+    "Academic",
+    "Colloquial"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/kæst/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "As a noun, the actors in a movie, play, or television show.",
+    "As a verb, to choose actors for roles in a production.",
+    "As a verb, to throw something, especially in a particular direction.",
+    "As a noun, a hard covering used to protect a broken bone while it heals."
+  ],
+  "persianTranslation": [
+    "بازیگران",
+    "گروه بازیگران",
+    "انتخاب بازیگر کردن",
+    "پرتاب کردن",
+    "گچ یا قالب پزشکی"
+  ],
+  "examples": [
+    "The cast of the show became very famous.",
+    "The director cast her as the main character.",
+    "He had a cast on his arm for six weeks."
+  ],
+  "synonyms": [
+    "actors",
+    "ensemble",
+    "select",
+    "throw",
+    "plaster cast"
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,35 @@
+{
+  "term": "Out of Order",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/aʊt əv ˈɔːrdər/",
+  "partOfSpeech": "Adjective Phrase",
+  "englishDefinitions": [
+    "Not working properly.",
+    "Unavailable for use because of a problem or breakdown."
+  ],
+  "persianTranslation": [
+    "خراب",
+    "از کار افتاده",
+    "معیوب",
+    "خارج از سرویس"
+  ],
+  "examples": [
+    "The elevator is out of order today.",
+    "Sorry, the printer is out of order.",
+    "The vending machine has been out of order for weeks."
+  ],
+  "synonyms": [
+    "broken",
+    "not working",
+    "malfunctioning"
+  ],
+  "antonyms": [
+    "working",
+    "operational",
+    "functional"
+  ]
+}

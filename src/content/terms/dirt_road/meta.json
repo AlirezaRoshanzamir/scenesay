@@ -1,0 +1,29 @@
+{
+  "term": "Dirt Road",
+  "categories": [
+    "Colloquial"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈdɝːt roʊd/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a road made of packed earth or soil rather than asphalt or concrete"
+  ],
+  "persianTranslation": [
+    "جاده خاکی",
+    "راه خاکی"
+  ],
+  "examples": [
+    "We drove down a dirt road to reach the farm.",
+    "The dirt road became muddy after the rain.",
+    "A dirt road led to the small cabin in the woods."
+  ],
+  "synonyms": [
+    "unpaved road",
+    "mud road"
+  ],
+  "antonyms": [
+    "paved road",
+    "asphalt road"
+  ]
+}

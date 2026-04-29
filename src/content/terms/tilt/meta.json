@@ -1,0 +1,35 @@
+{
+  "term": "Tilt",
+  "categories": [
+    "Technical",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/tɪlt/",
+  "partOfSpeech": "Verb / Noun",
+  "englishDefinitions": [
+    "To move or make something slant to one side; to lean.",
+    "To have a slight angle instead of being level.",
+    "A sloping position or angle."
+  ],
+  "persianTranslation": [
+    "کج کردن",
+    "به یک طرف خم شدن",
+    "شیب",
+    "زاویه"
+  ],
+  "examples": [
+    "Please tilt the camera slightly to the left.",
+    "The lamp was tilted toward the table.",
+    "The roof has a slight tilt."
+  ],
+  "synonyms": [
+    "slant",
+    "lean",
+    "angle"
+  ],
+  "antonyms": [
+    "level",
+    "straighten"
+  ]
+}

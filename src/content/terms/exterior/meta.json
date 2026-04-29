@@ -1,0 +1,31 @@
+{
+  "term": "Exterior",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ɪkˈstɪriər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the outside part or outer surface of something, such as a building or vehicle"
+  ],
+  "persianTranslation": [
+    "نمای بیرونی",
+    "بیرون",
+    "خارج"
+  ],
+  "examples": [
+    "The exterior of the house was painted white.",
+    "We only saw the exterior of the museum.",
+    "The car's exterior was scratched in the accident."
+  ],
+  "synonyms": [
+    "outside",
+    "outer surface"
+  ],
+  "antonyms": [
+    "interior",
+    "inside"
+  ]
+}

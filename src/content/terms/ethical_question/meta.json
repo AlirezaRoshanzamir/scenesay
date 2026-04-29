@@ -1,0 +1,27 @@
+{
+  "term": "Ethical Question",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈɛθɪkəl ˈkwɛsʧən/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A question about what is right and wrong, or what is morally acceptable."
+  ],
+  "persianTranslation": [
+    "سؤال اخلاقی",
+    "مسئلهٔ اخلاقی"
+  ],
+  "examples": [
+    "The use of AI in medicine raises an ethical question.",
+    "This decision is not only legal but also an ethical question.",
+    "The movie presents an ethical question about truth and loyalty."
+  ],
+  "synonyms": [
+    "moral issue",
+    "ethical issue"
+  ],
+  "antonyms": []
+}

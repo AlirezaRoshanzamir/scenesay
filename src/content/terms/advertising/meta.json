@@ -1,0 +1,29 @@
+{
+  "term": "Advertising",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈædvərtaɪzɪŋ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The business or act of making products, services, or ideas known to the public through paid messages."
+  ],
+  "persianTranslation": [
+    "تبلیغات",
+    "آگهی‌سازی"
+  ],
+  "examples": [
+    "Advertising on social media can reach millions of people.",
+    "The company reduced its advertising budget.",
+    "Advertising often tries to influence consumers' choices."
+  ],
+  "synonyms": [
+    "promotion",
+    "commercials",
+    "publicity"
+  ],
+  "antonyms": []
+}

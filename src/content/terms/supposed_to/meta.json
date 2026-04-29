@@ -1,0 +1,36 @@
+{
+  "term": "Supposed To",
+  "categories": [
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/səˈpoʊzd tə/",
+  "partOfSpeech": "Modal-like phrase",
+  "englishDefinitions": [
+    "Expected or required to do something.",
+    "Intended or planned to happen.",
+    "Believed or said to be true, though not always certain."
+  ],
+  "persianTranslation": [
+    "قرار است",
+    "باید",
+    "انتظار می‌رود",
+    "گفته می‌شود که"
+  ],
+  "examples": [
+    "You are supposed to finish the report by Friday.",
+    "The train is supposed to arrive at six.",
+    "This restaurant is supposed to be very good."
+  ],
+  "synonyms": [
+    "expected to",
+    "meant to",
+    "required to",
+    "intended to"
+  ],
+  "antonyms": [
+    "not expected to",
+    "not required to",
+    "forbidden to"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "term": "Picked Up",
+  "categories": [
+    "Phrasal Verb",
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˌpɪkt ˈʌp/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "lifted or taken up from a surface",
+    "collected someone or something in a vehicle",
+    "learned or acquired something informally or by chance",
+    "improved or became faster or stronger"
+  ],
+  "persianTranslation": [
+    "برداشته شد",
+    "سوار کرد",
+    "یاد گرفت",
+    "بهبود یافت"
+  ],
+  "examples": [
+    "She picked up the book and put it on the table.",
+    "I picked him up after class.",
+    "He picked up some Spanish while living in Mexico."
+  ],
+  "synonyms": [
+    "collected",
+    "lifted",
+    "learned",
+    "improved"
+  ],
+  "antonyms": [
+    "put down",
+    "dropped",
+    "left"
+  ]
+}

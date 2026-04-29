@@ -1,0 +1,35 @@
+{
+  "term": "Experimentation",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ɪkˌspɛrɪmɛnˈteɪʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The process of trying different ideas, methods, or activities to see what works best.",
+    "The use of scientific experiments to study or test something."
+  ],
+  "persianTranslation": [
+    "آزمایش‌گری",
+    "تجربه‌کردن",
+    "آزمایش"
+  ],
+  "examples": [
+    "The school encourages experimentation in the science lab.",
+    "Art often develops through experimentation with new materials.",
+    "Medical experimentation must follow strict ethical rules."
+  ],
+  "synonyms": [
+    "testing",
+    "trial",
+    "research",
+    "trial and error"
+  ],
+  "antonyms": [
+    "certainty",
+    "routine",
+    "certainty of method"
+  ]
+}

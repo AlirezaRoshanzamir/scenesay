@@ -1,0 +1,39 @@
+{
+  "term": "Come Out",
+  "categories": [
+    "Phrasal Verb",
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/kʌm aʊt/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "To leave a place and appear outside or in public.",
+    "To become known or be published.",
+    "To openly tell people something personal, especially one's sexual orientation or identity."
+  ],
+  "persianTranslation": [
+    "بیرون آمدن",
+    "منتشر شدن",
+    "آشکار شدن",
+    "آشکارا بیان کردن هویت شخصی یا گرایش جنسی"
+  ],
+  "examples": [
+    "The sun came out after the storm.",
+    "Her new book is coming out next month.",
+    "He came out to his family when he felt ready."
+  ],
+  "synonyms": [
+    "appear",
+    "emerge",
+    "be published",
+    "reveal oneself"
+  ],
+  "antonyms": [
+    "go in",
+    "disappear",
+    "hide",
+    "conceal"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "term": "Sequence",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈsiːkwəns/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a set of things, events, or numbers arranged in a particular order",
+    "a series of related scenes in a film, play, or story"
+  ],
+  "persianTranslation": [
+    "دنباله",
+    "ترتیب",
+    "رشته",
+    "سکانس"
+  ],
+  "examples": [
+    "The events happened in the correct sequence.",
+    "The opening sequence of the film was very dramatic.",
+    "Scientists studied the DNA sequence."
+  ],
+  "synonyms": [
+    "order",
+    "series",
+    "arrangement"
+  ],
+  "antonyms": [
+    "disorder",
+    "randomness"
+  ]
+}

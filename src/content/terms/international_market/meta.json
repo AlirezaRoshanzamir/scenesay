@@ -1,0 +1,30 @@
+{
+  "term": "International Market",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌɪntərˈnæʃənl ˈmɑːrkɪt/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "The market for goods, services, or products in countries outside one's own.",
+    "The global or worldwide market."
+  ],
+  "persianTranslation": [
+    "بازار بین‌المللی",
+    "بازار جهانی"
+  ],
+  "examples": [
+    "The company hopes to expand into the international market.",
+    "Competition in the international market is very strong.",
+    "Their product was designed for the international market from the start."
+  ],
+  "synonyms": [
+    "global market",
+    "world market"
+  ],
+  "antonyms": [
+    "domestic market"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "term": "Fable",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈfeɪbəl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A short story, often with animals as characters, that teaches a moral lesson.",
+    "A story that is not literally true but conveys a lesson or meaning."
+  ],
+  "persianTranslation": [
+    "افسانهٔ اخلاقی",
+    "حکایت",
+    "داستان تمثیلی"
+  ],
+  "examples": [
+    "Aesop's fables are still read by children today.",
+    "The novel reads like a modern fable about greed and power.",
+    "Each fable in the collection ends with a clear moral."
+  ],
+  "synonyms": [
+    "parable",
+    "allegory"
+  ],
+  "antonyms": []
+}

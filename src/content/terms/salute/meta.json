@@ -1,0 +1,33 @@
+{
+  "term": "Salute",
+  "categories": [
+    "Formal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/səˈluːt/",
+  "partOfSpeech": "Verb / Noun",
+  "englishDefinitions": [
+    "To raise the hand or make a formal gesture as a sign of respect.",
+    "To honor or show respect to someone or something."
+  ],
+  "persianTranslation": [
+    "سلام نظامی دادن",
+    "ادای احترام کردن",
+    "احترام گذاشتن"
+  ],
+  "examples": [
+    "The soldiers saluted the flag.",
+    "She saluted her teacher with a smile.",
+    "We salute the workers for their hard work."
+  ],
+  "synonyms": [
+    "honor",
+    "greet respectfully",
+    "pay tribute to"
+  ],
+  "antonyms": [
+    "disrespect",
+    "ignore"
+  ]
+}

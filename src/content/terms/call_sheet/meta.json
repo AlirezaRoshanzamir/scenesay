@@ -1,0 +1,29 @@
+{
+  "term": "Call Sheet",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈkɔːl ʃiːt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A daily production document for film or television that lists who should be where and when, along with important schedule and contact details."
+  ],
+  "persianTranslation": [
+    "برگه تماس",
+    "برنامه روزانه فیلم‌برداری",
+    "فهرست فراخوان"
+  ],
+  "examples": [
+    "The assistant director sent out the call sheet last night.",
+    "According to the call sheet, our call time is 6 a.m.",
+    "Every crew member needs a copy of the call sheet."
+  ],
+  "synonyms": [
+    "shooting schedule",
+    "production schedule",
+    "daily call list"
+  ],
+  "antonyms": []
+}

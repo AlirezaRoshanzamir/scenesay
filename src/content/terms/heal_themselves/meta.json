@@ -1,0 +1,34 @@
+{
+  "term": "Heal Themselves",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/hiːl ðəmˈsɛlvz/",
+  "partOfSpeech": "Verb Phrase",
+  "englishDefinitions": [
+    "To recover or become healthy again by themselves.",
+    "To improve or repair themselves without outside help."
+  ],
+  "persianTranslation": [
+    "خودشان را درمان کردن",
+    "خودبه‌خود بهبود یافتن",
+    "خودشان خوب شدن"
+  ],
+  "examples": [
+    "Many minor cuts heal themselves within a few days.",
+    "Some communities need time to heal themselves after conflict.",
+    "The body can often heal themselves after a small injury."
+  ],
+  "synonyms": [
+    "recover",
+    "mend",
+    "get better"
+  ],
+  "antonyms": [
+    "worsen",
+    "decline",
+    "deteriorate"
+  ]
+}

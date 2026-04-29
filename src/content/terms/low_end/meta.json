@@ -1,0 +1,30 @@
+{
+  "term": "Low End",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈloʊ ˌɛnd/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The lower range of sound frequencies, or the part of audio that contains deep bass sounds."
+  ],
+  "persianTranslation": [
+    "بازهٔ فرکانس‌های پایین",
+    "بیسِ صدا"
+  ],
+  "examples": [
+    "The mix needs more low end.",
+    "This speaker produces strong low end.",
+    "The engineer boosted the low end on the track."
+  ],
+  "synonyms": [
+    "bass range",
+    "bass frequencies"
+  ],
+  "antonyms": [
+    "high end",
+    "treble"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "Survive",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/sərˈvaɪv/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "to continue to live or exist after an event that could have caused death or destruction",
+    "to remain alive or continue functioning after a difficult situation"
+  ],
+  "persianTranslation": [
+    "زنده ماندن",
+    "جان سالم به در بردن",
+    "دوام آوردن"
+  ],
+  "examples": [
+    "Only a few animals can survive in the desert.",
+    "He survived the car accident with minor injuries.",
+    "Small businesses often struggle to survive during a recession."
+  ],
+  "synonyms": [
+    "live",
+    "endure",
+    "outlast"
+  ],
+  "antonyms": [
+    "die",
+    "perish",
+    "succumb"
+  ]
+}

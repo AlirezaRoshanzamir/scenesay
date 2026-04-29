@@ -1,0 +1,33 @@
+{
+  "term": "Momentum",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/moʊˈmen.təm/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the force or speed of a moving object",
+    "the energy and strength that keep a process or movement developing"
+  ],
+  "persianTranslation": [
+    "تکانه",
+    "شتاب و نیروی پیش‌برنده",
+    "روند پیشرفت"
+  ],
+  "examples": [
+    "The car gained momentum as it went downhill.",
+    "The campaign is starting to build momentum.",
+    "We need to keep the project moving with momentum."
+  ],
+  "synonyms": [
+    "impetus",
+    "drive",
+    "force"
+  ],
+  "antonyms": [
+    "stagnation",
+    "inertia"
+  ]
+}

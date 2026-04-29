@@ -1,0 +1,34 @@
+{
+  "term": "Signed On",
+  "categories": [
+    "Phrasal Verb",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/saɪnd ɒn/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "Agreed to take part in a project, job, or plan by signing a contract or agreement.",
+    "Registered or logged in to a computer system or service."
+  ],
+  "persianTranslation": [
+    "قرارداد بستن",
+    "ثبت‌نام کردن",
+    "وارد شدن"
+  ],
+  "examples": [
+    "The actor signed on for three more films.",
+    "She signed on with a new agency last week.",
+    "I signed on to the website with my email address."
+  ],
+  "synonyms": [
+    "agreed",
+    "enlisted",
+    "registered"
+  ],
+  "antonyms": [
+    "quit",
+    "withdrawn",
+    "logged out"
+  ]
+}

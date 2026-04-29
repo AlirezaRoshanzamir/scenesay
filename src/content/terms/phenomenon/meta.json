@@ -1,0 +1,30 @@
+{
+  "term": "Phenomenon",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/fəˈnɑːmɪnən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An event or fact that is observed and can be studied.",
+    "Something unusual, remarkable, or very popular."
+  ],
+  "persianTranslation": [
+    "پدیده",
+    "رخداد",
+    "امر شگفت‌انگیز"
+  ],
+  "examples": [
+    "The northern lights are a natural phenomenon.",
+    "The singer became a global phenomenon.",
+    "This social phenomenon is hard to explain."
+  ],
+  "synonyms": [
+    "event",
+    "occurrence",
+    "trend"
+  ],
+  "antonyms": []
+}

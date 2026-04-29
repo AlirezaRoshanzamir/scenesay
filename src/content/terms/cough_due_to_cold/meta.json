@@ -1,0 +1,27 @@
+{
+  "term": "Cough due to cold",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/kɔːf djuː tuː koʊld/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "a cough caused by having a cold"
+  ],
+  "persianTranslation": [
+    "سرفه به‌خاطر سرماخوردگی",
+    "سرفهٔ ناشی از سرماخوردگی"
+  ],
+  "examples": [
+    "He had a cough due to a cold.",
+    "The doctor said the cough was due to cold symptoms.",
+    "A cough due to cold often gets better in a few days."
+  ],
+  "synonyms": [
+    "cold-related cough",
+    "viral cough"
+  ],
+  "antonyms": []
+}

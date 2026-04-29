@@ -1,0 +1,33 @@
+{
+  "term": "Take Place",
+  "categories": [
+    "Phrasal Verb",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/teɪk pleɪs/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "to happen or occur",
+    "to be held or scheduled at a specific time or place"
+  ],
+  "persianTranslation": [
+    "رخ دادن",
+    "اتفاق افتادن",
+    "برگزار شدن"
+  ],
+  "examples": [
+    "The meeting will take place tomorrow.",
+    "The ceremony took place at the city hall.",
+    "These events take place every summer."
+  ],
+  "synonyms": [
+    "happen",
+    "occur",
+    "be held"
+  ],
+  "antonyms": [
+    "stop",
+    "end"
+  ]
+}

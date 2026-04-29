@@ -1,0 +1,33 @@
+{
+  "term": "Piloted",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈpaɪlətɪd/",
+  "partOfSpeech": "Verb (past tense/past participle)",
+  "englishDefinitions": [
+    "Drove or controlled an aircraft, ship, or spacecraft.",
+    "Led, guided, or managed a project, vehicle, or program."
+  ],
+  "persianTranslation": [
+    "هدایت کرد",
+    "خلبانی کرد",
+    "رهبری/مدیریت کرد"
+  ],
+  "examples": [
+    "She piloted the plane through the storm.",
+    "The engineer piloted a new system for the company.",
+    "He piloted the spacecraft into orbit."
+  ],
+  "synonyms": [
+    "guided",
+    "led",
+    "flew"
+  ],
+  "antonyms": [
+    "abandoned",
+    "misdirected"
+  ]
+}

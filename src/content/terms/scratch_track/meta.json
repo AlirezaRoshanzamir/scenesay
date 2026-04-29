@@ -1,0 +1,29 @@
+{
+  "term": "Scratch Track",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/skrætʃ træk/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A rough temporary recording used as a guide before the final recording is made."
+  ],
+  "persianTranslation": [
+    "تراک موقت",
+    "ضبط آزمایشی"
+  ],
+  "examples": [
+    "The singer recorded a scratch track before the final session.",
+    "We used a scratch track to plan the scene.",
+    "The composer replaced the scratch track later."
+  ],
+  "synonyms": [
+    "guide track",
+    "demo track"
+  ],
+  "antonyms": [
+    "final track",
+    "master track"
+  ]
+}

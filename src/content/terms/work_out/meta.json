@@ -1,0 +1,39 @@
+{
+  "term": "Work Out",
+  "categories": [
+    "Phrasal Verb",
+    "Colloquial"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/wɜːrk aʊt/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "To exercise, especially to improve fitness.",
+    "To happen or end successfully.",
+    "To solve, calculate, or understand something."
+  ],
+  "persianTranslation": [
+    "ورزش کردن",
+    "درست از آب درآمدن",
+    "حل کردن",
+    "محاسبه کردن",
+    "به نتیجه رسیدن"
+  ],
+  "examples": [
+    "I work out at the gym three times a week.",
+    "Don't worry; everything will work out in the end.",
+    "Can you work out the answer to this math problem?"
+  ],
+  "synonyms": [
+    "exercise",
+    "train",
+    "succeed",
+    "solve",
+    "calculate"
+  ],
+  "antonyms": [
+    "fail",
+    "give up",
+    "remain unsolved"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "term": "Clear Mind",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/klɪr maɪnd/",
+  "partOfSpeech": "Noun Phrase",
+  "englishDefinitions": [
+    "A state of thinking clearly and without confusion."
+  ],
+  "persianTranslation": [
+    "ذهن روشن",
+    "فکر واضح",
+    "ذهن آرام و شفاف"
+  ],
+  "examples": [
+    "I work best when I have a clear mind.",
+    "A short walk can help you get a clear mind.",
+    "She needed a clear mind before making the decision."
+  ],
+  "synonyms": [
+    "clarity",
+    "mental clarity",
+    "lucidity"
+  ],
+  "antonyms": [
+    "confusion",
+    "mental fog"
+  ]
+}

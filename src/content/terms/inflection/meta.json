@@ -1,0 +1,33 @@
+{
+  "term": "Inflection",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/ɪnˈflɛkʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A change in the pitch or tone of the voice when speaking.",
+    "A change in the form of a word to show grammatical information, such as tense, number, or case."
+  ],
+  "persianTranslation": [
+    "آهنگِ صدا",
+    "تغییر صرفی",
+    "تغییر آهنگ/لحن"
+  ],
+  "examples": [
+    "Her voice had a warm inflection.",
+    "The word has several inflections in different tenses.",
+    "English uses fewer inflections than many other languages."
+  ],
+  "synonyms": [
+    "tone variation",
+    "modulation",
+    "word ending change"
+  ],
+  "antonyms": [
+    "monotone",
+    "unchanged form"
+  ]
+}

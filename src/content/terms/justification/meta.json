@@ -1,0 +1,33 @@
+{
+  "term": "Justification",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌdʒʌs.tɪ.fɪˈkeɪ.ʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a good reason for doing something",
+    "an explanation that shows something is necessary, right, or true"
+  ],
+  "persianTranslation": [
+    "توجیه",
+    "دلیل موجه",
+    "استدلال برای انجام کاری"
+  ],
+  "examples": [
+    "The manager gave no justification for the decision.",
+    "We need a clear justification for spending more money.",
+    "Her justification for leaving early was that she felt sick."
+  ],
+  "synonyms": [
+    "reason",
+    "explanation",
+    "grounds"
+  ],
+  "antonyms": [
+    "unreason",
+    "unjustification"
+  ]
+}

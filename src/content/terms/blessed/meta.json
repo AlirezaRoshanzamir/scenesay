@@ -1,0 +1,34 @@
+{
+  "term": "blessed",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈblɛst/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Feeling lucky, fortunate, or grateful.",
+    "Given sacred approval or made holy in a religious sense."
+  ],
+  "persianTranslation": [
+    "خوش‌اقبال",
+    "مبارک",
+    "متبرک",
+    "خوشحال و سپاسگزار"
+  ],
+  "examples": [
+    "I feel blessed to have such supportive friends.",
+    "They were blessed with good health.",
+    "The blessed ceremony was held in the church."
+  ],
+  "synonyms": [
+    "fortunate",
+    "lucky",
+    "grateful"
+  ],
+  "antonyms": [
+    "unlucky",
+    "cursed"
+  ]
+}

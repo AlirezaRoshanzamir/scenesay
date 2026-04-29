@@ -1,0 +1,33 @@
+{
+  "term": "Preview",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈpriːvjuː/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": [
+    "A short showing, look, or sample of something before it is fully released or available.",
+    "To show or look at something before the final version."
+  ],
+  "persianTranslation": [
+    "پیش‌نمایش",
+    "پیش‌نمایش کردن",
+    "نمایش اولیه"
+  ],
+  "examples": [
+    "We watched a preview of the new movie.",
+    "The app lets you preview the design before saving it.",
+    "The preview showed several exciting scenes."
+  ],
+  "synonyms": [
+    "trailer",
+    "sneak peek",
+    "sample"
+  ],
+  "antonyms": [
+    "final release",
+    "full version"
+  ]
+}

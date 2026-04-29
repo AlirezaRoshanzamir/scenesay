@@ -1,0 +1,30 @@
+{
+  "term": "X-Ray",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈeks reɪ/",
+  "partOfSpeech": "Noun or verb",
+  "englishDefinitions": [
+    "A type of radiation used to see inside the body or through objects.",
+    "A medical image made using X-rays.",
+    "To examine something using X-ray technology."
+  ],
+  "persianTranslation": [
+    "اشعه ایکس",
+    "عکس‌برداری با اشعه ایکس",
+    "عکس رادیولوژی"
+  ],
+  "examples": [
+    "The doctor ordered an X-ray of my ankle.",
+    "The X-ray showed that her arm was not broken.",
+    "Security staff may X-ray bags at the airport."
+  ],
+  "synonyms": [
+    "radiograph",
+    "medical scan",
+    "X-ray image"
+  ],
+  "antonyms": []
+}

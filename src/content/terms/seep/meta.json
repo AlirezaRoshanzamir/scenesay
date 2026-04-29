@@ -1,0 +1,35 @@
+{
+  "term": "Seep",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/siːp/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "To flow or pass slowly through small openings.",
+    "To spread gradually and subtly, especially information or feelings."
+  ],
+  "persianTranslation": [
+    "نشت کردن",
+    "به‌آرامی نفوذ کردن",
+    "چکه‌چکه بیرون آمدن",
+    "آهسته پخش شدن"
+  ],
+  "examples": [
+    "Water began to seep through the basement wall.",
+    "Fear started to seep into the crowd.",
+    "Details of the report seeped out before the official announcement."
+  ],
+  "synonyms": [
+    "leak",
+    "trickle",
+    "ooze"
+  ],
+  "antonyms": [
+    "pour",
+    "flood",
+    "contain"
+  ]
+}

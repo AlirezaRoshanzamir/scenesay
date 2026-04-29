@@ -1,0 +1,34 @@
+{
+  "term": "Format",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈfɔːrmæt/",
+  "partOfSpeech": "Noun / Verb",
+  "englishDefinitions": [
+    "the arrangement or style in which something is presented",
+    "to arrange something according to a particular design or structure"
+  ],
+  "persianTranslation": [
+    "قالب",
+    "فرمت",
+    "ساختار",
+    "قالب‌بندی کردن"
+  ],
+  "examples": [
+    "The report must follow a strict format.",
+    "Please format the document before printing it.",
+    "The show changed its format this season."
+  ],
+  "synonyms": [
+    "layout",
+    "structure",
+    "arrangement"
+  ],
+  "antonyms": [
+    "disorder",
+    "mess"
+  ]
+}

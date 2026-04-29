@@ -1,0 +1,33 @@
+{
+  "term": "Crop",
+  "categories": [
+    "Noun",
+    "Verb",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/krɑːp/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "A plant or group of plants grown by farmers for food or for sale.",
+    "To cut or shorten something, especially an image."
+  ],
+  "persianTranslation": [
+    "محصول کشاورزی",
+    "کشت",
+    "کوتاه کردن"
+  ],
+  "examples": [
+    "This year's crop of wheat was very good.",
+    "The photographer cropped the picture to improve it.",
+    "Farmers lost part of their crop because of the drought."
+  ],
+  "synonyms": [
+    "harvest",
+    "produce"
+  ],
+  "antonyms": [
+    "weed",
+    "lengthen"
+  ]
+}

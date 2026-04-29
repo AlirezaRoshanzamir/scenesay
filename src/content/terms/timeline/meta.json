@@ -1,0 +1,31 @@
+{
+  "term": "Timeline",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈtaɪmlaɪn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A line or chart showing events in the order they happened.",
+    "The schedule or sequence of when things are expected to happen."
+  ],
+  "persianTranslation": [
+    "جدول زمانی",
+    "خط زمانی",
+    "ترتیب زمانی رویدادها"
+  ],
+  "examples": [
+    "The project timeline shows each stage of development.",
+    "History teachers often use a timeline to explain events clearly.",
+    "We need a realistic timeline for finishing the report."
+  ],
+  "synonyms": [
+    "schedule",
+    "sequence",
+    "chronology"
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,41 @@
+{
+  "term": "Figure",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈfɪɡjər/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "As a verb, to think, believe, or conclude something.",
+    "As a noun, a number, amount, or statistic.",
+    "As a noun, the shape or outline of a person or object.",
+    "As a noun, an important or well-known person."
+  ],
+  "persianTranslation": [
+    "فکر کردن",
+    "حدس زدن",
+    "رقم",
+    "عدد",
+    "شکل",
+    "چهره یا شخصیت مهم"
+  ],
+  "examples": [
+    "I figure we should leave before traffic gets bad.",
+    "The sales figures were higher than expected.",
+    "A dark figure was standing near the door."
+  ],
+  "synonyms": [
+    "think",
+    "suppose",
+    "number",
+    "shape",
+    "person"
+  ],
+  "antonyms": [
+    "doubt",
+    "misunderstand"
+  ]
+}

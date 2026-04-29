@@ -1,0 +1,28 @@
+{
+  "term": "Boot Camp",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈbuːt kæmp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "intensive military training for new recruits",
+    "a short, intensive training program in another field"
+  ],
+  "persianTranslation": [
+    "اردوی آموزش فشرده",
+    "دوره آموزشی فشرده نظامی"
+  ],
+  "examples": [
+    "He spent eight weeks in boot camp.",
+    "The coding boot camp helped her get a job.",
+    "New recruits must complete boot camp before joining the unit."
+  ],
+  "synonyms": [
+    "training camp",
+    "intensive training"
+  ],
+  "antonyms": []
+}

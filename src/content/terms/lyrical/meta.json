@@ -1,0 +1,33 @@
+{
+  "term": "Lyrical",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈlɪrɪkəl/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "beautiful, expressive, and musical in style",
+    "related to the words of a song or poem"
+  ],
+  "persianTranslation": [
+    "آهنگین",
+    "شاعرانه",
+    "غنایی"
+  ],
+  "examples": [
+    "Her writing has a lyrical quality.",
+    "The film includes lyrical scenes of the countryside.",
+    "He has a lyrical voice that is pleasant to hear."
+  ],
+  "synonyms": [
+    "poetic",
+    "musical",
+    "expressive"
+  ],
+  "antonyms": [
+    "plain",
+    "unmusical",
+    "prosaic"
+  ]
+}

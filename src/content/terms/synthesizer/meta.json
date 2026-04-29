@@ -1,0 +1,28 @@
+{
+  "term": "Synthesizer",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈsɪnθəˌsaɪzər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An electronic instrument that can create many different sounds.",
+    "A device or software used to generate and shape electronic sound."
+  ],
+  "persianTranslation": [
+    "سینتی‌سایزر",
+    "ساز الکترونیکی"
+  ],
+  "examples": [
+    "She played the melody on a synthesizer.",
+    "The track uses a bright synthesizer sound.",
+    "Modern synthesizers can imitate many instruments."
+  ],
+  "synonyms": [
+    "synth",
+    "electronic keyboard"
+  ],
+  "antonyms": []
+}

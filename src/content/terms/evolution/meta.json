@@ -1,0 +1,34 @@
+{
+  "term": "Evolution",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌɛvəˈluːʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The gradual process of change and development over time.",
+    "In biology, the process by which living things change over many generations."
+  ],
+  "persianTranslation": [
+    "تکامل",
+    "تحول تدریجی",
+    "روند تغییر و رشد"
+  ],
+  "examples": [
+    "The evolution of language can be studied through old texts.",
+    "Technology has gone through rapid evolution in the last decade.",
+    "Darwin's theory of evolution changed biology forever."
+  ],
+  "synonyms": [
+    "development",
+    "progression",
+    "growth"
+  ],
+  "antonyms": [
+    "stagnation",
+    "decline",
+    "regression"
+  ]
+}

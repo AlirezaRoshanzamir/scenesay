@@ -1,0 +1,32 @@
+{
+  "term": "Sequences",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈsiːkwənsɪz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Ordered sets of events, things, or numbers that follow one after another.",
+    "Parts of a film, book, or action that occur in a particular order."
+  ],
+  "persianTranslation": [
+    "دنباله‌ها / توالی‌ها",
+    "ترتیب‌ها"
+  ],
+  "examples": [
+    "The story is told in a series of short sequences.",
+    "Please memorize these sequences of numbers.",
+    "The film opens with a dramatic action sequence."
+  ],
+  "synonyms": [
+    "series",
+    "order",
+    "progression"
+  ],
+  "antonyms": [
+    "disorder",
+    "randomness"
+  ]
+}

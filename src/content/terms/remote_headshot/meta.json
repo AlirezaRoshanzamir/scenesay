@@ -1,0 +1,30 @@
+{
+  "term": "Remote Headshot",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "8",
+  "pronunciation": "/rɪˈmoʊt ˈhɛdˌʃɑt/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A shot in film or photography of a person's head and shoulders taken from a distance, often using a long lens or camera setup that keeps the subject far from the camera.",
+    "In production, a head-and-shoulders shot captured without the camera being physically close to the subject."
+  ],
+  "persianTranslation": [
+    "نمای نزدیکِ از راه دور",
+    "شات/تصویر سر و شانه از فاصلهٔ دور"
+  ],
+  "examples": [
+    "The director asked for a remote headshot to keep the background uncluttered.",
+    "We used a remote headshot so the actor would not feel crowded by the camera.",
+    "The documentary includes several remote headshots of the interview subjects."
+  ],
+  "synonyms": [
+    "long-lens headshot",
+    "distant close-up"
+  ],
+  "antonyms": [
+    "close-up",
+    "tight shot"
+  ]
+}

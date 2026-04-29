@@ -1,0 +1,32 @@
+{
+  "term": "Decaf",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈdiːkæf/",
+  "partOfSpeech": "Noun, adjective",
+  "englishDefinitions": [
+    "Coffee or tea with most of the caffeine removed.",
+    "Containing little or no caffeine."
+  ],
+  "persianTranslation": [
+    "قهوه بدون کافئین",
+    "بدون کافئین",
+    "کافئین‌زدایی‌شده"
+  ],
+  "examples": [
+    "I'll have a decaf coffee, please.",
+    "She switched to decaf because caffeine kept her awake.",
+    "Do you want regular or decaf?"
+  ],
+  "synonyms": [
+    "decaffeinated coffee",
+    "caffeine-free coffee"
+  ],
+  "antonyms": [
+    "regular coffee",
+    "caffeinated coffee"
+  ]
+}

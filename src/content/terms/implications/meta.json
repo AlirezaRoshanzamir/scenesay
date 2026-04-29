@@ -1,0 +1,32 @@
+{
+  "term": "Implications",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˌɪmplɪˈkeɪʃənz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Possible effects or results of an action, decision, or statement.",
+    "Hidden or indirect meanings that can be understood from something."
+  ],
+  "persianTranslation": [
+    "پیامدها",
+    "دلالت‌ها / مفاهیم ضمنی"
+  ],
+  "examples": [
+    "We need to consider the implications of this decision.",
+    "The report has serious implications for public health.",
+    "Her words had political implications that were not obvious at first."
+  ],
+  "synonyms": [
+    "consequences",
+    "ramifications",
+    "suggestions"
+  ],
+  "antonyms": [
+    "triviality",
+    "insignificance"
+  ]
+}

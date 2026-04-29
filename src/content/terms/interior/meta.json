@@ -1,0 +1,31 @@
+{
+  "term": "Interior",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ɪnˈtɪriər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the inside part of something, such as a room, building, or vehicle"
+  ],
+  "persianTranslation": [
+    "فضای داخلی",
+    "داخل",
+    "درون"
+  ],
+  "examples": [
+    "The interior of the church is beautifully decorated.",
+    "We photographed the interior of the car.",
+    "The interior was warmer than the outside."
+  ],
+  "synonyms": [
+    "inside",
+    "inner part"
+  ],
+  "antonyms": [
+    "exterior",
+    "outside"
+  ]
+}

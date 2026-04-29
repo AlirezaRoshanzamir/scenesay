@@ -1,0 +1,30 @@
+{
+  "term": "Staging",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈsteɪdʒɪŋ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The way a scene, performance, or event is arranged and presented.",
+    "The process of preparing or organizing something before it happens."
+  ],
+  "persianTranslation": [
+    "صحنه‌آرایی",
+    "چیدمان صحنه",
+    "آماده‌سازی"
+  ],
+  "examples": [
+    "The staging of the play was simple but effective.",
+    "Good staging helps the audience understand the action.",
+    "The staging area was set up behind the building."
+  ],
+  "synonyms": [
+    "arrangement",
+    "presentation",
+    "setup"
+  ],
+  "antonyms": []
+}

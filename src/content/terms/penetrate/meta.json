@@ -1,0 +1,34 @@
+{
+  "term": "Penetrate",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈpɛnətreɪt/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "to go into or through something",
+    "to enter or break through a barrier",
+    "to understand something deeply"
+  ],
+  "persianTranslation": [
+    "نفوذ کردن",
+    "عبور کردن از",
+    "درک عمیق کردن"
+  ],
+  "examples": [
+    "The bullet penetrated the wall.",
+    "Sunlight penetrated the thick clouds.",
+    "It took time for the idea to penetrate his mind."
+  ],
+  "synonyms": [
+    "enter",
+    "pierce",
+    "permeate"
+  ],
+  "antonyms": [
+    "block",
+    "resist"
+  ]
+}

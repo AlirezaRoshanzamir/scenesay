@@ -1,0 +1,35 @@
+{
+  "term": "Setup",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈsɛtˌʌp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the way something is arranged or organized",
+    "the preparation or arrangement needed to make something work",
+    "the first part of a joke or story that prepares for the punchline or main point"
+  ],
+  "persianTranslation": [
+    "چیدمان",
+    "تنظیمات",
+    "مقدمهٔ شوخی"
+  ],
+  "examples": [
+    "The setup of the new computer took less than an hour.",
+    "The room had a simple setup for the meeting.",
+    "The setup in that joke was so long that the punchline surprised everyone."
+  ],
+  "synonyms": [
+    "arrangement",
+    "configuration",
+    "preparation"
+  ],
+  "antonyms": [
+    "disorder",
+    "breakdown",
+    "disorganization"
+  ]
+}

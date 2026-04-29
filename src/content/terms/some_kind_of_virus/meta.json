@@ -1,0 +1,27 @@
+{
+  "term": "Some kind of virus",
+  "categories": [
+    "Informal",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/sʌm kaɪnd əv ˈvaɪrəs/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "an unspecified virus of some type"
+  ],
+  "persianTranslation": [
+    "نوعی ویروس",
+    "یک جور ویروس"
+  ],
+  "examples": [
+    "The doctor thinks it's some kind of virus.",
+    "She may have caught some kind of virus at school.",
+    "His symptoms were caused by some kind of virus."
+  ],
+  "synonyms": [
+    "an unspecified virus",
+    "a viral infection"
+  ],
+  "antonyms": []
+}

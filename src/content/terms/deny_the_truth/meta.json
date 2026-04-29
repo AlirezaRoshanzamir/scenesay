@@ -1,0 +1,29 @@
+{
+  "term": "Deny The Truth",
+  "categories": [
+    "Phrase"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/dɪˈnaɪ ðə truːθ/",
+  "partOfSpeech": "Verb Phrase",
+  "englishDefinitions": [
+    "To say that something true is not true, or refuse to accept the truth."
+  ],
+  "persianTranslation": [
+    "حقیقت را انکار کردن",
+    "واقعیت را نپذیرفتن"
+  ],
+  "examples": [
+    "He tried to deny the truth for years.",
+    "You can't deny the truth forever.",
+    "The character denies the truth about her past."
+  ],
+  "synonyms": [
+    "reject the truth",
+    "refuse to accept the truth"
+  ],
+  "antonyms": [
+    "accept the truth",
+    "acknowledge"
+  ]
+}

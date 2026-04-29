@@ -1,0 +1,38 @@
+{
+  "term": "Fictitious",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/fɪkˈtɪʃəs/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Not real; invented for a story, explanation, or false account.",
+    "Existing only in fiction or imagination."
+  ],
+  "persianTranslation": [
+    "ساختگی",
+    "خیالی",
+    "غیرواقعی",
+    "موهوم"
+  ],
+  "examples": [
+    "The movie is set in a fictitious country.",
+    "He used a fictitious name when he checked into the hotel.",
+    "The report included several fictitious details."
+  ],
+  "synonyms": [
+    "fictional",
+    "imaginary",
+    "invented",
+    "fabricated",
+    "made-up"
+  ],
+  "antonyms": [
+    "real",
+    "actual",
+    "factual",
+    "genuine"
+  ]
+}

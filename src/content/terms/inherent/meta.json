@@ -1,0 +1,33 @@
+{
+  "term": "Inherent",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/ɪnˈhɪrənt/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Existing as a natural and permanent part of something; built-in."
+  ],
+  "persianTranslation": [
+    "ذاتی",
+    "درونی",
+    "فطری"
+  ],
+  "examples": [
+    "There are inherent risks in flying.",
+    "Curiosity is an inherent part of human nature.",
+    "The system has an inherent weakness."
+  ],
+  "synonyms": [
+    "built-in",
+    "intrinsic",
+    "natural"
+  ],
+  "antonyms": [
+    "added",
+    "external",
+    "acquired"
+  ]
+}

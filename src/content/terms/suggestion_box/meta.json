@@ -1,0 +1,30 @@
+{
+  "term": "Suggestion Box",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/səɡˈdʒestʃən bɑːks/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A box or system where people can put written ideas, comments, or complaints for an organization to consider.",
+    "A place, physical or digital, used to collect feedback."
+  ],
+  "persianTranslation": [
+    "صندوق پیشنهادات",
+    "جعبه نظرات",
+    "سامانه دریافت پیشنهادات"
+  ],
+  "examples": [
+    "Employees can put anonymous comments in the suggestion box.",
+    "The school added a digital suggestion box on its website.",
+    "Someone left a great idea for improving the cafeteria in the suggestion box."
+  ],
+  "synonyms": [
+    "feedback box",
+    "comment box",
+    "ideas box"
+  ],
+  "antonyms": []
+}

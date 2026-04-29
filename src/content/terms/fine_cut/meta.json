@@ -1,0 +1,34 @@
+{
+  "term": "Fine Cut",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/faɪn kʌt/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "a detailed edited version of a film or video that is close to the final version",
+    "a more polished cut made after rough editing"
+  ],
+  "persianTranslation": [
+    "نسخهٔ ویرایش‌شدهٔ نهایی",
+    "ادیت دقیق",
+    "نسخهٔ تمیز/نهایی"
+  ],
+  "examples": [
+    "The director reviewed the fine cut before approving the film.",
+    "After the rough cut, the editor produced a fine cut with better pacing.",
+    "We sent the fine cut to the client for final comments."
+  ],
+  "synonyms": [
+    "final cut",
+    "polished edit",
+    "near-final version"
+  ],
+  "antonyms": [
+    "rough cut",
+    "draft version",
+    "uncut version"
+  ]
+}

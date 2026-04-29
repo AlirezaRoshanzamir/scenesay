@@ -1,0 +1,40 @@
+{
+  "term": "Harsh",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/hɑːrʃ/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Very strict, severe, or unkind.",
+    "Unpleasantly rough, strong, or difficult.",
+    "Too critical or cruel in judgment or speech."
+  ],
+  "persianTranslation": [
+    "خشن",
+    "سختگیرانه",
+    "تند",
+    "زننده",
+    "بی‌رحمانه"
+  ],
+  "examples": [
+    "His words were harsh, but he was trying to be honest.",
+    "The desert has a harsh climate.",
+    "The punishment seemed too harsh for such a small mistake."
+  ],
+  "synonyms": [
+    "severe",
+    "strict",
+    "cruel",
+    "rough",
+    "unkind"
+  ],
+  "antonyms": [
+    "gentle",
+    "kind",
+    "mild",
+    "soft"
+  ]
+}

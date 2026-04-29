@@ -1,0 +1,32 @@
+{
+  "term": "An Anchor",
+  "categories": [
+    "Technical",
+    "Formal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/æn ˈæŋkər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A heavy object used to keep a ship or boat in one place.",
+    "A person or thing that provides stability, support, or a central point.",
+    "A news or TV host who presents a program."
+  ],
+  "persianTranslation": [
+    "لنگر",
+    "تکیه‌گاه",
+    "مجری خبر"
+  ],
+  "examples": [
+    "The boat dropped an anchor near the harbor.",
+    "She was an anchor for the whole family during difficult times.",
+    "The main anchor announced the evening news."
+  ],
+  "synonyms": [
+    "moorings",
+    "support",
+    "host"
+  ],
+  "antonyms": []
+}

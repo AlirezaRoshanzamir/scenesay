@@ -1,0 +1,28 @@
+{
+  "term": "Marketing",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈmɑːrkɪtɪŋ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The activity of promoting and selling products or services, including research, advertising, and customer outreach."
+  ],
+  "persianTranslation": [
+    "بازاریابی"
+  ],
+  "examples": [
+    "The company spent more on marketing this year.",
+    "Marketing helps businesses reach new customers.",
+    "She studied marketing in college."
+  ],
+  "synonyms": [
+    "promotion",
+    "selling",
+    "market research"
+  ],
+  "antonyms": []
+}

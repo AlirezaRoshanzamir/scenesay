@@ -1,0 +1,37 @@
+{
+  "term": "Get Up",
+  "categories": [
+    "Phrasal Verb",
+    "Informal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ɡet ʌp/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "To rise from bed after sleeping.",
+    "To stand up from a sitting or lying position.",
+    "To organize or prepare something, especially an event or costume."
+  ],
+  "persianTranslation": [
+    "بلند شدن",
+    "از خواب بیدار شدن",
+    "برپا کردن",
+    "آماده کردن"
+  ],
+  "examples": [
+    "I usually get up at seven in the morning.",
+    "Please get up and let the older man sit down.",
+    "They got up a small party for her birthday."
+  ],
+  "synonyms": [
+    "rise",
+    "wake up",
+    "stand up",
+    "organize"
+  ],
+  "antonyms": [
+    "lie down",
+    "sit down",
+    "go to bed"
+  ]
+}

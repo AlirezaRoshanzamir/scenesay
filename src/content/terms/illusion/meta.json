@@ -1,0 +1,34 @@
+{
+  "term": "Illusion",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ɪˈluːʒən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A false idea or belief about something.",
+    "A thing that seems real but is actually not real or not as it appears."
+  ],
+  "persianTranslation": [
+    "توهم",
+    "خطای دید",
+    "سراب",
+    "تصور نادرست"
+  ],
+  "examples": [
+    "We had the illusion that the job would be easy.",
+    "The magician created an amazing illusion.",
+    "The mirror gave the room the illusion of more space."
+  ],
+  "synonyms": [
+    "deception",
+    "false impression",
+    "mirage"
+  ],
+  "antonyms": [
+    "reality",
+    "truth"
+  ]
+}

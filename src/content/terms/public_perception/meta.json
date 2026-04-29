@@ -1,0 +1,30 @@
+{
+  "term": "Public Perception",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈpʌblɪk pərˈsɛpʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The way the general public thinks about or views a person, idea, company, or event.",
+    "A shared opinion or image held by society at large."
+  ],
+  "persianTranslation": [
+    "برداشت عمومی",
+    "نگرش عمومی"
+  ],
+  "examples": [
+    "Public perception of the company improved after the apology.",
+    "The scandal damaged public perception of the government.",
+    "Marketing can strongly influence public perception."
+  ],
+  "synonyms": [
+    "public opinion",
+    "general view"
+  ],
+  "antonyms": [
+    "private view"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "term": "Grosses",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ɡroʊsɪz/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "Earns a total amount of money, especially from ticket sales or revenue.",
+    "Produces a total amount before costs are deducted."
+  ],
+  "persianTranslation": [
+    "درآمد ناخالص داشتن",
+    "فروش ناخالص داشتن"
+  ],
+  "examples": [
+    "The film grosses millions of dollars worldwide.",
+    "The new release grosses more in its first weekend than expected.",
+    "That theater grosses enough to cover its expenses."
+  ],
+  "synonyms": [
+    "earns",
+    "brings in",
+    "takes in"
+  ],
+  "antonyms": [
+    "loses",
+    "costs"
+  ]
+}

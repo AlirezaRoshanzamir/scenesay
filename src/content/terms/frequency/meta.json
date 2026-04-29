@@ -1,0 +1,33 @@
+{
+  "term": "Frequency",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈfriːkwənsi/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "How often something happens.",
+    "In physics and sound, the number of waves or vibrations that occur in a certain time."
+  ],
+  "persianTranslation": [
+    "فراوانی",
+    "بسامد",
+    "دفعات وقوع"
+  ],
+  "examples": [
+    "The frequency of earthquakes has increased.",
+    "Radio stations broadcast at different frequencies.",
+    "We measured the frequency of the sound wave."
+  ],
+  "synonyms": [
+    "rate",
+    "occurrence rate",
+    "vibration rate"
+  ],
+  "antonyms": [
+    "rarity",
+    "infrequency"
+  ]
+}

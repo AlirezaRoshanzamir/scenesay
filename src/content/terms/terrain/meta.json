@@ -1,0 +1,30 @@
+{
+  "term": "Terrain",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/təˈreɪn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the type of land in a particular area, especially its shape and surface",
+    "ground or landscape used for movement or travel"
+  ],
+  "persianTranslation": [
+    "عوارض زمین",
+    "پستی‌وبلندی زمین",
+    "زمین/ناهمواری"
+  ],
+  "examples": [
+    "The terrain was rough and rocky.",
+    "Drivers should be careful on this terrain.",
+    "The hikers studied the terrain before starting."
+  ],
+  "synonyms": [
+    "landscape",
+    "ground",
+    "topography"
+  ],
+  "antonyms": []
+}

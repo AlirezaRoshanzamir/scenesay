@@ -1,0 +1,29 @@
+{
+  "term": "Damaged Interior",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈdæmɪdʒd ɪnˈtɪriər/",
+  "partOfSpeech": "Noun Phrase",
+  "englishDefinitions": [
+    "the inside part of something that has been harmed, broken, or worn out"
+  ],
+  "persianTranslation": [
+    "فضای داخلی آسیب‌دیده",
+    "داخلِ خراب‌شده"
+  ],
+  "examples": [
+    "The damaged interior of the car needed expensive repairs.",
+    "Fire caused severe damage to the building's interior.",
+    "They replaced the damaged interior after the flood."
+  ],
+  "synonyms": [
+    "broken interior",
+    "ruined inside"
+  ],
+  "antonyms": [
+    "undamaged interior",
+    "intact interior"
+  ]
+}

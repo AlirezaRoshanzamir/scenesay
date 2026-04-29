@@ -1,0 +1,32 @@
+{
+  "term": "In real time",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ɪn ˈriː.əl taɪm/",
+  "partOfSpeech": "Adverb phrase",
+  "englishDefinitions": [
+    "as something is happening, without delay"
+  ],
+  "persianTranslation": [
+    "به‌صورت زنده",
+    "هم‌زمان",
+    "در لحظه"
+  ],
+  "examples": [
+    "The app tracks the bus location in real time.",
+    "We watched the results update in real time.",
+    "The system sends alerts in real time."
+  ],
+  "synonyms": [
+    "live",
+    "immediately",
+    "instantly"
+  ],
+  "antonyms": [
+    "later",
+    "with delay"
+  ]
+}

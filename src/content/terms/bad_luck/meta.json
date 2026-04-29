@@ -1,0 +1,32 @@
+{
+  "term": "Bad Luck",
+  "categories": [
+    "Informal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/bæd lʌk/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Unfortunate events or a lack of good fortune."
+  ],
+  "persianTranslation": [
+    "بدشانسی",
+    "شانس بد",
+    "اقبال بد"
+  ],
+  "examples": [
+    "It was just bad luck that the train was delayed.",
+    "He's had a lot of bad luck this year.",
+    "Losing the keys was bad luck, but we found them later."
+  ],
+  "synonyms": [
+    "misfortune",
+    "ill fortune",
+    "unluckiness"
+  ],
+  "antonyms": [
+    "good luck",
+    "good fortune",
+    "luck"
+  ]
+}

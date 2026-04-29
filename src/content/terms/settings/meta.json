@@ -1,0 +1,30 @@
+{
+  "term": "Settings",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈset.ɪŋz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the places or environments where something happens",
+    "the options or controls used to adjust a device or program"
+  ],
+  "persianTranslation": [
+    "فضا/محیط",
+    "مکان وقوع",
+    "تنظیمات"
+  ],
+  "examples": [
+    "The story has several different settings.",
+    "You can change the sound settings on your phone.",
+    "The settings of the film made it feel realistic."
+  ],
+  "synonyms": [
+    "environment",
+    "location",
+    "configuration"
+  ],
+  "antonyms": []
+}

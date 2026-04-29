@@ -1,0 +1,35 @@
+{
+  "term": "Set Off",
+  "categories": [
+    "Phrasal Verb"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/set ɔf/",
+  "partOfSpeech": "Phrasal verb",
+  "englishDefinitions": [
+    "to start a journey",
+    "to cause something to begin or happen",
+    "to make a bomb or alarm start operating"
+  ],
+  "persianTranslation": [
+    "راه افتادن",
+    "به راه انداختن",
+    "منفجر کردن",
+    "آژیر را به صدا درآوردن"
+  ],
+  "examples": [
+    "We set off early to avoid traffic.",
+    "The loud noise set off the alarm.",
+    "One comment set off a long argument."
+  ],
+  "synonyms": [
+    "depart",
+    "trigger",
+    "ignite"
+  ],
+  "antonyms": [
+    "arrive",
+    "stop",
+    "prevent"
+  ]
+}

@@ -1,39 +1,21 @@
 import * as ftp from 'basic-ftp'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { program } from 'commander'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const LOCAL_DIR = path.resolve(__dirname, '../../dist/build')
 
-function parseArgs() {
-  const args = process.argv.slice(2)
-  const opts = { secure: false }
-  for (let i = 0; i < args.length; i++) {
-    switch (args[i]) {
-      case '--host':   opts.host   = args[++i]; break
-      case '--user':   opts.user   = args[++i]; break
-      case '--pass':   opts.pass   = args[++i]; break
-      case '--dir':    opts.dir    = args[++i]; break
-      case '--secure': {
-        const next = args[i + 1]
-        if (next === 'false' || next === '0') { opts.secure = false; i++ }
-        else if (next === 'true' || next === '1') { opts.secure = true; i++ }
-        else { opts.secure = true }
-        break
-      }
-    }
-  }
-  return opts
-}
+program
+  .requiredOption('--host <host>', 'FTP host')
+  .requiredOption('--user <user>', 'FTP username')
+  .requiredOption('--pass <pass>', 'FTP password')
+  .requiredOption('--dir <remote-dir>', 'remote directory')
+  .option('--secure', 'use FTPS', false)
+  .parse()
 
 async function deploy() {
-  const opts = parseArgs()
-  const { host, user, pass, dir, secure } = opts
-
-  if (!host || !user || !pass || !dir) {
-    console.error('Usage: node deploy-ftp.js --host <host> --user <user> --pass <pass> --dir <remote-dir> [--secure]')
-    process.exit(1)
-  }
+  const { host, user, pass, dir, secure } = program.opts()
 
   const client = new ftp.Client()
   client.ftp.verbose = false

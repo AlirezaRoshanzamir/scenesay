@@ -1,0 +1,35 @@
+{
+  "term": "Commercial on TV",
+  "categories": [
+    "Informal",
+    "Cultural Reference"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/kəˈmɝːʃəl ɑːn ˌtiːˈviː/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "An advertisement shown on television.",
+    "A short paid video message that promotes a product, service, event, or idea."
+  ],
+  "persianTranslation": [
+    "آگهی تلویزیونی",
+    "تبلیغ تلویزیونی",
+    "تبلیغی در تلویزیون"
+  ],
+  "examples": [
+    "I saw a commercial on TV for a new phone.",
+    "The commercial on TV made the toy look exciting.",
+    "During the game, every commercial on TV seemed to be about cars."
+  ],
+  "synonyms": [
+    "TV ad",
+    "television advertisement",
+    "advert",
+    "spot"
+  ],
+  "antonyms": [
+    "program",
+    "show",
+    "movie"
+  ]
+}

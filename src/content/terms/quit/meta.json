@@ -1,0 +1,38 @@
+{
+  "term": "Quit",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/kwɪt/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "To stop doing something.",
+    "To leave a job, school, or activity permanently.",
+    "To give up a habit or regular behavior."
+  ],
+  "persianTranslation": [
+    "ترک کردن",
+    "دست کشیدن",
+    "استعفا دادن",
+    "رها کردن"
+  ],
+  "examples": [
+    "She decided to quit smoking.",
+    "He quit his job and moved to another city.",
+    "Don't quit just because the work is difficult."
+  ],
+  "synonyms": [
+    "stop",
+    "give up",
+    "resign",
+    "leave"
+  ],
+  "antonyms": [
+    "continue",
+    "keep going",
+    "start",
+    "begin"
+  ]
+}

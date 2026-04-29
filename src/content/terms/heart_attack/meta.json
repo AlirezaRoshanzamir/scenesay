@@ -1,0 +1,26 @@
+{
+  "term": "Heart Attack",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈhɑːrt əˌtæk/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a serious medical condition in which blood flow to part of the heart is blocked"
+  ],
+  "persianTranslation": [
+    "حملهٔ قلبی",
+    "سکتهٔ قلبی"
+  ],
+  "examples": [
+    "He was taken to the hospital after a heart attack.",
+    "Smoking can increase the risk of a heart attack.",
+    "The doctor explained the warning signs of a heart attack."
+  ],
+  "synonyms": [
+    "myocardial infarction"
+  ],
+  "antonyms": []
+}

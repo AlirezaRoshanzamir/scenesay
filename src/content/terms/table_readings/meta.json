@@ -1,0 +1,32 @@
+{
+  "term": "Table Readings",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈteɪbəl ˈriːdɪŋz/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Meetings where actors sit together and read a script aloud before filming or performing.",
+    "An early reading of a play, film, or TV script by the cast."
+  ],
+  "persianTranslation": [
+    "خوانش دور میز",
+    "خوانش جمعی فیلمنامه",
+    "دورخوانی متن"
+  ],
+  "examples": [
+    "The cast attended table readings before shooting began.",
+    "At the table reading, the director explained the characters’ motivations.",
+    "We discovered several problems in the script during the table readings."
+  ],
+  "synonyms": [
+    "script reading",
+    "read-through"
+  ],
+  "antonyms": [
+    "performance",
+    "staged scene"
+  ]
+}

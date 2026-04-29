@@ -1,0 +1,27 @@
+{
+  "term": "Moon Landing",
+  "categories": [
+    "Cultural Reference",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈmuːn ˌlæn.dɪŋ/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "the event of landing a spacecraft on the Moon",
+    "especially, the first landing of humans on the Moon"
+  ],
+  "persianTranslation": [
+    "فرود بر ماه",
+    "ماه‌نشینی"
+  ],
+  "examples": [
+    "The moon landing in 1969 was watched around the world.",
+    "Many people still study the first moon landing.",
+    "The moon landing became one of the greatest achievements in space history."
+  ],
+  "synonyms": [
+    "lunar landing"
+  ],
+  "antonyms": []
+}

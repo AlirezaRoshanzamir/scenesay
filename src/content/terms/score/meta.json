@@ -1,0 +1,31 @@
+{
+  "term": "Score",
+  "categories": [
+    "Noun",
+    "Verb",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/skɔːr/",
+  "partOfSpeech": "Noun, Verb",
+  "englishDefinitions": [
+    "The music written for a film, play, or performance.",
+    "To gain points in a game or test."
+  ],
+  "persianTranslation": [
+    "موسیقی متن",
+    "نمره",
+    "امتیاز گرفتن"
+  ],
+  "examples": [
+    "The score made the scene more emotional.",
+    "She scored the winning goal.",
+    "The film's score was composed by a famous musician."
+  ],
+  "synonyms": [
+    "soundtrack",
+    "music",
+    "points"
+  ],
+  "antonyms": []
+}

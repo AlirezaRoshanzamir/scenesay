@@ -1,0 +1,31 @@
+{
+  "term": "Cutting",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈkʌtɪŋ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the act of cutting something",
+    "a piece that has been cut from a plant or material"
+  ],
+  "persianTranslation": [
+    "بریدن",
+    "قلمه",
+    "برش"
+  ],
+  "examples": [
+    "The cutting was clean and precise.",
+    "She planted a cutting from the rose bush.",
+    "Cutting the fabric required a sharp knife."
+  ],
+  "synonyms": [
+    "slice",
+    "trim"
+  ],
+  "antonyms": [
+    "joining"
+  ]
+}

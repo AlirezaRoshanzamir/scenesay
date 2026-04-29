@@ -1,0 +1,32 @@
+{
+  "term": "Tampered With",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈtæm.pərd wɪð/",
+  "partOfSpeech": "Verb phrase",
+  "englishDefinitions": [
+    "changed or interfered with in a harmful or unauthorized way",
+    "handled something improperly so that it is no longer reliable or original"
+  ],
+  "persianTranslation": [
+    "دستکاری شده",
+    "خرابکاری شده",
+    "به‌طور غیرمجاز تغییر داده شده"
+  ],
+  "examples": [
+    "The evidence was tampered with before the trial.",
+    "Do not use the device if it has been tampered with.",
+    "Someone tampered with the settings on my computer."
+  ],
+  "synonyms": [
+    "altered",
+    "interfered with"
+  ],
+  "antonyms": [
+    "preserved",
+    "untouched"
+  ]
+}

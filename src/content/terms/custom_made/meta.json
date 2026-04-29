@@ -1,0 +1,32 @@
+{
+  "term": "Custom made",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈkʌs.təm meɪd/",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "made according to special requirements or for a particular person"
+  ],
+  "persianTranslation": [
+    "سفارشی",
+    "به‌طور اختصاصی ساخته‌شده",
+    "دست‌دوز/سفارش‌ساخته"
+  ],
+  "examples": [
+    "He bought a custom made suit.",
+    "The company offers custom made furniture.",
+    "Her shoes were custom made for dancing."
+  ],
+  "synonyms": [
+    "bespoke",
+    "made-to-order",
+    "tailor-made"
+  ],
+  "antonyms": [
+    "ready-made",
+    "off-the-shelf"
+  ]
+}

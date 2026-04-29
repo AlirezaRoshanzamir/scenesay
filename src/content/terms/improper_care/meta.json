@@ -1,0 +1,36 @@
+{
+  "term": "Improper Care",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ɪmˈprɑːpər ker/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Care that is not correct, safe, suitable, or responsible.",
+    "Failure to provide the right treatment, attention, food, shelter, or conditions."
+  ],
+  "persianTranslation": [
+    "مراقبت نادرست",
+    "نگهداری نامناسب",
+    "رسیدگی غلط"
+  ],
+  "examples": [
+    "Improper care can make young animals sick.",
+    "The plant died because of improper care and too much water.",
+    "The shelter teaches new owners how to avoid improper care."
+  ],
+  "synonyms": [
+    "poor care",
+    "bad care",
+    "neglect",
+    "mistreatment",
+    "inadequate care"
+  ],
+  "antonyms": [
+    "proper care",
+    "good care",
+    "responsible care",
+    "adequate care"
+  ]
+}

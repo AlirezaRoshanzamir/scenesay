@@ -1,0 +1,27 @@
+{
+  "term": "Space shuttle",
+  "categories": [
+    "Technical",
+    "Cultural Reference"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/speɪs ˈʃʌt.əl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "a reusable spacecraft designed to travel between Earth and space"
+  ],
+  "persianTranslation": [
+    "شاتل فضایی",
+    "ناو فضایی"
+  ],
+  "examples": [
+    "The space shuttle launched from Florida.",
+    "Children were fascinated by the model space shuttle.",
+    "A space shuttle can carry astronauts and cargo."
+  ],
+  "synonyms": [
+    "orbiter",
+    "spacecraft"
+  ],
+  "antonyms": []
+}

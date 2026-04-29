@@ -1,0 +1,29 @@
+{
+  "term": "Temp Music",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/tɛmp ˈmjuːzɪk/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "Temporary music added to a film, video, or project before the final music is composed."
+  ],
+  "persianTranslation": [
+    "موسیقی موقت",
+    "موسیقی آزمایشی"
+  ],
+  "examples": [
+    "The editor used temp music during the rough cut.",
+    "Temp music helps the director feel the pace of the scene.",
+    "The composer later replaced the temp music with an original score."
+  ],
+  "synonyms": [
+    "temporary score",
+    "placeholder music"
+  ],
+  "antonyms": [
+    "final score",
+    "finished music"
+  ]
+}

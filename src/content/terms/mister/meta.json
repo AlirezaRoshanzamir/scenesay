@@ -1,0 +1,33 @@
+{
+  "term": "Mister",
+  "categories": [
+    "Formal"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/ˈmɪstər/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A polite title used before a man's last name or full name.",
+    "A form of address used when speaking to a man, especially when his name is unknown."
+  ],
+  "persianTranslation": [
+    "آقا",
+    "جناب",
+    "مستر"
+  ],
+  "examples": [
+    "Mister Johnson will meet you in the office.",
+    "Excuse me, mister, you dropped your wallet.",
+    "The letter was addressed to Mister David Brown."
+  ],
+  "synonyms": [
+    "Mr.",
+    "sir",
+    "gentleman"
+  ],
+  "antonyms": [
+    "miss",
+    "missus",
+    "madam"
+  ]
+}

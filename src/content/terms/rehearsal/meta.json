@@ -1,0 +1,35 @@
+{
+  "term": "Rehearsal",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/rɪˈhɜːrsəl/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A practice session before a performance, speech, ceremony, or event.",
+    "The act of practicing something in preparation for doing it publicly."
+  ],
+  "persianTranslation": [
+    "تمرین",
+    "تمرین قبل از اجرا",
+    "تمرین نمایش یا مراسم"
+  ],
+  "examples": [
+    "The actors have rehearsal every afternoon.",
+    "We need one more rehearsal before the concert.",
+    "The wedding rehearsal will be on Friday evening."
+  ],
+  "synonyms": [
+    "practice",
+    "run-through",
+    "dry run",
+    "preparation"
+  ],
+  "antonyms": [
+    "performance",
+    "show",
+    "final event"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "term": "Severe Depression",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/səˈvɪr dɪˈprɛʃən/",
+  "partOfSpeech": "Noun Phrase",
+  "englishDefinitions": [
+    "A very serious mental health condition marked by deep sadness, loss of interest, and difficulty functioning in daily life."
+  ],
+  "persianTranslation": [
+    "افسردگی شدید",
+    "افسردگی حاد"
+  ],
+  "examples": [
+    "She was diagnosed with severe depression and needed treatment.",
+    "Severe depression can affect sleep, appetite, and concentration.",
+    "After months of severe depression, he finally asked for help."
+  ],
+  "synonyms": [
+    "major depression",
+    "clinical depression"
+  ],
+  "antonyms": [
+    "good mental health",
+    "emotional well-being"
+  ]
+}

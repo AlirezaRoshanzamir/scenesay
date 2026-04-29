@@ -1,0 +1,29 @@
+{
+  "term": "Shot",
+  "categories": [
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ʃɑːt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A single continuous take or image recorded by a camera.",
+    "A scene or view as framed by the camera."
+  ],
+  "persianTranslation": [
+    "شات",
+    "نما",
+    "برداشت"
+  ],
+  "examples": [
+    "That shot took three hours to film.",
+    "The opening shot shows the city at night.",
+    "We need one more shot of the actress walking down the hall."
+  ],
+  "synonyms": [
+    "take",
+    "frame",
+    "scene"
+  ],
+  "antonyms": []
+}

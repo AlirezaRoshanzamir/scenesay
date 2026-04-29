@@ -1,0 +1,34 @@
+{
+  "term": "Charges",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈtʃɑːrdʒɪz/",
+  "partOfSpeech": "Noun plural",
+  "englishDefinitions": [
+    "accusations that someone has done something illegal",
+    "prices or fees for services or goods",
+    "electrical quantities stored or carried by particles"
+  ],
+  "persianTranslation": [
+    "اتهامات",
+    "هزینه‌ها",
+    "شارژها/بارهای الکتریکی"
+  ],
+  "examples": [
+    "He denied the charges against him.",
+    "There are extra charges for delivery.",
+    "The battery can hold a charge for several hours."
+  ],
+  "synonyms": [
+    "accusations",
+    "fees",
+    "costs"
+  ],
+  "antonyms": [
+    "defenses",
+    "refunds"
+  ]
+}

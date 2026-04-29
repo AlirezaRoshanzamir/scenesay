@@ -1,0 +1,30 @@
+{
+  "term": "Collaboration",
+  "categories": [
+    "Formal",
+    "Academic"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/kəˌlæbəˈreɪʃən/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "the act of working together with one or more people to achieve a goal"
+  ],
+  "persianTranslation": [
+    "همکاری",
+    "هم‌افزایی"
+  ],
+  "examples": [
+    "The project was a collaboration between two universities.",
+    "Good collaboration can improve results.",
+    "Their collaboration led to a successful app."
+  ],
+  "synonyms": [
+    "cooperation",
+    "teamwork"
+  ],
+  "antonyms": [
+    "competition",
+    "conflict"
+  ]
+}

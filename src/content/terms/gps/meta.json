@@ -1,0 +1,26 @@
+{
+  "term": "GPS",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˌdʒiː piː ˈes/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A system that uses satellites to determine the location of a person, vehicle, or object on Earth."
+  ],
+  "persianTranslation": [
+    "جی‌پی‌اس",
+    "سامانه موقعیت‌یاب جهانی"
+  ],
+  "examples": [
+    "My phone's GPS helped us find the hotel.",
+    "The car has built-in GPS for navigation.",
+    "We used GPS to track the route during the hike."
+  ],
+  "synonyms": [
+    "satellite navigation"
+  ],
+  "antonyms": []
+}

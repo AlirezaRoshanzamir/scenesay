@@ -1,0 +1,32 @@
+{
+  "term": "Insert",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/ˈɪnsɜrt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A brief shot in film or video that shows a small detail, object, or action more closely.",
+    "Something placed into a larger work, especially a short scene or added item."
+  ],
+  "persianTranslation": [
+    "نمای جزئی",
+    "شاتِ جزئیات",
+    "افزوده"
+  ],
+  "examples": [
+    "The editor added an insert of the key turning in the lock.",
+    "We need an insert shot of the letter being opened.",
+    "The insert helped the audience notice the ring on her finger."
+  ],
+  "synonyms": [
+    "insert shot",
+    "detail shot"
+  ],
+  "antonyms": [
+    "master shot",
+    "wide shot"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "Blend",
+  "categories": [
+    "Verb",
+    "Noun"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/blend/",
+  "partOfSpeech": "Verb, Noun",
+  "englishDefinitions": [
+    "To mix two or more things together so they combine smoothly.",
+    "A mixture made by combining different things."
+  ],
+  "persianTranslation": [
+    "مخلوط کردن",
+    "آمیختن",
+    "مخلوط"
+  ],
+  "examples": [
+    "The chef blended the spices to create a rich flavor.",
+    "This paint is a blend of blue and green.",
+    "The movie blends comedy and drama very well."
+  ],
+  "synonyms": [
+    "mix",
+    "combine",
+    "merge"
+  ],
+  "antonyms": [
+    "separate",
+    "divide"
+  ]
+}
