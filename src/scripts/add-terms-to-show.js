@@ -5,7 +5,7 @@ import SrtParser2 from 'srt-parser-2'
 import { HumanMessage } from '@langchain/core/messages'
 import { program } from 'commander'
 import { OpenSubtitlesClient, openSubtitlesConfigFromEnv } from './opensubtitles.js'
-import { DEFAULT_MODELS, createLLM } from './llm.js'
+import { createLLM } from './llm.js'
 import { runWithConcurrency } from './concurrency.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -16,8 +16,8 @@ program
   .option('--season <n>', 'season number (omit for all seasons)', v => parseInt(v, 10))
   .option('--episode <n>', 'episode number (omit for all episodes in season)', v => parseInt(v, 10))
   .option('--strategy <name>', 'extraction strategy', 'llm')
-  .option('--provider <name>', 'LLM provider (anthropic, openai)', 'anthropic')
-  .option('--model <name>', 'model name (defaults per provider)')
+  .option('--provider <name>', 'LLM provider (anthropic, openai)', 'openai')
+  .option('--model <name>', 'model name', 'gpt-5.5')
   .option('--max-part-cues <n>', 'max cues per subtitle chunk', v => parseInt(v, 10), 200)
   .option('--min-terms <n>', 'skip episode if it already has at least this many terms', v => parseInt(v, 10), 1)
   .option('--parallel <n>', 'number of chunks to process in parallel', v => parseInt(v, 10), 1)
@@ -121,7 +121,7 @@ async function main() {
     process.exit(1)
   }
 
-  const modelName = opts.model || DEFAULT_MODELS[opts.provider]
+  const modelName = opts.model
   const scopeLabel = !isSeries
     ? opts.show
     : opts.season != null

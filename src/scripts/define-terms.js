@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import { HumanMessage } from '@langchain/core/messages'
 import { program } from 'commander'
 import './proxy.js'
-import { DEFAULT_MODELS, createLLM } from './llm.js'
+import { createLLM } from './llm.js'
 import { runWithConcurrency } from './concurrency.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -14,8 +14,8 @@ program
   .requiredOption('--show <slug>', 'show slug')
   .option('--season <n>', 'season number (series only)', v => parseInt(v, 10))
   .option('--episode <n>', 'episode number (series only, requires --season)', v => parseInt(v, 10))
-  .option('--provider <name>', 'LLM provider (anthropic, openai)', 'anthropic')
-  .option('--model <name>', 'model name (defaults per provider)')
+  .option('--provider <name>', 'LLM provider (anthropic, openai)', 'openai')
+  .option('--model <name>', 'model name', 'gpt-5.4-mini')
   .option('--chunk-size <n>', 'terms per LLM chunk', v => parseInt(v, 10), 20)
   .option('--parallel <n>', 'number of chunks to process in parallel', v => parseInt(v, 10), 1)
   .parse()
@@ -148,7 +148,7 @@ async function main() {
   console.log(`${newSlugs.length} term(s) need definitions.`)
 
   const llm = await createLLM(opts.provider, opts.model)
-  const modelName = opts.model || DEFAULT_MODELS[opts.provider]
+  const modelName = opts.model
   const { chunkSize } = opts
 
   const chunks = []
