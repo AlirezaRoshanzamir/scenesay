@@ -1,0 +1,15 @@
+{
+    "title": "True Detective",
+    "imdbId": "tt2356777",
+    "genre": "Crime Drama",
+    "year": 2014,
+    "description": "An anthology crime drama series in which each season features a new cast and a new story. Detectives grapple with personal demons while investigating seemingly unsolvable crimes.",
+    "nativeLanguage": "English (American)",
+    "type": "series",
+    "seasons": [
+        {"number": 1, "year": 2014, "episodesCount": 8},
+        {"number": 2, "year": 2015, "episodesCount": 8},
+        {"number": 3, "year": 2019, "episodesCount": 8},
+        {"number": 4, "year": 2024, "episodesCount": 6}
+    ]
+}
