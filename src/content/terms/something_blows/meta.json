@@ -1,0 +1,33 @@
+{
+  "term": "Something Blows",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/ˈsʌmθɪŋ bloʊz/",
+  "partOfSpeech": "Verb phrase",
+  "englishDefinitions": [
+    "Something is very bad, disappointing, or unpleasant.",
+    "In slang, something is poor in quality or not enjoyable."
+  ],
+  "persianTranslation": [
+    "چیزی افتضاح است",
+    "چیزی مزخرف/بد است"
+  ],
+  "examples": [
+    "The movie blows, so we left after thirty minutes.",
+    "This old phone blows compared with the new model.",
+    "When the plan fell apart, everyone said the situation really blows."
+  ],
+  "synonyms": [
+    "sucks",
+    "is terrible",
+    "is awful"
+  ],
+  "antonyms": [
+    "is great",
+    "is excellent",
+    "is wonderful"
+  ]
+}

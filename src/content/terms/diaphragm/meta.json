@@ -1,0 +1,35 @@
+{
+  "term": "diaphragm",
+  "categories": [],
+  "pronunciation": "/ˈdaɪəˌfɹæm/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "(anatomy) In mammals, a sheet of muscle separating the thorax from the abdomen, contracted and relaxed in respiration to draw air into and expel air from the lungs.",
+    "(anatomy) Any of various membranes or sheets of muscle or ligament which separate one cavity from another.",
+    "A contraceptive device consisting of a flexible cup, used to cover the cervix during intercourse.",
+    "(mechanics) A flexible membrane separating two chambers and fixed around its periphery that distends into one or other chamber as the difference in the pressure in the chambers varies.",
+    "(acoustics) In a speaker, the thin, semi-rigid membrane which vibrates to produce sound.",
+    "(optics, photography) A thin opaque structure with a central aperture, used to limit the passage of light into a camera or similar device.",
+    "(chemistry) A permeable or semipermeable membrane.",
+    "(construction) A floor slab, metal wall panel, roof panel or the like, having a sufficiently large in-plane shear stiffness and sufficient strength to transmit horizontal forces to resisting systems."
+  ],
+  "persianTranslation": [
+    "(آناتومی) در پستانداران، ورقه ای از عضله که قفسه سینه را از شکم جدا می کند، در تنفس منقبض و شل می شود تا هوا را به داخل ریه ها بکشد و هوا را از آن خارج کند.",
+    "(آناتومی) هر یک از غشاها یا صفحات مختلف ماهیچه یا رباط که یک حفره را از حفره دیگر جدا می کند.",
+    "یک وسیله پیشگیری از بارداری متشکل از یک فنجان انعطاف پذیر که برای پوشاندن دهانه رحم در حین مقاربت استفاده می شود.",
+    "(مکانیک) یک غشای انعطاف پذیر که دو محفظه را جدا می کند و در اطراف آن ثابت می شود و به دلیل تفاوت فشار در محفظه ها به یک یا اتاق دیگر منبسط می شود.",
+    "(آکوستیک) در بلندگو، غشای نازک و نیمه سفت و سختی است که برای تولید صدا می لرزد.",
+    "(اپتیک، عکاسی) ساختار نازک مات با دیافراگم مرکزی که برای محدود کردن عبور نور به دوربین یا دستگاه مشابه استفاده می شود.",
+    "(شیمی) غشای تراوا یا نیمه تراوا.",
+    "(ساخت و ساز) دال کف، پانل دیوار فلزی، پانل سقف یا موارد مشابه، دارای سختی برشی به اندازه کافی بزرگ و استحکام کافی برای انتقال نیروهای افقی به سیستم های مقاوم."
+  ],
+  "examples": [
+    "thoracic diaphragm",
+    "pulmonary diaphragm",
+    "cervical diaphragm",
+    "contraceptive diaphragm",
+    "acoustic diaphragm"
+  ],
+  "synonyms": [],
+  "antonyms": []
+}

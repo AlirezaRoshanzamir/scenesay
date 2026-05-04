@@ -1,0 +1,48 @@
+{
+  "term": "item",
+  "categories": [],
+  "pronunciation": "/ˈaɪ.təm/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A distinct physical object.",
+    "(by extension, video games) An object that can be picked up for later use.",
+    "A line of text having a legal or other meaning; a separate particular in an account.",
+    "(psychometrics) A question on a test, which may include its answers.",
+    "A matter for discussion in an agenda.",
+    "(informal) Two people who are having a romantic or sexual relationship with each other.",
+    "A short article in a newspaper.",
+    "(obsolete) A hint; an innuendo.",
+    "(India) Ellipsis of item girl."
+  ],
+  "persianTranslation": [
+    "یک شیء فیزیکی متمایز.",
+    "(با توسعه، بازی های ویدیویی) شیئی که می توان آن را برای استفاده بعدی برداشت.",
+    "خطی از متن دارای معنای حقوقی یا دیگر. یک خاص جداگانه در یک حساب کاربری",
+    "(روان سنجی) یک سوال در یک آزمون، که ممکن است شامل پاسخ های آن باشد.",
+    "موضوعی برای بحث در دستور کار",
+    "(غیررسمی) دو نفر که با یکدیگر رابطه عاشقانه یا جنسی دارند.",
+    "مقاله کوتاه در یک روزنامه",
+    "(منسوخ) یک اشاره; یک کنایه",
+    "(هند) بیضی دختر آیتم."
+  ],
+  "examples": [
+    "Tweezers are great for manipulating small items.",
+    "the items in a bill",
+    "In response to the first item, we deny all wrongdoing.",
+    "The exam has 100 items, each of which includes a correct response and three distractors.",
+    "The first item for discussion is the budget for next year's picnic.",
+    "Jack and Jill are an item.",
+    "an item concerning the weather"
+  ],
+  "synonyms": [
+    "article",
+    "object",
+    "thing",
+    "subject",
+    "topic",
+    "couple",
+    "test",
+    "assessment question"
+  ],
+  "antonyms": []
+}

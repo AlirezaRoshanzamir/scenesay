@@ -1,0 +1,35 @@
+{
+  "term": "knock",
+  "categories": [],
+  "pronunciation": "/nɒk/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An abrupt rapping sound, as from an impact of a hard object against wood.",
+    "A sharp impact.",
+    "(figuratively, informal) A criticism.",
+    "(figuratively, informal) A blow or setback.",
+    "(automotive, uncountable) Preignition, a type of abnormal combustion occurring in spark ignition engines caused by self-ignition; also, the characteristic knocking sound associated with it.",
+    "(cricket, slang) A batsman's innings.",
+    "(baseball) A ball hit into play, especially one that becomes a hit.",
+    "(cycling, uncountable) Synonym of hunger knock."
+  ],
+  "persianTranslation": [
+    "صدای تند تند، مانند برخورد یک جسم سخت به چوب.",
+    "ضربه شدید.",
+    "(به صورت مجازی، غیر رسمی) انتقاد.",
+    "(به صورت مجازی، غیر رسمی) ضربه یا عقب نشینی.",
+    "(خودرویی، غیرقابل شمارش) پیش‌اشتعال، نوعی احتراق غیرعادی که در موتورهای جرقه‌زننده ناشی از خوداشتعالی رخ می‌دهد. همچنین، صدای کوبیدن مشخصه مرتبط با آن.",
+    "(کریکت، عامیانه) اینینگ یک batsman.",
+    "(بیس بال) ضربه زدن به توپ در بازی، به ویژه توپی که به ضربه تبدیل می شود.",
+    "(دوچرخه سواری، غیرقابل شمارش) مترادف کلمه گرسنگی در زدن."
+  ],
+  "examples": [
+    "He took a knock on the head.",
+    "He had a good knock and scored well.",
+    "He played a slow but sure knock of 35."
+  ],
+  "synonyms": [
+    "hunger knock"
+  ],
+  "antonyms": []
+}

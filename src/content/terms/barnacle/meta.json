@@ -1,0 +1,35 @@
+{
+  "term": "barnacle",
+  "categories": [],
+  "pronunciation": "/ˈbɑːnəkl̩/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A marine crustacean of the subclass Cirripedia that attaches itself to submerged surfaces such as tidal rocks or the bottoms of ships.",
+    "The barnacle goose.",
+    "(engineering, slang) In electrical engineering, a change made to a product on the manufacturing floor that was not part of the original product design.",
+    "(electronics, slang) On printed circuit boards, a change such as soldering a wire in order to connect two points, or addition such as an added resistor or capacitor, subassembly or daughterboard.",
+    "(software engineering, slang) A deprecated or obsolete file, image or other artifact that remains with a project even though it is no longer needed.",
+    "(obsolete, in the plural) An instrument like a pair of pincers, to fix on the nose of a vicious horse while shoeing so as to make it more tractable.",
+    "(archaic, British, slang, in the plural) A pair of spectacles.",
+    "(slang, obsolete) A good job, or snack easily obtained.",
+    "(slang) A worldly sailor."
+  ],
+  "persianTranslation": [
+    "سخت پوست دریایی از زیر کلاس Cirripedia که خود را به سطوح غوطه ور مانند سنگ های جزر و مدی یا کف کشتی ها می چسباند.",
+    "غاز بارناکل.",
+    "(مهندسی، زبان عامیانه) در مهندسی برق، تغییری در یک محصول در طبقه تولید ایجاد می شود که بخشی از طرح اولیه محصول نبود.",
+    "(الکترونیک، زبان عامیانه) در بردهای مدار چاپی، تغییری مانند لحیم کردن یک سیم به منظور اتصال دو نقطه، یا اضافه کردن مانند یک مقاومت یا خازن اضافه شده، مجموعه فرعی یا تخته دختر.",
+    "(مهندسی نرم افزار، زبان عامیانه) یک فایل، تصویر یا سایر مصنوعات منسوخ یا منسوخ شده که در پروژه باقی می ماند، حتی اگر دیگر مورد نیاز نباشد.",
+    "(منسوخ، در جمع) ابزاری مانند انبر برای چسباندن بر بینی اسب شرور در هنگام نعل زدن به طوری که آن را کشش بیشتری دهد.",
+    "(باستانی، انگلیسی، عامیانه، در جمع) یک جفت عینک.",
+    "(عامیانه، منسوخ) یک شغل خوب، یا میان وعده به راحتی به دست می آید.",
+    "(عامیانه) ملوان دنیوی."
+  ],
+  "examples": [],
+  "synonyms": [
+    "cruft",
+    "twitch",
+    "shellback"
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,72 @@
+{
+  "term": "fold",
+  "categories": [],
+  "pronunciation": "/ˈfəʊld/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "(transitive) To bend (any thin material, such as paper) over so that it comes in contact with itself.",
+    "(transitive) To make the proper arrangement (in a thin material) by bending.",
+    "(transitive) To draw or coil (one’s arms, a snake’s body, etc.) around something so as to enclose or embrace it.",
+    "(transitive, cooking) To stir (semisolid ingredients) gently, with an action as if folding over a solid.",
+    "(intransitive) To become folded; to form folds.",
+    "(intransitive, informal) To fall over; to collapse or give way; to be crushed.",
+    "(intransitive) To give way on a point or in an argument.",
+    "(intransitive, poker) To withdraw from betting.",
+    "(intransitive, by extension) To withdraw or quit in general.",
+    "(intransitive) To fail, to collapse, to disband.",
+    "(intransitive, business) Of a company, to cease to trade.",
+    "(transitive) To double or lay together (one’s arms, hands, wings, etc.) so as to overlap with each other.",
+    "(transitive, obsolete) To plait or mat (hair) together.",
+    "(transitive) To enclose in a fold of material, to swathe, wrap up, cover, enwrap.",
+    "(transitive) To enclose within folded arms, to clasp, to embrace (see also enfold).",
+    "(transitive, figuratively) To cover up, to conceal.",
+    "(transitive, obsolete) To ensnare, to capture.",
+    "(transitive, computing) To split (a line of text) across multiple lines, to obey line length limitations."
+  ],
+  "persianTranslation": [
+    "(گذرا) خم کردن (هر ماده نازکی مانند کاغذ) به طوری که با خودش تماس پیدا کند.",
+    "(متعدی) با خم کردن، چیدمان مناسب (در یک ماده نازک) درست کردن.",
+    "(متعدی) کشیدن یا پیچیدن (بازوها، بدن مار و غیره) به دور چیزی به طوری که آن را محصور یا در آغوش بگیرد.",
+    "(تغییر، پختن) برای هم زدن (مواد نیمه جامد) به آرامی، با عملی که گویی روی یک جامد تا می شود.",
+    "(غیر گذرا) تا شده شدن. برای تشکیل چین ها",
+    "(غیر گذرا، غیر رسمی) To fall over; فرو ریختن یا راه دادن له شدن",
+    "(ناگذر) راه دادن به یک نقطه یا در یک استدلال.",
+    "(غیر گذرا، پوکر) برای انصراف از شرط بندی.",
+    "(غیر گذرا، با گسترش) به طور کلی کناره گیری یا ترک کردن.",
+    "(ناگذر) شکست خوردن، فرو ریختن، از هم پاشیدن.",
+    "(غیر گذرا، تجاری) از یک شرکت، متوقف کردن تجارت.",
+    "(متعدی) دوبرابر کردن یا کنار هم گذاشتن (بازوها، دست‌ها، بال‌ها و غیره) به طوری که با یکدیگر همپوشانی داشته باشند.",
+    "(متعدی، منسوخ) بافته کردن یا بافتن (مو) با هم.",
+    "(متعدی) محصور کردن در یک چین از مواد، پوشاندن، پیچیدن، پوشاندن، پیچیدن.",
+    "(متعدی) محصور کردن در بازوهای جمع شده، بستن، در آغوش گرفتن (همچنین رجوع کنید به چفت کردن).",
+    "(متعدی، مجازی) پوشاندن، پنهان کردن.",
+    "(متعدی، منسوخ) به دام انداختن، گرفتن.",
+    "(گذرا، محاسباتی) برای تقسیم (یک خط متن) در چندین خط، برای رعایت محدودیت های طول خط."
+  ],
+  "examples": [
+    "If you fold the sheets, they'll fit more easily in the drawer.",
+    "Fold the egg whites into the batter.",
+    "8 Jan 2020, Felicity Cloake in The Guardian, How to make the perfect gluten-free chocolate brownies – recipe\nif you want to make life really easy for yourself, may I point you in the direction of Sunflour’s recipe, which folds four eggs and 150g ground almonds into 500g chocolate spread.",
+    "Cardboard doesn't fold very easily.",
+    "The chair folded under his enormous weight.",
+    "With no hearts in the river and no chance to hit his straight, he folded.",
+    "The company folded after six quarters of negative growth.",
+    "He folded his arms in defiance."
+  ],
+  "synonyms": [
+    "bend",
+    "crease",
+    "fall over",
+    "concede",
+    "give in",
+    "give way",
+    "yield",
+    "buckle",
+    "cave",
+    "cave in",
+    "crumple"
+  ],
+  "antonyms": [
+    "unfold"
+  ]
+}

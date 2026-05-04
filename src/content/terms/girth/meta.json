@@ -1,0 +1,28 @@
+{
+  "term": "girth",
+  "categories": [],
+  "pronunciation": "/ɡɜːθ/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A band passed under the belly of an animal, which holds a saddle or a harness saddle in place.",
+    "The part of an animal around which the girth fits.",
+    "(informal) One's waistline circumference, most often a large one.",
+    "A small horizontal brace or girder.",
+    "The distance measured around an object; the circumference.",
+    "(graph theory) The length of the shortest cycle in a graph."
+  ],
+  "persianTranslation": [
+    "نواری که از زیر شکم حیوان رد می شود که زین یا زین مهار را در جای خود نگه می دارد.",
+    "قسمتی از حیوان که دورش دور آن قرار می گیرد.",
+    "(غیررسمی) دور کمر فرد، اغلب بزرگ است.",
+    "یک مهاربند یا تیر افقی کوچک.",
+    "فاصله اندازه گیری شده در اطراف یک جسم؛ محیط",
+    "(نظریه گراف) طول کوتاه ترین چرخه در یک گراف."
+  ],
+  "examples": [],
+  "synonyms": [
+    "circumference",
+    "cinch"
+  ],
+  "antonyms": []
+}

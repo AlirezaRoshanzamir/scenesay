@@ -1,0 +1,29 @@
+{
+  "term": "dress sock",
+  "categories": [
+    "Formal",
+    "Informal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/drɛs sɑk/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A thin, usually formal sock worn with dress shoes and business or formal clothing."
+  ],
+  "persianTranslation": [
+    "جوراب رسمی",
+    "جوراب چرک‌مرد"
+  ],
+  "examples": [
+    "He wore black dress socks with his suit.",
+    "You should wear dress socks to the interview.",
+    "These dress socks are too thin for winter."
+  ],
+  "synonyms": [
+    "formal sock"
+  ],
+  "antonyms": [
+    "sweat sock",
+    "athletic sock"
+  ]
+}

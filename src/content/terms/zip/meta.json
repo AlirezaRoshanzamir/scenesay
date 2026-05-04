@@ -1,0 +1,38 @@
+{
+  "term": "zip",
+  "categories": [],
+  "pronunciation": "/zɪp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The high-pitched sound of a small object moving rapidly through air.",
+    "(informal) Energy; vigor; vim.",
+    "(UK, Ireland, Commonwealth) A zip fastener.",
+    "(slang) Zero; nothing.",
+    "A trip on a zipline.",
+    "(computing, informal) A zip file.",
+    "(programming) Synonym of convolution (“type of mapping function”).",
+    "(slang) An ounce of marijuana."
+  ],
+  "persianTranslation": [
+    "صدای بلند یک جسم کوچک که به سرعت در هوا حرکت می کند.",
+    "(غیررسمی) انرژی؛ قدرت؛ vim.",
+    "(بریتانیا، ایرلند، کشورهای مشترک المنافع) یک زیپ بست.",
+    "(عامیانه) صفر; هیچ چیز",
+    "سفر با زیپ لاین",
+    "(رایانه، غیر رسمی) یک فایل فشرده.",
+    "(برنامه نویسی) مترادف کانولوشن (\"نوع تابع نقشه برداری\").",
+    "(عامیانه) یک اونس ماری جوانا."
+  ],
+  "examples": [
+    "I know zip about economics."
+  ],
+  "synonyms": [
+    "whizz",
+    "zing",
+    "slide fastener",
+    "zip fastener",
+    "zipper",
+    "convolution"
+  ],
+  "antonyms": []
+}

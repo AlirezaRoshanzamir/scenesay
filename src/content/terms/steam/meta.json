@@ -1,0 +1,45 @@
+{
+  "term": "steam",
+  "categories": [],
+  "pronunciation": "/stiːm/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The hot gaseous form of water, formed when water changes from the liquid phase to the gas phase (at or above its boiling point temperature).",
+    "The suspended condensate (cloud) formed by water vapour when it encounters colder air.",
+    "Mist, fog.",
+    "Exhaled breath into cold air below the dew point of the exhalation.",
+    "Pressurized water vapour used for heating, cooking, or to provide mechanical energy.",
+    "The act of cooking by steaming.",
+    "(figuratively) Internal energy for progress or motive power.",
+    "(figuratively) Pent-up anger.",
+    "A steam-powered vehicle, referring to their use.",
+    "Travel by means of a steam-powered vehicle.",
+    "(obsolete) Any exhalation.",
+    "(fencing) Fencing without the use of any electric equipment."
+  ],
+  "persianTranslation": [
+    "شکل گازی داغ آب، زمانی که آب از فاز مایع به فاز گاز (در دمای نقطه جوش یا بالاتر از آن) تغییر می کند، ایجاد می شود.",
+    "میعانات معلق (ابر) که توسط بخار آب در هنگام برخورد با هوای سردتر ایجاد می شود.",
+    "مه، مه",
+    "بازدم در هوای سرد زیر نقطه شبنم بازدم.",
+    "بخار آب تحت فشار که برای گرم کردن، پخت و پز یا تامین انرژی مکانیکی استفاده می شود.",
+    "عمل پخت با بخار پز.",
+    "(به صورت مجازی) انرژی درونی برای پیشرفت یا نیروی محرکه.",
+    "(به صورت مجازی) خشم فروخورده.",
+    "یک وسیله نقلیه بخار، با اشاره به استفاده از آنها.",
+    "سفر با وسیله نقلیه بخار.",
+    "(منسوخ) هر بازدم.",
+    "(حصارکشی) حصارکشی بدون استفاده از وسایل برقی."
+  ],
+  "examples": [
+    "Give the carrots a ten-minute steam.",
+    "After three weeks in bed he was finally able to sit up under his own steam.",
+    "Dad had to go outside to blow off some steam."
+  ],
+  "synonyms": [
+    "steamer"
+  ],
+  "antonyms": [
+    "electric"
+  ]
+}

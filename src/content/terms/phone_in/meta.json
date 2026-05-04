@@ -1,0 +1,31 @@
+{
+  "term": "phone in",
+  "categories": [],
+  "pronunciation": "",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "(ambitransitive) To deliver a message by telephone when etiquette demands the effort and respect conveyed by communication in person.",
+    "(intransitive) To make a telephone call to a broadcasting station, especially to participate in a program being aired.",
+    "(ambitransitive, idiomatic, figurative) To fulfill a responsibility with a minimum effort rather than the appropriate level of effort.",
+    "(transitive) To make an unseemly, timid performance; to be restrained and timid when bold action is called for."
+  ],
+  "persianTranslation": [
+    "(دوستاگر) برای رساندن پیام از طریق تلفن زمانی که آداب معاشرت مستلزم تلاش و احترامی است که از طریق ارتباط حضوری منتقل می شود.",
+    "(غیر گذرا) برقراری تماس تلفنی با ایستگاه صدا و سیما، به ویژه برای شرکت در برنامه در حال پخش.",
+    "(دوستانه، اصطلاحی، مجازی) انجام یک مسئولیت با حداقل تلاش به جای تلاش مناسب.",
+    "(گذرا) اجرای نامناسب و ترسو. زمانی که نیاز به اقدام جسورانه است، خوددار و ترسو باشند."
+  ],
+  "examples": [
+    "Please give us the courtesy of showing up instead of phoning in.",
+    "Please give us the courtesy of delivering it in person instead of phoning it in.",
+    "We've got Brian phoning in from Phoenix. Brian, you're on the air.",
+    "phone it in",
+    "He thought he could phone in the scheduling process, but it takes sharp negotiations around here.",
+    "He thought he could phone it in. [pronoun antecedent: the scheduling process]",
+    "We're sick of Alice's attitude. She's been phoning it in ever since Bob left. [pronoun antecedent: notional: either \"her job\" or undefined]"
+  ],
+  "synonyms": [
+    "call in"
+  ],
+  "antonyms": []
+}

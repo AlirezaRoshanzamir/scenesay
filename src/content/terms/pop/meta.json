@@ -1,0 +1,53 @@
+{
+  "term": "pop",
+  "categories": [],
+  "pronunciation": "/pɒp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "(countable) A loud, sharp sound, as of a cork coming out of a bottle, especially when the contents are pressurized by fizziness.",
+    "(uncountable, regional, Midwestern US, Canada, Inland Northern American, Midlands, Northwestern US, Western Pennsylvania, Northern England) An effervescent or fizzy drink, most frequently nonalcoholic; soda pop.",
+    "(countable, regional, Midwestern US, Inland Northern American, Northwestern US, Canada, Western Pennsylvania) A bottle, can, or serving of effervescent or fizzy drink, most frequently nonalcoholic; a soda pop.",
+    "A pop shot: a quick, possibly unaimed, shot with a firearm.",
+    "(colloquial, in the phrase \"a pop\") A quantity dispensed; a portion; apiece.",
+    "Something that stands out or is distinctive to the mind or senses.",
+    "(computing) The removal of a data item from the top of a stack.",
+    "A bird, the European redwing.",
+    "(physics) The sixth derivative of the position vector with respect to time (after velocity, acceleration, jerk, jounce, crackle), i.e. the rate of change of crackle.",
+    "(slang, dated) A pistol.",
+    "(US, mostly in plural) A small, immature peanut, boiled as a snack.",
+    "(colloquial) Ellipsis of freeze pop.",
+    "(colloquial) A lollipop.",
+    "(professional wrestling slang) A (usually very) loud audience reaction.",
+    "(music) The pulling of a string away from the fretboard and releasing it so that it snaps back."
+  ],
+  "persianTranslation": [
+    "(قابل شمارش) صدای بلند و تند، مانند صدای چوب پنبه ای که از بطری بیرون می آید، به ویژه هنگامی که محتویات آن در اثر گاز سوزی تحت فشار قرار می گیرند.",
+    "(غیر شمارش، منطقه ای، غرب میانه ایالات متحده، کانادا، آمریکای شمالی داخلی، میدلندز، شمال غربی ایالات متحده، پنسیلوانیا غربی، انگلستان شمالی) یک نوشیدنی جوشان یا گازدار، اغلب غیر الکلی. نوشابه پاپ",
+    "(قابل شمارش، منطقه ای، غرب میانه ایالات متحده، داخل آمریکای شمالی، شمال غربی ایالات متحده، کانادا، پنسیلوانیا غربی) یک بطری، قوطی، یا وعده نوشیدنی جوشان یا گازدار، اغلب غیر الکلی. یک نوشابه",
+    "شلیک پاپ: شلیک سریع، احتمالاً بدون هدف، با سلاح گرم.",
+    "(عامیانه، در عبارت \"a pop\") مقداری توزیع شده; یک بخش؛ هر کدام",
+    "چیزی که برای ذهن یا حواس برجسته یا متمایز است.",
+    "(محاسبات) حذف یک آیتم داده از بالای پشته.",
+    "یک پرنده، قرمز اروپایی.",
+    "(فیزیک) ششمین مشتق بردار موقعیت نسبت به زمان (بعد از سرعت، شتاب، تکان، پرش، تروق)، یعنی نرخ تغییر تروق.",
+    "(عامیانه، مورخ) یک تپانچه.",
+    "(آمریکا، بیشتر به صورت جمع) بادام زمینی کوچک و نارس که به عنوان میان وعده آب پز می شود.",
+    "(عامیانه) بیضی از فریز پاپ.",
+    "(عامیانه) آبنبات چوبی.",
+    "(کشتی عامیانه حرفه ای) واکنش (معمولاً بسیار) با صدای بلند تماشاگران.",
+    "(موسیقی) دور کردن یک سیم از تخته فرت و رها کردن آن به طوری که به عقب باز شود."
+  ],
+  "examples": [
+    "Listen to the pop of a champagne cork.",
+    "Lunch was sandwiches and a bottle of pop.",
+    "Go in the store and buy us three pops.",
+    "The man with the gun took a pop at the rabbit.",
+    "They cost 50 pence a pop.",
+    "a white dress with a pop of red",
+    "a pop of vanilla flavour"
+  ],
+  "synonyms": [
+    "the list at soda"
+  ],
+  "antonyms": []
+}

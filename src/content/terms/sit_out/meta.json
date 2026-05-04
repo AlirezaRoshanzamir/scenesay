@@ -1,0 +1,30 @@
+{
+  "term": "sit out",
+  "categories": [],
+  "pronunciation": "",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "(ambitransitive) To decline to participate; particularly, to decline to dance.",
+    "(transitive) To await the cessation of, without taking part.",
+    "(poker) To be away from the table in the midst of an ongoing game, thus automatically placing one's forced bets and otherwise folding every hand when it is one's time to act.",
+    "(nautical) To lean out to the windward side of a sailboat in order to counterbalance the effects of the wind on the sails.",
+    "(wrestling) To escape a hold while face down by swinging one's legs around into the sitting position."
+  ],
+  "persianTranslation": [
+    "(ambitransitive) برای شرکت نکردن. به ویژه، از رقصیدن خودداری کنید.",
+    "(متعدی) در انتظار توقف، بدون شرکت کردن.",
+    "(پوکر) دور بودن از میز در بحبوحه یک بازی در حال انجام، بنابراین به طور خودکار شرط های اجباری خود را قرار می دهد و در غیر این صورت هر دست را تا زمانی که زمان انجام آن فرا می رسد، جمع کنید.",
+    "(دریانوردی) خم شدن به سمت باد یک قایق بادبانی به منظور متعادل کردن اثرات باد بر بادبان ها.",
+    "(کشتی) برای فرار از گیره در حالی که رو به پایین با چرخاندن پاها به اطراف در حالت نشسته."
+  ],
+  "examples": [
+    "I don't like this tune, and I'm rather tired, so I think I'll just sit out.",
+    "I don't like this tune, and I'm rather tired, so I think I'll just sit it out."
+  ],
+  "synonyms": [
+    "opt out",
+    "hike",
+    "lean out"
+  ],
+  "antonyms": []
+}

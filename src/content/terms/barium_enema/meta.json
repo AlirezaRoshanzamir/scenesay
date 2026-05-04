@@ -1,0 +1,27 @@
+{
+  "term": "Barium Enema",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "8",
+  "pronunciation": "/ˈbɛriəm ˈɛnəmə/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A medical imaging test in which barium is put into the rectum to help X-rays show the large intestine."
+  ],
+  "persianTranslation": [
+    "تنقیهٔ باریم",
+    "آزمایش تصویربرداریِ رودهٔ بزرگ با باریم"
+  ],
+  "examples": [
+    "The doctor ordered a barium enema to examine the colon.",
+    "She was nervous before her barium enema appointment.",
+    "A barium enema can help detect abnormalities in the large intestine."
+  ],
+  "synonyms": [
+    "lower GI series",
+    "colon imaging test"
+  ],
+  "antonyms": []
+}

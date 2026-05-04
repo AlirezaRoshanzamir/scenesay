@@ -1,0 +1,44 @@
+{
+  "term": "clock",
+  "categories": [],
+  "pronunciation": "/klɒk/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A chronometer, an instrument that measures time, particularly the time of day.",
+    "(attributive) A common noun relating to an instrument that measures or keeps track of time.",
+    "(British) The odometer of a motor vehicle.",
+    "(electronics) An electrical signal that synchronizes timing among digital circuits of semiconductor chips or modules.",
+    "The seed head of a dandelion.",
+    "A time clock.",
+    "(computing, informal) A CPU clock cycle, or T-state.",
+    "(uncountable) A luck-based patience or solitaire card game with the cards laid out to represent the face of a clock.",
+    "(UK, obsolete, thieves' cant) A watch (timepiece).",
+    "(slang) A face; the head."
+  ],
+  "persianTranslation": [
+    "کرنومتر، ابزاری که زمان، به ویژه زمان روز را اندازه گیری می کند.",
+    "(صفت) اسم مشترک مربوط به ابزاری است که زمان را اندازه می گیرد یا ردیابی می کند.",
+    "(انگلیسی) کیلومتر شمار وسیله نقلیه موتوری.",
+    "(الکترونیک) یک سیگنال الکتریکی که زمان بندی را بین مدارهای دیجیتال تراشه ها یا ماژول های نیمه هادی هماهنگ می کند.",
+    "سر دانه قاصدک.",
+    "یک ساعت زمان",
+    "(محاسبات، غیر رسمی) سیکل ساعت CPU یا حالت T.",
+    "(غیرقابل شمارش) یک بازی کارتی مبتنی بر شانس یا بازی یک نفره با کارت هایی که برای نمایش چهره یک ساعت چیده شده اند.",
+    "(بریتانیا، منسوخ شده، دزدها) ساعت (ساعت).",
+    "(عامیانه) صورت; سر"
+  ],
+  "examples": [
+    "When the clock says midnight.",
+    "A 12-hour clock system; an antique clock sale; Acme is a clock manufacturer.",
+    "This car has over 300,000 miles on the clock.",
+    "I can't go off to lunch yet: I'm still on the clock.",
+    "We let the guys use the shop's tools and equipment for their own projects as long as they're off the clock.",
+    "Arthur Morrison, Chance of the Game\nBut if the clock was a red 'un, and the opportunity undoubted; to be pinched in the Bow Road merely might well imply loss of caste in the mob, but nobody need be ashamed to be pinched anywhere for a gold watch, after all."
+  ],
+  "synonyms": [
+    "chronometer",
+    "odometer",
+    "clock patience"
+  ],
+  "antonyms": []
+}

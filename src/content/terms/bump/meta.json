@@ -1,0 +1,63 @@
+{
+  "term": "bump",
+  "categories": [],
+  "pronunciation": "/bʌmp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A light blow or jolting collision.",
+    "The sound of such a collision.",
+    "A protuberance on a level surface.",
+    "A swelling on the skin caused by illness or injury.",
+    "(obsolete) One of the protuberances on the cranium which, in phrenology, are associated with distinct faculties or affections of the mind. Also (dated, metonymic) the faculty itself",
+    "(rowing) The point, in a race in which boats are spaced apart at the start, at which a boat begins to overtake the boat ahead.",
+    "The swollen abdomen of a pregnant woman.",
+    "(Internet) A post in an Internet forum thread made in order to raise the thread's profile by returning it to the top of the list of active threads.",
+    "A temporary increase in a quantity, as shown in a graph.",
+    "(slang) A dose of a drug such as ketamine or cocaine, when snorted recreationally.",
+    "(preceded by definite article) A disco dance in which partners rhythmically bump each other's hips together.",
+    "In skipping, a single jump over two consecutive turns of the rope.",
+    "(uncountable) A coarse cotton fabric.",
+    "A training match for a fighting dog.",
+    "(snooker, slang) The jaw of either of the middle pockets.",
+    "(US, slang, uncountable) Music, especially played over speakers at loud volume with strong bass frequency response.",
+    "(US, broadcasting) A short, self-promotional spot on a radio or television station.",
+    "(industrial relations) A reassignment of jobs within an organization (for example, when an existing employee leaves) on the basis of seniority.",
+    "(card games) In the game of khanhoo, the act of claiming a newly discarded card when it is not one's turn, permitted when one can use the card to form a meld other than a sequence.",
+    "(colloquial) A minor problem or difficulty.",
+    "(mining) A sudden movement of underground strata, preceded by a characteristic sound."
+  ],
+  "persianTranslation": [
+    "یک ضربه سبک یا برخورد تکان دهنده.",
+    "صدای چنین برخوردی.",
+    "برآمدگی در سطحی صاف.",
+    "تورم روی پوست ناشی از بیماری یا جراحت.",
+    "(منسوخ) یکی از برآمدگی های روی جمجمه که در فرنولوژی با قوا یا محبت های متمایز ذهن همراه است. همچنین (مورخ، کنایه) خود دانشکده",
+    "(پارو زدن) نقطه، در مسابقه ای که در آن قایق ها در ابتدا از یکدیگر فاصله دارند، که در آن یک قایق شروع به سبقت گرفتن از قایق پیش رو می کند.",
+    "شکم متورم زن باردار.",
+    "(اینترنت) پستی در تالار گفتگوی اینترنتی که به منظور بالا بردن نمایه تاپیک با بازگرداندن آن به بالای لیست رشته های فعال ایجاد شده است.",
+    "افزایش موقت در یک مقدار، همانطور که در نمودار نشان داده شده است.",
+    "(عامیانه) دوز دارویی مانند کتامین یا کوکائین، هنگامی که به صورت تفریحی خرخر می کند.",
+    "(قبل از حرف معین) یک رقص دیسکو که در آن شریک‌ها به طور ریتمیک باسن یکدیگر را به هم می‌کوبند.",
+    "در پرش، یک پرش از روی دو دور متوالی طناب.",
+    "(غیرقابل شمارش) پارچه پنبه ای درشت.",
+    "یک مسابقه آموزشی برای سگ جنگنده.",
+    "(اسنوکر، عامیانه) فک هر یک از جیب های میانی.",
+    "(آمریکا، زبان عامیانه، غیرقابل شمارش) موسیقی، به ویژه از بلندگوها با صدای بلند با پاسخ فرکانس باس قوی پخش می شود.",
+    "(ایالات متحده، پخش) یک نقطه کوتاه و خود تبلیغاتی در یک ایستگاه رادیویی یا تلویزیونی.",
+    "(روابط صنعتی) تخصیص مجدد مشاغل در یک سازمان (مثلاً زمانی که یک کارمند موجود را ترک می کند) بر اساس ارشدیت.",
+    "(بازی با ورق) در بازی خانو، عمل ادعای کارتی که به تازگی دور انداخته شده است، زمانی که نوبت به شخص نمی رسد، زمانی مجاز است که بتوان از آن کارت برای ایجاد ترکیبی غیر از سکانس استفاده کرد.",
+    "(عامیانه) مشکل یا مشکل جزئی.",
+    "(استخراج) حرکت ناگهانی اقشار زیرزمینی که قبل از آن صدای مشخصی وجود دارد."
+  ],
+  "examples": [
+    "His car had a tiny bump with a moving bus.",
+    "He heard a loud bump and saw the front part of his car was broken and the driver of the other car was running to apologise.",
+    "the bump of veneration; the bump of acquisitiveness",
+    "Our task is to elevate the character of the people, raising up, in fact, their bump of self-esteem and suppressing the bumps of servility and fury.",
+    "US presidential nominees get a post-convention bump in survey ratings."
+  ],
+  "synonyms": [
+    "baby bump"
+  ],
+  "antonyms": []
+}

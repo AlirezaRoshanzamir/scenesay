@@ -1,0 +1,29 @@
+{
+  "term": "Who’s Up",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/huːz ʌp/",
+  "partOfSpeech": "Phrase",
+  "englishDefinitions": [
+    "Used to ask who is awake, available, or ready to do something.",
+    "Used informally to ask who wants to join, help, or participate."
+  ],
+  "persianTranslation": [
+    "کی بیداره؟",
+    "کی هست؟",
+    "کی آماده‌ست؟"
+  ],
+  "examples": [
+    "It's midnight—who's up?",
+    "Who's up for pizza after the movie?",
+    "Text me if you're awake; who's up?"
+  ],
+  "synonyms": [
+    "who is available",
+    "who is awake"
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,31 @@
+{
+  "term": "atrium",
+  "categories": [],
+  "pronunciation": "/ˈeɪ.tɹi.əm/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "(architecture) A central room or space in ancient Roman homes, open to the sky in the middle; a similar space in other buildings.",
+    "(architecture) A square hall lit by daylight from above, into which rooms open at one or more levels.",
+    "(anatomy) A cavity, entrance, or passage.",
+    "(biology) Any enclosed body cavity or chamber.",
+    "(anatomy) An upper chamber of the heart that receives blood from the veins and forces it into a ventricle. In higher vertebrates, the right atrium receives blood from the superior vena cava and inferior vena cava, and the left atrium receives blood from the left and right pulmonary veins.",
+    "(anatomy) A microscopic air sac within a pulmonary alveolus.",
+    "(palynology) A cavity inside a porate aperture of a pollen grain formed by the separation of the sexine and nexine layers, widening toward the interior of the grain."
+  ],
+  "persianTranslation": [
+    "(معماری) اتاق یا فضای مرکزی در خانه‌های روم باستان که در وسط رو به آسمان باز است. فضای مشابه در ساختمان های دیگر.",
+    "(معماری) تالار مربعی که با نور روز از بالا روشن می شود که اتاق ها در یک یا چند سطح به داخل آن باز می شوند.",
+    "(آناتومی) حفره، ورودی یا گذرگاه.",
+    "(زیست شناسی) هر حفره یا اتاق محصور بدن.",
+    "(آناتومی) اتاق فوقانی قلب که خون را از وریدها دریافت می کند و آن را به داخل بطن می فرستد. در مهره داران بالاتر، دهلیز راست از ورید اجوف فوقانی و ورید اجوف تحتانی خون دریافت می کند و دهلیز چپ از وریدهای ریوی چپ و راست خون دریافت می کند.",
+    "(آناتومی) کیسه هوای میکروسکوپی درون آلوئول ریوی.",
+    "(پالینولوژی) حفره ای در داخل دهانه منفذی دانه گرده که از جداسازی لایه های جنسی و نکسین تشکیل شده و به سمت داخل دانه گشاد می شود."
+  ],
+  "examples": [
+    "an atrium of the infundibula of the lungs"
+  ],
+  "synonyms": [
+    "cavaedium"
+  ],
+  "antonyms": []
+}

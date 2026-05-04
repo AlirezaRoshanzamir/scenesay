@@ -1,0 +1,27 @@
+{
+  "term": "Amnio Centesis",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "8",
+  "pronunciation": "/ˌæmni.oʊsɛnˈtiːsɪs/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A medical procedure in which a small amount of amniotic fluid is taken from the womb for testing.",
+    "A prenatal diagnostic test used to check for certain genetic or developmental conditions."
+  ],
+  "persianTranslation": [
+    "آمنیوسنتز",
+    "نمونه‌برداری از مایع آمنیوتیک"
+  ],
+  "examples": [
+    "The doctor recommended amnio centesis to test for genetic conditions.",
+    "Amnio centesis is usually performed during pregnancy under medical supervision.",
+    "She was nervous before the amnio centesis procedure."
+  ],
+  "synonyms": [
+    "amniocentesis"
+  ],
+  "antonyms": []
+}

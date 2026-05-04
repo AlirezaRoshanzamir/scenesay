@@ -1,0 +1,39 @@
+{
+  "term": "pivot",
+  "categories": [],
+  "pronunciation": "/ˈpɪv.ɪt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A thing on which something turns; specifically a metal pointed pin or short shaft in machinery, such as the end of an axle or spindle.",
+    "(figuratively, by extension) Something or someone having a paramount significance in a certain situation.",
+    "Act of turning on one foot.",
+    "(military) The officer or soldier who simply turns in his place while the company or line moves around him in wheeling.",
+    "(roller derby) A player with responsibility for co-ordinating their team in a particular jam.",
+    "(programming) An element of a set to be sorted that is chosen as a midpoint, so as to divide the other elements into two groups to be dealt with recursively.",
+    "(computing) A pivot table.",
+    "(graphical user interface) Any of a row of captioned elements used to navigate to subpages, rather like tabs.",
+    "(mathematics) An element of a matrix that is used as a focus for row operations, such as dividing the row by the pivot, or adding multiples of the row to other rows making all other values in the pivot column 0.",
+    "(statistics) A pivotal quantity.",
+    "(Canadian football) A quarterback.",
+    "(handball) A circle runner.",
+    "(US, politics) A shift during a general election in a political candidate's messaging to reflect plans and values more moderate than those advocated during the primary."
+  ],
+  "persianTranslation": [
+    "چیزی که چیزی بر آن می چرخد; به طور خاص یک پین نوک تیز فلزی یا شفت کوتاه در ماشین آلات، مانند انتهای یک محور یا دوک نخ ریسی.",
+    "(به صورت مجازی) چیزی یا کسی که در یک موقعیت خاص اهمیت بالایی دارد.",
+    "عمل چرخش روی یک پا.",
+    "(نظامی) افسر یا سربازی که به سادگی به جای خود می چرخد ​​در حالی که گروهان یا خط در اطراف او چرخانده می شوند.",
+    "(دربی غلتکی) بازیکنی که مسئول هماهنگی تیم خود در یک جام خاص است.",
+    "(برنامه نویسی) عنصری از یک مجموعه که باید مرتب شود که به عنوان نقطه میانی انتخاب می شود، به طوری که عناصر دیگر را به دو گروه تقسیم می کند تا به صورت بازگشتی با آنها برخورد شود.",
+    "(محاسبات) جدول محوری.",
+    "(رابط کاربری گرافیکی) هر یک از یک ردیف از عناصر زیرنویس که برای پیمایش به صفحات فرعی استفاده می شود، به جای اینکه مانند برگه ها باشد.",
+    "(ریاضیات) عنصری از یک ماتریس که به عنوان کانونی برای عملیات ردیف استفاده می شود، مانند تقسیم سطر بر محور، یا افزودن مضربی از سطر به سطرهای دیگر و ایجاد تمام مقادیر دیگر در ستون محوری 0.",
+    "(آمار) کمیت محوری.",
+    "(فوتبال کانادا) یک کوارتربک.",
+    "(هندبال) دونده دایره ای.",
+    "(ایالات متحده، سیاست) تغییر در پیام‌های یک نامزد سیاسی در طول یک انتخابات عمومی برای منعکس کردن برنامه‌ها و ارزش‌های معتدل‌تر از آنچه در دوره مقدماتی از آن حمایت می‌شد."
+  ],
+  "examples": [],
+  "synonyms": [],
+  "antonyms": []
+}

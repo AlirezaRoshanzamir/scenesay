@@ -1,0 +1,28 @@
+{
+  "term": "OB-GYN",
+  "categories": [
+    "Technical",
+    "Academic"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˌoʊ biː ˈdʒaɪ ˈwɑːn/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A doctor who specializes in obstetrics and gynecology.",
+    "A medical specialist for pregnancy, childbirth, and women's reproductive health."
+  ],
+  "persianTranslation": [
+    "متخصص زنان و زایمان",
+    "پزشک زنان و مامایی"
+  ],
+  "examples": [
+    "She scheduled an appointment with her OB-GYN.",
+    "An OB-GYN can provide prenatal care during pregnancy.",
+    "The clinic has several experienced OB-GYNs."
+  ],
+  "synonyms": [
+    "gynecologist",
+    "obstetrician"
+  ],
+  "antonyms": []
+}

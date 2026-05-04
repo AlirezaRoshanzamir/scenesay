@@ -1,0 +1,33 @@
+{
+  "term": "dirt",
+  "categories": [],
+  "pronunciation": "/dɜːt/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "(chiefly US) Soil or earth.",
+    "A stain or spot (on clothes etc); any foreign substance that worsens appearance.",
+    "Previously unknown facts or rumors about a person.",
+    "(figurative) Meanness; sordidness.",
+    "(mining) In placer mining, earth, gravel, etc., before washing.",
+    "Freckles.",
+    "(archaic) Excrement; dung."
+  ],
+  "persianTranslation": [
+    "(عمدتاً ایالات متحده) خاک یا زمین.",
+    "لکه یا لکه (روی لباس و غیره)؛ هر ماده خارجی که ظاهر را بدتر می کند.",
+    "حقایق یا شایعات ناشناخته قبلی در مورد یک شخص.",
+    "(تصویری) پست; افتضاح",
+    "(معدن) در معدنکاری پلاسر، خاک، شن و غیره، قبل از شستشو.",
+    "کک و مک.",
+    "(باستانی) فضولات; سرگین"
+  ],
+  "examples": [
+    "The reporter uncovered the dirt on the businessman by going undercover."
+  ],
+  "synonyms": [
+    "filth",
+    "gossip",
+    "kompromat"
+  ],
+  "antonyms": []
+}

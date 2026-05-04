@@ -1,0 +1,19 @@
+{
+  "term": "mangle",
+  "categories": [],
+  "pronunciation": "/ˈmæŋ.ɡəl/",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "(transitive) To change, mutilate, or disfigure by cutting, tearing, rearranging, etc.",
+    "(transitive, computing) To modify (an identifier from source code) so as to produce a unique identifier for internal use by the compiler, etc."
+  ],
+  "persianTranslation": [
+    "(گذرا) تغییر دادن، مثله کردن، یا از بین بردن شکل با بریدن، پاره کردن، مرتب کردن مجدد و غیره.",
+    "(گذرا، محاسباتی) برای تغییر (یک شناسه از کد منبع) به طوری که یک شناسه منحصر به فرد برای استفاده داخلی توسط کامپایلر و غیره تولید شود."
+  ],
+  "examples": [
+    "c. 1703-20, Jonathan Swift, A Letter to a Very Young Lady on Her Marriage\nwhen they are disposed to mangle a play or a novel"
+  ],
+  "synonyms": [],
+  "antonyms": []
+}

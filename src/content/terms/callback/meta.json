@@ -1,0 +1,32 @@
+{
+  "term": "callback",
+  "categories": [],
+  "pronunciation": "",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "The return of a situation to a previous position or state; a reference to such a position or state.",
+    "(telephony) A return telephone or radio call; especially one made automatically to authenticate a logon to a computer network.",
+    "A product recall because of a defect or safety concern.",
+    "(programming) A function pointer passed as an argument to another function.",
+    "(theater) A follow-up audition in casting.",
+    "(business) A follow-up interview in employment recruiting.",
+    "(comedy) A joke which references an earlier joke in the same routine.",
+    "A form of audience participation in which the audience shout lines in response to the dialog of a film."
+  ],
+  "persianTranslation": [
+    "بازگشت وضعیت به موقعیت یا وضعیت قبلی؛ اشاره به چنین موقعیت یا حالتی.",
+    "(تلفن) تماس تلفنی یا رادیویی برگشت. به خصوص یکی که به طور خودکار برای احراز هویت ورود به یک شبکه کامپیوتری ساخته شده است.",
+    "فراخوان محصول به دلیل نقص یا نگرانی ایمنی.",
+    "(برنامه نویسی) اشاره گر تابع به عنوان آرگومان به تابع دیگری ارسال می شود.",
+    "(تئاتر) یک تست بازیگری بعدی.",
+    "(کسب و کار) مصاحبه تکمیلی در استخدام استخدام.",
+    "(کمدی) لطیفه ای که در همان روال به شوخی قبلی اشاره می کند.",
+    "شکلی از مشارکت مخاطب که در آن مخاطب در پاسخ به دیالوگ یک فیلم خطوطی را فریاد می زند."
+  ],
+  "examples": [],
+  "synonyms": [
+    "running gag",
+    "hark-back"
+  ],
+  "antonyms": []
+}

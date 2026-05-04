@@ -1,0 +1,29 @@
+{
+  "term": "backhand",
+  "categories": [],
+  "pronunciation": "/ˈbækhænd/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "(tennis and other, racquet sports) A stroke made across the chest from the off-hand side to the racquet hand side; a stroke during which the back of the hand faces the shot.",
+    "Handwriting that leans to the left.",
+    "(Ultimate Frisbee) The standard throw; a throw during which the disc begins on the off-hand side and travels across the chest to be released from the opposite side.",
+    "The back of the hand: the reverse side (dorsal side) of the human hand or other primate hand.",
+    "(surfing) The hand towards the back of the board."
+  ],
+  "persianTranslation": [
+    "(تنیس و سایر ورزش‌های راکتی) ضربه‌ای که روی سینه از سمت خارج از دست تا سمت راکت ایجاد می‌شود. سکته ای که در طی آن پشت دست به سمت شلیک می شود.",
+    "دست خطی که به سمت چپ متمایل است.",
+    "(فریزبی نهایی) پرتاب استاندارد. پرتابی که در طی آن دیسک از سمت خارج از دست شروع می شود و در سراسر قفسه سینه حرکت می کند تا از سمت مخالف رها شود.",
+    "پشت دست: سمت معکوس (سمت پشتی) دست انسان یا دست دیگر پستانداران.",
+    "(موج سواری) دست به سمت پشت تخته."
+  ],
+  "examples": [
+    "She has a mean backhand.",
+    "It was written in a shaky backhand."
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "forehand",
+    "palm"
+  ]
+}

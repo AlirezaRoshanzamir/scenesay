@@ -1,0 +1,27 @@
+{
+  "term": "Platonomy",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "9",
+  "pronunciation": "/pləˈtɒnəmi/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A theoretical or conceptual classification system based on flat, simple structures rather than hierarchical ones.",
+    "The study or idea of organizing knowledge or systems in a non-hierarchical way."
+  ],
+  "persianTranslation": [
+    "طبقه‌بندیِ مفهومیِ تخت/غیرهیَرارشیک",
+    "نظریهٔ سازمان‌دهیِ غیرسلسله‌مراتبی"
+  ],
+  "examples": [
+    "The paper proposed a platonomy for organizing digital information.",
+    "Researchers debated whether a platonomy could replace the traditional hierarchy.",
+    "In this model, the platonomy emphasizes equality between categories."
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "hierarchy"
+  ]
+}

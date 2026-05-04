@@ -1,0 +1,25 @@
+{
+  "term": "Lyme Disease",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/laɪm dɪˈziːz/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "An infectious disease caused by bacteria transmitted through the bite of infected ticks.",
+    "A disease that can cause fever, fatigue, rash, joint pain, and other symptoms."
+  ],
+  "persianTranslation": [
+    "بیماری لایم",
+    "عفونت منتقله از کنه"
+  ],
+  "examples": [
+    "She was diagnosed with Lyme disease after a tick bite.",
+    "Lyme disease can be treated with antibiotics if caught early.",
+    "The doctor warned them to check for ticks after hiking."
+  ],
+  "synonyms": [],
+  "antonyms": []
+}

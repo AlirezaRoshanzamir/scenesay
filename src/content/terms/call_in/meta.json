@@ -1,0 +1,37 @@
+{
+  "term": "call in",
+  "categories": [],
+  "pronunciation": "",
+  "partOfSpeech": "Verb",
+  "englishDefinitions": [
+    "(intransitive, copulative) To communicate with a base etc, by telephone.",
+    "(transitive) To report; communicate (a message) by telephone or similar.",
+    "(intransitive) To pay a short visit.",
+    "(transitive) To summon someone, especially for help or advice.",
+    "(transitive) To withdraw something from sale or circulation.",
+    "(transitive) To request immediate repayment of (a debt)."
+  ],
+  "persianTranslation": [
+    "(ناگذر، زوجی) برای برقراری ارتباط با پایگاه و غیره، از طریق تلفن.",
+    "(متعدی) گزارش کردن. برقراری ارتباط (پیام) از طریق تلفن یا موارد مشابه.",
+    "(ناگذر) دیدار کوتاه.",
+    "(متعدی) احضار کسی مخصوصاً برای کمک یا نصیحت.",
+    "(متعدی) بیرون کشیدن چیزی از فروش یا گردش.",
+    "(متعدی) درخواست بازپرداخت فوری (یه بدهی)."
+  ],
+  "examples": [
+    "I was too unwell to work yesterday so I called in sick.",
+    "The hoaxer called in a bomb threat.",
+    "Near-synonym: call on (transitive)",
+    "I'll call in this afternoon to pick up my prescription.",
+    "The government called in the army to deal with the riots."
+  ],
+  "synonyms": [
+    "phone in",
+    "pop in",
+    "call on",
+    "summon",
+    "recall"
+  ],
+  "antonyms": []
+}

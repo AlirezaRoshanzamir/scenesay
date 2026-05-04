@@ -1,0 +1,31 @@
+{
+  "term": "Off Ramp",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈɔf ræmp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A road or lane that lets vehicles leave a highway.",
+    "A way out or exit from a larger route or system, used figuratively."
+  ],
+  "persianTranslation": [
+    "خروجیِ بزرگراه",
+    "راه خروج"
+  ],
+  "examples": [
+    "Take the next off ramp to get to downtown.",
+    "The driver missed the off ramp and had to turn around.",
+    "The company offered an off ramp for employees who wanted to leave."
+  ],
+  "synonyms": [
+    "exit ramp",
+    "exit",
+    "turnoff"
+  ],
+  "antonyms": [
+    "on ramp"
+  ]
+}

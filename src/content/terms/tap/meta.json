@@ -1,0 +1,70 @@
+{
+  "term": "tap",
+  "categories": [],
+  "pronunciation": "/tæp/",
+  "partOfSpeech": "Noun",
+  "englishDefinitions": [
+    "A conical peg or pin used to close and open the hole or vent in a container.",
+    "An object with a tapering conical form like a tap (etymology 1, sense 1); specifically, ellipsis of taproot (“long, tapering root of a plant”).",
+    "A hollow device used to control the flow of a fluid, such as an alcoholic beverage from a cask, or a gas or liquid in a pipe.",
+    "A procedure that removes fluid from a body cavity; paracentesis.",
+    "Liquor drawn through a tap (etymology 1, sense 2.2); hence, a certain kind or quality of liquor; also (figurative, informal), a certain kind or quality of any thing.",
+    "A device used to listen in secretly on telephone calls or other communications.",
+    "A secret interception of telephone calls or other communications using such a device; also, a recording of such a communication.",
+    "A situation where a borrowing government authority issues bonds over a period of time, usually at a fixed price, with volumes sold on a particular day dependent on market conditions.",
+    "A cylindrical tool used to cut an internal screw thread in a hole, with cutting edges around the lower end and an upper end to which a handle is fitted to turn the tool.",
+    "Ellipsis of taphouse or taproom (“place where alcoholic beverages are served on tap”).",
+    "A connection made to an electrical or fluid conductor without breaking it; a tapping."
+  ],
+  "persianTranslation": [
+    "میخ یا سنجاق مخروطی که برای بستن و باز کردن سوراخ یا دریچه در یک ظرف استفاده می شود.",
+    "شیئی با شکل مخروطی مخروطی مانند شیر (ریشه شناسی 1، حس 1). به طور خاص، بیضی ریشه (\"ریشه بلند و باریک گیاه\").",
+    "دستگاهی توخالی که برای کنترل جریان سیال، مانند یک نوشیدنی الکلی از چلیک، یا گاز یا مایع در لوله استفاده می شود.",
+    "روشی که مایع را از حفره بدن خارج می کند. پاراسنتز",
+    "مشروب که از طریق شیر کشیده می شود (ریشه شناسی 1، حس 2.2). از این رو، نوع یا کیفیت خاصی از مشروب. همچنین (تصویری، غیر رسمی)، نوع یا کیفیت خاصی از هر چیز.",
+    "دستگاهی که برای گوش دادن مخفیانه به تماس های تلفنی یا سایر ارتباطات استفاده می شود.",
+    "شنود مخفی تماس های تلفنی یا سایر ارتباطات با استفاده از چنین دستگاهی؛ همچنین، ضبط چنین ارتباطی.",
+    "وضعیتی که در آن یک مقام دولتی وام گیرنده اوراق قرضه را در یک دوره زمانی منتشر می کند، معمولاً با قیمتی ثابت، با حجم فروش در یک روز خاص بسته به شرایط بازار.",
+    "ابزاری استوانه‌ای شکل که برای بریدن رزوه پیچ داخلی در سوراخ استفاده می‌شود، با لبه‌های برش در اطراف انتهای پایین و انتهای بالایی که یک دسته برای چرخاندن ابزار به آن تعبیه شده است.",
+    "بیضی شیرخانه یا اتاقک (\"محلی که مشروبات الکلی در آن سرو می شود\").",
+    "اتصالی که به یک هادی الکتریکی یا سیال بدون شکستن آن انجام می شود. ضربه زدن"
+  ],
+  "examples": [
+    "We don’t have bottled water; you’ll have to get it from the tap.",
+    "Is the tap water here safe to drink?",
+    "Taps, also called spouts or spiles, are valveless pipes inserted into drilled holes in maple trees to collect their sap as part of the process of making maple syrup",
+    "abdominal tap    pleural tap    spinal tap",
+    "a liquor of the same tap",
+    "telephone tap",
+    "bond tap    tap issue",
+    "We drilled a hole and then cut the threads with the proper tap to match the valve’s thread.",
+    "The system was barely keeping pressure due to all of the ill-advised taps along its length."
+  ],
+  "synonyms": [
+    "clap",
+    "knock",
+    "pat",
+    "ping",
+    "plip",
+    "plonk",
+    "plop",
+    "rap",
+    "slam",
+    "slap",
+    "smack",
+    "spank",
+    "tap",
+    "spigot",
+    "spile",
+    "cock",
+    "faucet",
+    "handle",
+    "spout",
+    "stopcock",
+    "bar",
+    "barroom"
+  ],
+  "antonyms": [
+    "humming"
+  ]
+}
