@@ -14,7 +14,7 @@ program
   .requiredOption('--show <slug>', 'show slug')
   .option('--season <n>', 'season number (series only)', v => parseInt(v, 10))
   .option('--episode <n>', 'episode number (series only, requires --season)', v => parseInt(v, 10))
-  .option('--strategy <list>', 'comma-separated strategies: freedict, llm', 'freedict,llm')
+  .option('--strategy <list>', 'comma-separated strategies: freedict, llm, nothing', 'freedict')
   .option('--provider <name>', 'LLM provider (anthropic, openai)', 'openai')
   .option('--model <name>', 'model name', 'gpt-5.4-mini')
   .option('--chunk-size <n>', 'terms per LLM chunk', v => parseInt(v, 10), 20)
@@ -276,7 +276,10 @@ async function main() {
     if (remaining.length === 0) break
 
     let label, define
-    if (strategy === 'freedict') {
+    if (strategy === 'nothing') {
+      label = 'nothing'
+      break
+    } else if (strategy === 'freedict') {
       label = 'freedict'
       define = chunk => defineFreeDict(chunk)
     } else if (strategy === 'llm') {
