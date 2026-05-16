@@ -17,7 +17,7 @@ program
   .option('--strategy <list>', 'comma-separated strategies: freedict, llm, nothing', 'freedict')
   .option('--provider <name>', 'LLM provider (anthropic, openai)', 'openai')
   .option('--model <name>', 'model name', 'gpt-5.4-mini')
-  .option('--chunk-size <n>', 'terms per LLM chunk', v => parseInt(v, 10), 20)
+  .option('--chunk-size <n>', 'terms per LLM chunk', v => parseInt(v, 10), 10)
   .option('--parallel <n>', 'number of LLM chunks to process in parallel', v => parseInt(v, 10), 1)
   .parse()
 
@@ -199,14 +199,15 @@ function writeDefinitions(definitions, termsDir, expectedSlugs) {
 function readMetaTerms(metaPath) {
   if (!fs.existsSync(metaPath)) return []
   const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
-  return Array.isArray(meta.terms) ? meta.terms : []
+  if (!Array.isArray(meta.terms)) return []
+  return meta.terms.map(t => t.id).filter(Boolean)
 }
 
 function collectTermSlugs(showDir, showMeta, opts) {
   const slugSet = new Set()
 
   if (showMeta.type !== 'series') {
-    for (const slug of showMeta.terms || []) slugSet.add(slug)
+    for (const term of showMeta.terms || []) slugSet.add(term.id)
     return [...slugSet]
   }
 

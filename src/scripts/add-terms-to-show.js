@@ -47,11 +47,15 @@ ${text}`),
   ])
   const raw = response.content.trim()
   const jsonMatch = raw.match(/\[[\s\S]*\]/)
-  if (!jsonMatch) throw new Error('LLM did not return a JSON array')
+  if (!jsonMatch) throw new console.error('LLM did not return a JSON array')
   return JSON.parse(jsonMatch[0])
 }
 
 const STRATEGIES = { llm: extractTermsLLM }
+
+function getSource(strategy, model) {
+  return `${strategy}/${model}`
+}
 
 function listDirNums(dirPath) {
   if (!fs.existsSync(dirPath)) return []
@@ -121,6 +125,7 @@ async function main() {
     process.exit(1)
   }
 
+  const source = getSource(opts.strategy, opts.model)
   const modelName = opts.model
   const scopeLabel = !isSeries
     ? opts.show
@@ -213,25 +218,37 @@ async function main() {
       }
 
       if (!meta.terms) meta.terms = []
-      const existingSlugs = new Set(meta.terms)
-      const newSlugs = []
+      const existingMap = new Map(meta.terms.map(t => [t.id, t]))
+      let newTermsCount = 0
+      let sourcesAddedCount = 0
       for (const t of extractedTerms) {
         if (!t) continue
         const slug = toSlug(t)
-        if (existingSlugs.has(slug)) continue
-        newSlugs.push(slug)
-        existingSlugs.add(slug)
+        if (existingMap.has(slug)) {
+          const existing = existingMap.get(slug)
+          if (!existing.sources.includes(source)) {
+            existing.sources.push(source)
+            sourcesAddedCount++
+          }
+        } else {
+          const newTerm = { id: slug, sources: [source] }
+          meta.terms.push(newTerm)
+          existingMap.set(slug, newTerm)
+          newTermsCount++
+        }
       }
 
-      if (newSlugs.length === 0) {
+      if (newTermsCount === 0 && sourcesAddedCount === 0) {
         process.stdout.write(' no new terms\n')
         stats.unchanged++
       } else {
-        meta.terms.push(...newSlugs)
         fs.writeFileSync(target.metaPath, JSON.stringify(meta, null, 4))
-        process.stdout.write(` +${newSlugs.length} terms (total: ${meta.terms.length})\n`)
+        const parts = []
+        if (newTermsCount > 0) parts.push(`+${newTermsCount} terms`)
+        if (sourcesAddedCount > 0) parts.push(`+${sourcesAddedCount} sources`)
+        process.stdout.write(` ${parts.join(', ')} (total: ${meta.terms.length})\n`)
         stats.added++
-        stats.totalNewTerms += newSlugs.length
+        stats.totalNewTerms += newTermsCount
       }
     }
   } finally {
