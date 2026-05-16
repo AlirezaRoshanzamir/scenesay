@@ -1,12 +1,47 @@
 {
     "title": "The One with the Metaphorical Tunnel",
     "terms": [
-        "make_out",
-        "bunny_bump",
-        "kicky",
-        "piccata",
-        "contact_paper",
-        "trip",
-        "doof"
+        {
+            "id": "make_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bunny_bump",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "kicky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "piccata",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "contact_paper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "trip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doof",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

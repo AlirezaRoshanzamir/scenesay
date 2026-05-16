@@ -1,8 +1,23 @@
 {
     "title": "The One Where Ross and Rachel You Know",
     "terms": [
-        "bob",
-        "smite",
-        "homo_habilis"
+        {
+            "id": "bob",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "smite",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "homo_habilis",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

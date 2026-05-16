@@ -1,153 +1,894 @@
 {
     "title": "The One with the Cat",
     "terms": [
-        "that_ripped",
-        "that_ripped_real_nice",
-        "throwing_it_out",
-        "tetanus_shot",
-        "with_my_own_hands",
-        "stick_you_in",
-        "running_into_you",
-        "give_me_a_call",
-        "later",
-        "chip_matthews",
-        "prom",
-        "ran_into_him",
-        "product_report",
-        "fall_asleep",
-        "ask_out",
-        "dumb_drunken_bitch",
-        "finest_oak_east_of_the_mississippi",
-        "lace",
-        "in_all_the_land",
-        "ad",
-        "entertainment_center",
-        "italian_craftsmanship",
-        "gepetto",
-        "bucks",
-        "best_offer",
-        "profit",
-        "accountant",
-        "for_a_living",
-        "shoo",
-        "montauk",
-        "spirit",
-        "glaucoma_medicine",
-        "dr_skeptismo",
-        "guitar_case",
-        "orange_felt",
-        "orange_roughy",
-        "dude",
-        "huge_pair_of",
-        "let_it_go",
-        "going_out_with",
-        "having_sex_with",
-        "come_on",
-        "back_in_high_school",
-        "of_all_people",
-        "go_out_with",
-        "ride_off",
-        "letterman_jacket",
-        "band_uniform",
-        "specially_made",
-        "home_ec_classes",
-        "mascot",
-        "back_then",
-        "get_the_chance",
-        "called_me_up",
-        "asked_me_out",
-        "fat_girl_inside_of_me",
-        "owe_her_this",
-        "having_any_luck",
-        "getting_rid_of",
-        "gonna_work_out",
-        "screening_process",
-        "squirming",
-        "get_away",
-        "gets_used_to",
-        "replaced",
-        "return_a_call",
-        "b_e_a_c_h",
-        "suck_me_into_this",
-        "jurassic_park",
-        "pardon_my_roommate",
-        "willing_to_trade",
-        "canoe",
-        "throw_the_canoe_away",
-        "telephone_pole",
-        "goes_by_the_name",
-        "soho",
-        "reward",
-        "split_five_ways",
-        "crazy_lady",
-        "took_a_nap",
-        "tummy",
-        "purred",
-        "bloomingdale_s",
-        "seeing_anyone",
-        "unit",
-        "sturdy_construction",
-        "tons_of",
-        "storage_compartments",
-        "grown_man",
-        "5_bucks",
-        "locked_me_in",
-        "coffin",
-        "knock_5_bucks_off_the_price",
-        "you_have_yourself_a_deal",
-        "get_away_from_it",
-        "nickel",
-        "the_chipper",
-        "chopper",
-        "never_mind",
-        "a_lipper_from_the_chipper",
-        "in_touch",
-        "hang_with",
-        "run_into",
-        "from_time_to_time",
-        "lose_touch",
-        "wedgie",
-        "architect",
-        "what_the_hell",
-        "where_the_hell",
-        "came_by",
-        "voluntarily",
-        "make_a_sale",
-        "bend_over",
-        "let_one_rip",
-        "movie_theater",
-        "multiplex",
-        "i_m_set",
-        "stay_out",
-        "five_of_spades",
-        "robbed",
-        "dump",
-        "insurance_company",
-        "belongs_to",
-        "flyers",
-        "good_call",
-        "enough_is_enough",
-        "or_whatever",
-        "guilty",
-        "lost",
-        "what_it_feels_like",
-        "comes_back",
-        "who_cares",
-        "supportive",
-        "insensitive",
-        "reincarnated_spirit",
-        "forgive_you",
-        "gonna",
-        "mean_a_lot_to_me",
-        "come_back",
-        "couch",
-        "appreciate_it",
-        "take_you_home",
-        "futon",
-        "brag",
-        "we_got_nothing_here",
-        "letterman",
-        "lipper",
-        "let_it_rip"
+        {
+            "id": "that_ripped",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "that_ripped_real_nice",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "throwing_it_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tetanus_shot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "with_my_own_hands",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stick_you_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "running_into_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "give_me_a_call",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "later",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "chip_matthews",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "prom",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ran_into_him",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "product_report",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fall_asleep",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ask_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dumb_drunken_bitch",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "finest_oak_east_of_the_mississippi",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lace",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_all_the_land",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ad",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "entertainment_center",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "italian_craftsmanship",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gepetto",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bucks",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "best_offer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "profit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "accountant",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "for_a_living",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shoo",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "montauk",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "spirit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "glaucoma_medicine",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dr_skeptismo",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "guitar_case",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "orange_felt",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "orange_roughy",
+            "sources": [
+                "ai",
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dude",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "huge_pair_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "let_it_go",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "going_out_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "having_sex_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "back_in_high_school",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "of_all_people",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "go_out_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ride_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "letterman_jacket",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "band_uniform",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "specially_made",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "home_ec_classes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "mascot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "back_then",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_the_chance",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "called_me_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "asked_me_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fat_girl_inside_of_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "owe_her_this",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "having_any_luck",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "getting_rid_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gonna_work_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "screening_process",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "squirming",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_away",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gets_used_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "replaced",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "return_a_call",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "b_e_a_c_h",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "suck_me_into_this",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "jurassic_park",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pardon_my_roommate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "willing_to_trade",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "canoe",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "throw_the_canoe_away",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "telephone_pole",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "goes_by_the_name",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "soho",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reward",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "split_five_ways",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crazy_lady",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "took_a_nap",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tummy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "purred",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bloomingdale_s",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "seeing_anyone",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "unit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sturdy_construction",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tons_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "storage_compartments",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grown_man",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "5_bucks",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "locked_me_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "coffin",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "knock_5_bucks_off_the_price",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "you_have_yourself_a_deal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_away_from_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "nickel",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_chipper",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "chopper",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "never_mind",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "a_lipper_from_the_chipper",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_touch",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hang_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "run_into",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "from_time_to_time",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lose_touch",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wedgie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "architect",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_the_hell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "where_the_hell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "came_by",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "voluntarily",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "make_a_sale",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bend_over",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "let_one_rip",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "movie_theater",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "multiplex",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_m_set",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stay_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "five_of_spades",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "robbed",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dump",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "insurance_company",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "belongs_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "flyers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "good_call",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "enough_is_enough",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "or_whatever",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "guilty",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lost",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_it_feels_like",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "comes_back",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "who_cares",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "supportive",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "insensitive",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reincarnated_spirit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "forgive_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gonna",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "mean_a_lot_to_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_back",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "couch",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "appreciate_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_you_home",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "futon",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "brag",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "we_got_nothing_here",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "letterman",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lipper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "let_it_rip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

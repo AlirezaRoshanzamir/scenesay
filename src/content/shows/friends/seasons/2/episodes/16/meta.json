@@ -1,14 +1,59 @@
 {
     "title": "The One Where Joey Moves Out",
     "terms": [
-        "splotch",
-        "twinkie",
-        "bimbo",
-        "item",
-        "feel_up",
-        "high_and_dry",
-        "tasteful",
-        "wuss",
-        "tie_up"
+        {
+            "id": "splotch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "twinkie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bimbo",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "item",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "feel_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "high_and_dry",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tasteful",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wuss",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tie_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

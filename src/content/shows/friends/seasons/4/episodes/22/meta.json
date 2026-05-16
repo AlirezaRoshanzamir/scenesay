@@ -1,10 +1,35 @@
 {
     "title": "The One with the Worst Best Man Ever",
     "terms": [
-        "mellow",
-        "edgy",
-        "waterworks",
-        "rip_up",
-        "nightstand"
+        {
+            "id": "mellow",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "edgy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "waterworks",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rip_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nightstand",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

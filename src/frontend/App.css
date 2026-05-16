@@ -1068,6 +1068,16 @@ body {
   color: #f87171;
 }
 
+.term-source {
+  display: inline-block;
+  padding: 0.18rem 0.55rem;
+  background: rgba(148, 163, 184, 0.08);
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
 .term-source-tag {
   font-size: 0.72rem;
   color: var(--muted);

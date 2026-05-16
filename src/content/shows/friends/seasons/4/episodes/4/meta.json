@@ -1,16 +1,71 @@
 {
     "title": "The One with the Ballroom Dancing",
     "terms": [
-        "chute",
-        "peppiness",
-        "lycra",
-        "plunger",
-        "washboard",
-        "rock_hard",
-        "pec",
-        "sciatic",
-        "spotter",
-        "twinkle_toes",
-        "foxtrot"
+        {
+            "id": "chute",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "peppiness",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lycra",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "plunger",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "washboard",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rock_hard",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pec",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sciatic",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "spotter",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "twinkle_toes",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "foxtrot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

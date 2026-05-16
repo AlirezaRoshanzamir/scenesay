@@ -1,12 +1,47 @@
 {
     "title": "The One with the Butt",
     "terms": [
-        "dinkle",
-        "schwang",
-        "raggedy",
-        "kook",
-        "madcap",
-        "teflon",
-        "shot"
+        {
+            "id": "dinkle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "schwang",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "raggedy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "kook",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "madcap",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "teflon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "shot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,6 +1,11 @@
 {
     "title": "The One with the Invitation",
     "terms": [
-        "mail_order"
+        {
+            "id": "mail_order",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

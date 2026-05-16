@@ -1,17 +1,77 @@
 {
     "title": "The One with the Chicken Pox",
     "terms": [
-        "taffy",
-        "barnacle",
-        "lox",
-        "make_a_day_of_it",
-        "sweat_sock",
-        "dress_sock",
-        "brownnose",
-        "suck_up",
-        "cobbler",
-        "periscope",
-        "walk_someone_out",
-        "i_ll_say"
+        {
+            "id": "taffy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "barnacle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lox",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "make_a_day_of_it",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sweat_sock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dress_sock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "brownnose",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "suck_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cobbler",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "periscope",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "walk_someone_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "i_ll_say",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,7 +1,17 @@
 {
     "title": "The One Where Ross Can't Flirt",
     "terms": [
-        "bash_in",
-        "tristate"
+        {
+            "id": "bash_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tristate",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,8 +1,23 @@
 {
     "title": "The One with the Princess Leia Fantasy",
     "terms": [
-        "plinky_plonky",
-        "girth",
-        "strafe"
+        {
+            "id": "plinky_plonky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "girth",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "strafe",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

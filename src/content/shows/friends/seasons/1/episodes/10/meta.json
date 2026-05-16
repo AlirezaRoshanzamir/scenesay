@@ -1,12 +1,47 @@
 {
     "title": "The One with the Monkey",
     "terms": [
-        "jolly",
-        "smidgen",
-        "elf",
-        "artichoke",
-        "pocketbook",
-        "dip",
-        "phone_in"
+        {
+            "id": "jolly",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "smidgen",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "elf",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "artichoke",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pocketbook",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "phone_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

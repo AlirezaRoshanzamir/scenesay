@@ -1,11 +1,41 @@
 {
     "title": "The One with the Cop",
     "terms": [
-        "maroon",
-        "sweatshirt",
-        "sweats",
-        "tape_measure_measuring_tape",
-        "crank_up",
-        "pivot"
+        {
+            "id": "maroon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sweatshirt",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sweats",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tape_measure_measuring_tape",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "crank_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pivot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

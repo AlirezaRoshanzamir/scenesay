@@ -1,19 +1,89 @@
 {
     "title": "The One with George Stephanopoulos",
     "terms": [
-        "cave_in",
-        "steam",
-        "pit",
-        "nectarine",
-        "dirt",
-        "put_blobs_on_something",
-        "slumber_party",
-        "beanstalk",
-        "floopie_flupie_floopy",
-        "power_tie",
-        "draw_out",
-        "preppy",
-        "pate",
-        "roughhouse"
+        {
+            "id": "cave_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "steam",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nectarine",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dirt",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "put_blobs_on_something",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "slumber_party",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "beanstalk",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "floopie_flupie_floopy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "power_tie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "draw_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "preppy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pate",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "roughhouse",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

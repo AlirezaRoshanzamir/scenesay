@@ -1,10 +1,35 @@
 {
     "title": "The One the Morning After",
     "terms": [
-        "writhe",
-        "anchovy",
-        "self_involved",
-        "bail",
-        "neither_here_nor_there"
+        {
+            "id": "writhe",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "anchovy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "self_involved",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bail",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "neither_here_nor_there",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

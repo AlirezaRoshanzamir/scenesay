@@ -1,16 +1,71 @@
 {
     "title": "The One with Frank Jr.",
     "terms": [
-        "cubby",
-        "power_saw",
-        "dingy",
-        "hamper",
-        "noogie",
-        "wedgie",
-        "spackle",
-        "fanny",
-        "hopping_mad",
-        "cruller",
-        "bump"
+        {
+            "id": "cubby",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "power_saw",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dingy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hamper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "noogie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wedgie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "spackle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fanny",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hopping_mad",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cruller",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bump",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

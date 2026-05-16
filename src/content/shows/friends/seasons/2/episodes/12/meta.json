@@ -1,15 +1,65 @@
 {
     "title": "The One After the Super Bowl, Part 1",
     "terms": [
-        "get_the_monkey_off_one_s_back",
-        "pout",
-        "macaw",
-        "boff",
-        "devil_may_care",
-        "nocturnal",
-        "flit",
-        "sightless",
-        "specter",
-        "timeshare"
+        {
+            "id": "get_the_monkey_off_one_s_back",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pout",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "macaw",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "boff",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "devil_may_care",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nocturnal",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "flit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sightless",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "specter",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "timeshare",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

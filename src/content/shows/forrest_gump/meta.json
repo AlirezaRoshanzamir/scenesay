@@ -7,944 +7,5639 @@
     "nativeLanguage": "English (American)",
     "type": "movie",
     "terms": [
-        "box_of_chocolates",
-        "peas_and_carrots",
-        "fine_and_dandy",
-        "out_of_the_blue",
-        "white_lie",
-        "household_name",
-        "sea_legs",
-        "second_chance",
-        "sneak_out",
-        "move_on",
-        "jabber_on",
-        "far_out",
-        "out_of_hand",
-        "like_a_duck_to_water",
-        "redneck",
-        "beatnik",
-        "grunt",
-        "platoon",
-        "drill_sergeant",
-        "ambush",
-        "napalm",
-        "air_strike",
-        "drafted",
-        "sniper",
-        "first_mate",
-        "medal_of_honor",
-        "desegregate",
-        "escalation",
-        "imbecile",
-        "destiny",
-        "hassle",
-        "inspirational",
-        "messed_up",
-        "whopper",
-        "recollect",
-        "heat_exhaustion",
-        "crooked",
-        "progressive",
-        "folk_singer",
-        "show_and_tell",
-        "bumper_sticker",
-        "scrapbook",
-        "clippings",
-        "a_thing_or_two",
-        "requisition",
-        "induction",
-        "discharge_papers",
-        "take_cover",
-        "dangle",
-        "braces",
-        "enlisted_man",
-        "sideshow",
-        "miracle",
-        "onslaught",
-        "brutalize",
-        "segregation",
-        "pathetic",
-        "dummy",
-        "civil_war",
-        "national_guard",
-        "court_order",
-        "make_peace_with",
-        "man_of_my_word",
-        "million_dollar_wound",
-        "give_a_big_hand",
-        "expand_ones_mind",
-        "cheat_out_of",
-        "moron",
-        "home_economics",
-        "running_fool",
-        "screenplay",
-        "draft",
-        "eric_roth_screenplay",
-        "compulsion",
-        "low_iq",
-        "crippled",
-        "early_on",
-        "drafts_of_the_script",
-        "metaphor",
-        "randomness_of_life",
-        "destiny_of_life",
-        "floating_around_on_a_breeze",
-        "tale",
-        "rise_to_the_occasion",
-        "shooting",
-        "vietnam",
-        "oak_alley",
-        "get_immersed_in_the_character",
-        "bench_in_savannah",
-        "taking_a_warm_bath",
-        "narrated",
-        "line_of_narration",
-        "powered_through",
-        "had_it_down",
-        "heavy_scenes",
-        "on_the_stages",
-        "on_location",
-        "work_out",
-        "the_gump_part",
-        "locations",
-        "takes_up_two_thirds_of_the_movie",
-        "norman_rockwell_illustration",
-        "composition",
-        "acting_prowess",
-        "forrest_gump",
-        "carry_this_film",
-        "tom_hanks",
-        "came_into_the_picture",
-        "sally_field",
-        "actress_of_stature",
-        "wendy_finerman",
-        "producer",
-        "signed_on",
-        "ages_with_makeup",
-        "got_it",
-        "serendipitously",
-        "open_casting_call",
-        "memphis_tennessee",
-        "northern_mississippi",
-        "casting_director",
-        "los_angeles",
-        "read_in_front_of_the_camera",
-        "freeze_up",
-        "as_natural_as_ever",
-        "catering_table",
-        "rockwell",
-        "point_of_view",
-        "principal_s_office",
-        "iq",
-        "below_normal",
-        "simpleton",
-        "innocence",
-        "left_behind",
-        "stupid_is_as_stupid_does",
-        "adapt_the_book",
-        "a_string_of_writers",
-        "crack_it",
-        "the_glue_to_the_story",
-        "adaption",
-        "tone",
-        "director",
-        "the_famous_definition_of_pornography",
-        "i_know_it_when_i_see_it",
-        "self_consciously",
-        "straighter",
-        "hold_on_to_it",
-        "falling_off",
-        "on_the_razor_s_edge",
-        "fallen_off_the_fence",
-        "corny",
-        "grotesque",
-        "fine_line",
-        "nerve_wracking",
-        "elvis",
-        "peter_dobson",
-        "johnny_bago_s_series",
-        "deep_down_in_his_heart",
-        "moves",
-        "kurt_russell",
-        "depicting_elvis_on_film",
-        "recruited",
-        "put_the_voice_in",
-        "the_king",
-        "heart_attack",
-        "bus_ride",
-        "coming_along",
-        "strangers",
-        "lyrical",
-        "it_clicked",
-        "matched_that_rhythm",
-        "speaking_lines",
-        "aspen",
-        "damaged_interior",
-        "brought_to_the_role",
-        "from_that_day_on",
-        "breakthrough",
-        "shoot",
-        "dirt_road",
-        "plantation",
-        "beaufort",
-        "stage",
-        "shrimping",
-        "all_of_a_sudden",
-        "unwieldy",
-        "come_together",
-        "all_over_the_south",
-        "deep_rooted",
-        "embellishments",
-        "shtick",
-        "sequence",
-        "transforms",
-        "blend",
-        "spectacle",
-        "special_effects",
-        "recreating_ancient_rome",
-        "look_back",
-        "running_double",
-        "takes_to_running",
-        "took_to_learning",
-        "crop",
-        "greenery",
-        "shack",
-        "compelling_story",
-        "character_arc",
-        "pivotal",
-        "western_dramatic_storytelling",
-        "undergo_a_change",
-        "premise",
-        "melodramatic",
-        "old_gunfighter",
-        "hung_up_his_guns",
-        "put_them_on",
-        "human_emotions",
-        "what_lies_beneath",
-        "hang_the_whole_movie_on",
-        "deny_the_truth",
-        "elaborate",
-        "transition",
-        "expeditious",
-        "right_into_our_story",
-        "sound_team",
-        "records",
-        "diversity_of_music",
-        "phenomenon",
-        "signposts_to_history",
-        "score",
-        "came_down_to",
-        "template",
-        "underscore",
-        "landscape",
-        "scored_by_records",
-        "sneaking_in",
-        "set_design",
-        "emotional_underpinning",
-        "hanging_out",
-        "get_down_on_yourself",
-        "soap_opera_ish",
-        "storytelling_convention",
-        "ticking_time_bomb",
-        "keep_the_plot_going",
-        "after_the_fact",
-        "an_innocent",
-        "no_agenda",
-        "at_face_value",
-        "historic_in_context",
-        "reenacted",
-        "real_life_footage",
-        "recreating_portions_of_the_event",
-        "recreation",
-        "gunk",
-        "sure_as_hell",
-        "ironic",
-        "shot_at",
-        "politicians",
-        "black_sort_of_way",
-        "dark_sort_of_way",
-        "milestones_in_modern_american_history",
-        "set_in_the_south",
-        "revolved_around",
-        "southern_perspective",
-        "adolescences",
-        "live_through",
-        "transcended",
-        "in_a_sense",
-        "period_movie",
-        "got_hung_up_on",
-        "rights_and_the_wrongs",
-        "perspective",
-        "wallace",
-        "unfold",
-        "revelation",
-        "surpassed",
-        "mankind",
-        "humanity",
-        "uh_oh",
-        "takes_the_mickey_off",
-        "sort_of",
-        "takes_the_pressure_off",
-        "tenseness",
-        "breakthroughs",
-        "historic_footage",
-        "archival_footage",
-        "opened_up_a_whole_new_avenue",
-        "post_production_supervisors",
-        "archives",
-        "miles_and_miles_of_film",
-        "honed_down",
-        "usable",
-        "rose_garden",
-        "oval_office",
-        "background_plate",
-        "bits_of_film",
-        "revised_the_script",
-        "weave_the_story_into",
-        "piece_of_footage",
-        "punchline",
-        "peeing_thing",
-        "backed_into",
-        "going_back_and_forth",
-        "husky_shit",
-        "puss_ball",
-        "scum_sucking_maggots",
-        "faggoty_ass",
-        "army",
-        "induction_day",
-        "getting_yelled_at",
-        "narration",
-        "scripted",
-        "ahead_of_time",
-        "cassette_player",
-        "script_supervisor",
-        "lines_of_dialogue",
-        "rough_idea",
-        "amadeus",
-        "bad_plotting",
-        "narrator",
-        "assembled",
-        "fine_cut",
-        "tighten_things_up",
-        "weave_in_and_out_of_scenes",
-        "bubba_s_mama",
-        "takes",
-        "went_off",
-        "off_color_joke",
-        "setup",
-        "dirty_joke",
-        "dropped_it_in_the_movie",
-        "out_of_character",
-        "winding_up",
-        "get_a_load_of",
-        "tits",
-        "gotten_into_some_trouble",
-        "thrown_out_of_school",
-        "give_her_a_big_hand",
-        "viewing_pleasure",
-        "direct_from_hollywood",
-        "beatnik_beauty",
-        "naked_folk_singer",
-        "bobby_dillon",
-        "bob_dylan",
-        "joan_baez",
-        "picked_up",
-        "dorm_room",
-        "acoustic_guitar",
-        "chords",
-        "sidewalk",
-        "follows_his_heart",
-        "can_t_help_himself",
-        "the_service",
-        "bridge_outside_of_savannah",
-        "exterior",
-        "interior",
-        "unfulfilled",
-        "hole_in_the_soul",
-        "fulfillment",
-        "sex_drugs_rock_and_roll",
-        "mom_god_and_apple_pie",
-        "reciprocal",
-        "unity_of_opposites",
-        "polarized",
-        "kick_in",
-        "bringing_to_the_party",
-        "creedence_clearwater",
-        "flapping",
-        "helicopter_blades",
-        "blaring",
-        "tidal_flat",
-        "seep",
-        "drain_out",
-        "helicopter_pilot",
-        "movie_star",
-        "step_off",
-        "my_heart_nearly_dropped",
-        "piloted",
-        "hit_the_mark",
-        "fng",
-        "salute",
-        "goddamn_snipers",
-        "audition",
-        "movie_business",
-        "plumper",
-        "tuck_that_thing_in",
-        "lieutenant_dan",
-        "knew_his_stuff",
-        "real_lucky",
-        "lieutenant",
-        "military_tradition",
-        "shot_these_scenes",
-        "last_day_of_shooting",
-        "rooftop",
-        "recreated",
-        "forefathers",
-        "in_succession",
-        "wilshire_boulevard",
-        "cast",
-        "depict",
-        "transformation",
-        "in_touch_with_himself",
-        "harsh",
-        "compassion",
-        "likability",
-        "embody",
-        "facets",
-        "take_his_legs_off",
-        "legless",
-        "fake_legs",
-        "that_s_really_a_stretch",
-        "boot_camp",
-        "casting",
-        "served_in_vietnam",
-        "leading_consultants",
-        "army_films",
-        "harrowing",
-        "infantryman",
-        "blowing_things_up",
-        "vietnam_veterans",
-        "terrain",
-        "depicted",
-        "motion_picture",
-        "water_moccasins",
-        "cleared_out",
-        "charges",
-        "scare_them_off",
-        "chain_link",
-        "protective_garment",
-        "penetrate",
-        "gonna",
-        "lean_up_against",
-        "partnership",
-        "subconscious",
-        "scouted_the_location",
-        "big_battle",
-        "take_place",
-        "perceiving",
-        "castaway",
-        "plane_crash",
-        "gun_battle",
-        "what_the_heck_s_going_on",
-        "breaks_the_rule",
-        "throughout",
-        "pick_up_jenny_s_story",
-        "infamous",
-        "military_consultant",
-        "firefights",
-        "mass_confusion",
-        "muzzle_flashes",
-        "vc",
-        "stepped_into_hell",
-        "low_end",
-        "frequency",
-        "explosions",
-        "layering",
-        "wall_of_sound",
-        "battle_sequence",
-        "bring_in_the_ugliness",
-        "from_here_on_out",
-        "from_beginning_to_end",
-        "editor",
-        "sound_designer",
-        "handful_of_people",
-        "edited_on_film",
-        "projected",
-        "temp_music",
-        "composers",
-        "fill_the_scene_out",
-        "synthesizer",
-        "opening_theme",
-        "preview",
-        "scratch_track",
-        "early_previews",
-        "temp_cues",
-        "sketches",
-        "up_north",
-        "heritage",
-        "dignity",
-        "interfere_with",
-        "survive",
-        "hitchcock",
-        "macguffin",
-        "as_though",
-        "his_heart_was_true",
-        "strafing",
-        "cleared_everybody_out",
-        "set_off",
-        "blended",
-        "rig",
-        "overhead_crane",
-        "track_with_him",
-        "removed_the_wire",
-        "ain_t",
-        "best_good_friend",
-        "around_the_corner",
-        "cameraman",
-        "controversy",
-        "widescreen",
-        "spartacus",
-        "compatible",
-        "format",
-        "washington_monument",
-        "laid_out",
-        "close_ups",
-        "over_the_shoulders",
-        "same_frame",
-        "trade_off",
-        "compose",
-        "ping_pong",
-        "trickery",
-        "comes_out",
-        "testament_to",
-        "pick_up_ping_pong",
-        "after_no_time_at_all",
-        "editing_room",
-        "make_up_this_sequence",
-        "immersed_himself",
-        "got_blood_on_its_hands",
-        "illegal_war_of_aggression",
-        "confront",
-        "spiritual_transformation",
-        "the_fate_that_was_dealt_to_him",
-        "grieve_it",
-        "comes_out_okay_on_the_other_side",
-        "spiritual_journey",
-        "point_of_reference",
-        "gone_wrong",
-        "gone_awry",
-        "floating_like_feathers_on_a_breeze",
-        "take_us_down_different_paths",
-        "inherent",
-        "in_conflict_with_one_another",
-        "ceremony_was_kicked_off",
-        "tinkering_with_historical_footage",
-        "historical_footage",
-        "intact",
-        "feature_movie",
-        "fictional_entertainment",
-        "ethical_question",
-        "political_campaigns",
-        "grafting_themselves_into_scenes",
-        "printing_press",
-        "13th_century",
-        "digitally",
-        "flawless",
-        "big_scandal",
-        "tv_news",
-        "lincoln_memorial",
-        "columbia_university",
-        "depicting",
-        "stage_an_event",
-        "historically",
-        "demonstration",
-        "blended_the_two_events_together",
-        "west_coast",
-        "resonated",
-        "east_coast",
-        "l_a",
-        "golden_gate_park",
-        "special_effect",
-        "storyboarded",
-        "storyboards",
-        "revise",
-        "visual_effect",
-        "shot",
-        "coverage",
-        "pull_this_stuff_off",
-        "ultimate_vision",
-        "filmmaker",
-        "turn_it_over",
-        "setups",
-        "crossing_them_all_off",
-        "scramble",
-        "scrape_the_thing_together",
-        "camera_truck_got_stuck",
-        "shooting_of_a_movie",
-        "in_the_can",
-        "crew",
-        "edit_around_bad_performances",
-        "screwing_up_their_lines",
-        "focus_buzzes",
-        "artistry",
-        "cut_around",
-        "glitches",
-        "in_front_and_behind_the_camera",
-        "fill_in_jenny_s_story",
-        "keep_you_current",
-        "son_of_a_bitch",
-        "physically_assaulted",
-        "art_director",
-        "hippie_camp",
-        "props",
-        "washington_d_c",
-        "as_far_as",
-        "staging",
-        "time_period",
-        "demonstrators",
-        "thrown_away",
-        "rightfully_so",
-        "and_just_like_that",
-        "moon_landing",
-        "reclaim_the_american_flag",
-        "ping_pong_players",
-        "taiwan",
-        "went_through_the_motions",
-        "swing_at",
-        "true_to_your_heart",
-        "john_lennon",
-        "disciple",
-        "forrest",
-        "imagine",
-        "possessions",
-        "nothing_sacred",
-        "tampered_with",
-        "had_fun_with",
-        "one_of_the_charms",
-        "don_t_stop_at_anything",
-        "hold_anything_too_close_to_your_heart",
-        "lieutenant_dian",
-        "mutual_respect",
-        "antagonistic",
-        "editing",
-        "collaboration",
-        "collaborating",
-        "open_minded",
-        "put_that_together",
-        "envisioned",
-        "day_one",
-        "cutting",
-        "coming_together",
-        "dailies",
-        "throw_that_out",
-        "cut_it_all_out",
-        "walk_him_through_it",
-        "sounding_board",
-        "objectively",
-        "downfall",
-        "kill_his_darlings",
-        "remote_headshot",
-        "hits_their_marks",
-        "in_focus",
-        "insert",
-        "cut_this_thing_in_half",
-        "accept_jesus_into_my_heart",
-        "kingdom_of_heaven",
-        "kiss_my_crippled_ass",
-        "what_a_crock_of_shit",
-        "lieutenant_dane",
-        "cinematography",
-        "deceptively_simple",
-        "rhythm_of_storytelling",
-        "directs_your_eye",
-        "i_defy_anyone",
-        "don_burgess",
-        "shorthand",
-        "in_terms_of",
-        "cinematographer",
-        "production_designer",
-        "south_carolina",
-        "stakes_and_tape",
-        "staking_this_house_out",
-        "gps",
-        "compass",
-        "tilt",
-        "showing_up",
-        "script",
-        "shut_up",
-        "get_the_hell_out_of_here",
-        "goddamn",
-        "reinforce",
-        "obstacles",
-        "set",
-        "suspension_of_disbelief",
-        "drawn_to",
-        "take_on",
-        "illusion",
-        "president_nixon",
-        "wouldn_t_you_know_it",
-        "the_white_house",
-        "gotten_hung_up_in_vietnam",
-        "post_vietnam_syndrome",
-        "yanked_out_of_it",
-        "watergate",
-        "watergate_hotel",
-        "break_in",
-        "implications",
-        "resign",
-        "sworn_in",
-        "media",
-        "sequences",
-        "moving_in_and_out_of",
-        "public_perception",
-        "disparity",
-        "united_states_army",
-        "gothic_south",
-        "patriotic",
-        "evokes",
-        "going_for_it",
-        "got_it_all_figured_out",
-        "fancy_dinner",
-        "dr_peppers",
-        "fascinated_me",
-        "cut_away",
-        "spanish_moss",
-        "taking_a_trip_down_memory_lane",
-        "if_you_will",
-        "re_examine",
-        "didn_t_know_the_first_thing_about",
-        "open_up",
-        "bad_luck",
-        "full_throttle",
-        "cocaine_70s",
-        "hadn_t_heard_from",
-        "in_a_long_while",
-        "color_palette",
-        "harshness",
-        "desaturated",
-        "drained_out",
-        "stray_from_the_path",
-        "staggering",
-        "experimentation",
-        "wanderlust",
-        "harrowing_experiences",
-        "dilemma",
-        "scouted_this_location",
-        "stage_this_reunion",
-        "pier",
-        "unbeknownst_to",
-        "navigating",
-        "blows_up",
-        "pull_that_gag_together",
-        "detonate_on_cue",
-        "run_aground",
-        "shrimp_boat_captain",
-        "old_fashioned_way",
-        "digital_effects",
-        "tail_wagging_the_dog",
-        "obsessed_about",
-        "inflection",
-        "editing_package",
-        "alien_landscapes",
-        "weird_creatures",
-        "digital_imagery",
-        "long_lens",
-        "force_of_god",
-        "strike_lieutenant_dan_down",
-        "all_or_nothing",
-        "stock_footage",
-        "blew_through",
-        "minor_remnants",
-        "backdrop",
-        "time_is_money",
-        "at_the_end_of_the_day",
-        "shot_on_8mm",
-        "moving_images",
-        "of_any_consequence",
-        "tops_them_all",
-        "wanders_through_life",
-        "touched_in_a_way",
-        "disintegrate",
-        "house_of_cards",
-        "calls_everybody_on_their_stuff",
-        "pivotal_characters",
-        "come_out_better_on_the_other_end",
-        "straightened_out",
-        "improv",
-        "camera_s_rolling",
-        "thinking_up_lines",
-        "rehearsal",
-        "table_readings",
-        "blocking_the_scene_out",
-        "scripted_out",
-        "beat_up_on_an_actor",
-        "crucial_to_the_plot",
-        "key_plot_word",
-        "put_my_actors_in_psychotherapy",
-        "go_off",
-        "throttle",
-        "in_perspective",
-        "over_the_top",
-        "in_regards_to",
-        "putting_all_of_this_together",
-        "documentary_footage",
-        "editing_process",
-        "worth_noting",
-        "showing_off",
-        "four_square_gospel_church",
-        "comes_down_to",
-        "the_pieces_fell_together",
-        "brings_to_the_mix",
-        "an_anchor",
-        "cut_that_grass",
-        "authenticity",
-        "no_doubt",
-        "damaged",
-        "beneath_the_surface",
-        "read_for_the_character",
-        "screen_tested",
-        "came_through",
-        "destinies",
-        "fulfill",
-        "heal_themselves",
-        "damaged_to_start_off_with",
-        "preordained_destiny",
-        "flip_sides_of_the_same_coin",
-        "take_a_step_back",
-        "jarred_you_out_of_the_experience",
-        "hung_a_little_flag_on_the_movie",
-        "running_off_to",
-        "incorporate",
-        "shooting_this_movie",
-        "timeline",
-        "extraordinary_run",
-        "criss_crossing_the_country",
-        "evolution",
-        "hair_and_makeup_and_wardrobe",
-        "out_of_order",
-        "refer_to",
-        "elaborate_booklet",
-        "sets",
-        "light_it",
-        "atmosphere_people",
-        "periods_of_time",
-        "wove_through",
-        "beard_continuity",
-        "disintegration_of_clothes_continuity",
-        "absolute_nightmare",
-        "photo_double",
-        "real_time",
-        "women_s_rights",
-        "historic_characters",
-        "turned_around_on_itself",
-        "re_enacting",
-        "gotten_as_big",
-        "added_up_to",
-        "thrown_in",
-        "happy_face",
-        "shit_happens",
-        "darndest_things",
-        "you_ve_got_to_be_kidding_me",
-        "adds_up_to",
-        "philosophically",
-        "t_shirt_business",
-        "justification",
-        "rationale",
-        "come_up_with",
-        "made_a_lot_of_money_off_of_it",
-        "put_the_past_behind_you",
-        "propelling_us",
-        "running_distance",
-        "walking_distance",
-        "momentum",
-        "take_off",
-        "in_real_time",
-        "in_the_hands_of_an_idiot",
-        "running_days_was_over",
-        "waiting_for_godot",
-        "catching_up_to_real_time",
-        "taking_on_a_life_of_its_own",
-        "ended_up",
-        "rolled_it_into_his_scene",
-        "graveside",
-        "in_keeping_with_her",
-        "touching",
-        "deal_with",
-        "losing_jenny",
-        "gone_on_to_become",
-        "cast_him_as_young_forrest",
-        "take_care_of_you",
-        "cough_due_to_cold",
-        "some_kind_of_virus",
-        "set_decorator",
-        "permeated",
-        "settings",
-        "naturalistic",
-        "custom_made",
-        "titanium_alloy",
-        "space_shuttle",
-        "come_around",
-        "in_relationship_to",
-        "storylines",
-        "fold_into_forrest",
-        "takes_place",
-        "intimate_friends",
-        "intimate_moment",
-        "magical_shot",
-        "depicting_time_passing",
-        "the_sun_goes_to_bed_down_on_the_bayou",
-        "bayou",
-        "sparkles",
-        "skyscrapers",
-        "reminiscing",
-        "blessed",
-        "insurmountable_problems",
-        "show_up",
-        "monument_valley",
-        "truly_remarkable",
-        "fall_together",
-        "fall_into_place",
-        "bulldozed_to_the_ground",
-        "compelling",
-        "grieving",
-        "get_in_touch_with_grief",
-        "movie_theaters",
-        "released_it",
-        "baby_boom_generation",
-        "vietnam_war",
-        "hippie_peace_movement",
-        "international_market",
-        "american_colloquial_humor",
-        "touched_some_nerve",
-        "life_metaphors",
-        "floating_around_accidentally_like_on_a_breeze",
-        "sequel_to_forrest_gump",
-        "the_virgin_suicides",
-        "bookends",
-        "fable",
-        "closing_the_book",
-        "filmmakers",
-        "letdown",
-        "go_through_withdrawal",
-        "passionate",
-        "severe_depression",
-        "jack_lemmon_in_the_apartment",
-        "the_apartment",
-        "the_price_you_pay",
-        "comes_along_with",
-        "sign_on_for_another_project",
-        "end_up",
-        "clear_mind",
-        "giant_feature_film",
-        "screeching_halt",
-        "marketing",
-        "advertising",
-        "publicity",
-        "release_schedule",
-        "locomotive",
-        "call_sheet",
-        "as_long_as_your_arm",
-        "grosses",
-        "comes_to_a_screeching_screeching_halt",
-        "learn_to_live_with_that"
+        {
+            "id": "box_of_chocolates",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "peas_and_carrots",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fine_and_dandy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "out_of_the_blue",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "white_lie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "household_name",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sea_legs",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "second_chance",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sneak_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "move_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "jabber_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "far_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "out_of_hand",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "like_a_duck_to_water",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "redneck",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "beatnik",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grunt",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "platoon",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "drill_sergeant",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ambush",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "napalm",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "air_strike",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "drafted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sniper",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "first_mate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "medal_of_honor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "desegregate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "escalation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "imbecile",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "destiny",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hassle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "inspirational",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "messed_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "whopper",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "recollect",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "heat_exhaustion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crooked",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "progressive",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "folk_singer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "show_and_tell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bumper_sticker",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scrapbook",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "clippings",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "a_thing_or_two",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "requisition",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "induction",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "discharge_papers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_cover",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dangle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "braces",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "enlisted_man",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sideshow",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "miracle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "onslaught",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "brutalize",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "segregation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pathetic",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dummy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "civil_war",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "national_guard",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "court_order",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "make_peace_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "man_of_my_word",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "million_dollar_wound",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "give_a_big_hand",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "expand_ones_mind",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cheat_out_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "moron",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "home_economics",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "running_fool",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "screenplay",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "draft",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "eric_roth_screenplay",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compulsion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "low_iq",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crippled",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "early_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "drafts_of_the_script",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "metaphor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "randomness_of_life",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "destiny_of_life",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "floating_around_on_a_breeze",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tale",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rise_to_the_occasion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shooting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "vietnam",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "oak_alley",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_immersed_in_the_character",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bench_in_savannah",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "taking_a_warm_bath",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "narrated",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "line_of_narration",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "powered_through",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "had_it_down",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "heavy_scenes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "on_the_stages",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "on_location",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "work_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_gump_part",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "locations",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "takes_up_two_thirds_of_the_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "norman_rockwell_illustration",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "composition",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "acting_prowess",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "forrest_gump",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "carry_this_film",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tom_hanks",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "came_into_the_picture",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sally_field",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "actress_of_stature",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wendy_finerman",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "producer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "signed_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ages_with_makeup",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "got_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "serendipitously",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "open_casting_call",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "memphis_tennessee",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "northern_mississippi",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "casting_director",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "los_angeles",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "read_in_front_of_the_camera",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "freeze_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "as_natural_as_ever",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "catering_table",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rockwell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "point_of_view",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "principal_s_office",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "iq",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "below_normal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "simpleton",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "innocence",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "left_behind",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stupid_is_as_stupid_does",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "adapt_the_book",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "a_string_of_writers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crack_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_glue_to_the_story",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "adaption",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tone",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "director",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_famous_definition_of_pornography",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_know_it_when_i_see_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "self_consciously",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "straighter",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hold_on_to_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "falling_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "on_the_razor_s_edge",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fallen_off_the_fence",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "corny",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grotesque",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fine_line",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "nerve_wracking",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "elvis",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "peter_dobson",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "johnny_bago_s_series",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "deep_down_in_his_heart",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "moves",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "kurt_russell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "depicting_elvis_on_film",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "recruited",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "put_the_voice_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_king",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "heart_attack",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bus_ride",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "coming_along",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "strangers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lyrical",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "it_clicked",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "matched_that_rhythm",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "speaking_lines",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "aspen",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "damaged_interior",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "brought_to_the_role",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "from_that_day_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "breakthrough",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shoot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dirt_road",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "plantation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "beaufort",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shrimping",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "all_of_a_sudden",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "unwieldy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "all_over_the_south",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "deep_rooted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "embellishments",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shtick",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sequence",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "transforms",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blend",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "spectacle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "special_effects",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "recreating_ancient_rome",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "look_back",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "running_double",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "takes_to_running",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "took_to_learning",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crop",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "greenery",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shack",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compelling_story",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "character_arc",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pivotal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "western_dramatic_storytelling",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "undergo_a_change",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "premise",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "melodramatic",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "old_gunfighter",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hung_up_his_guns",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "put_them_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "human_emotions",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_lies_beneath",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hang_the_whole_movie_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "deny_the_truth",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "elaborate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "transition",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "expeditious",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "right_into_our_story",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sound_team",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "records",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "diversity_of_music",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "phenomenon",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "signposts_to_history",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "score",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "came_down_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "template",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "underscore",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "landscape",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scored_by_records",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sneaking_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "set_design",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "emotional_underpinning",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hanging_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_down_on_yourself",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "soap_opera_ish",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "storytelling_convention",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ticking_time_bomb",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "keep_the_plot_going",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "after_the_fact",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "an_innocent",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "no_agenda",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "at_face_value",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "historic_in_context",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reenacted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "real_life_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "recreating_portions_of_the_event",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "recreation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gunk",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sure_as_hell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ironic",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shot_at",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "politicians",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "black_sort_of_way",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dark_sort_of_way",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "milestones_in_modern_american_history",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "set_in_the_south",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "revolved_around",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "southern_perspective",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "adolescences",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "live_through",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "transcended",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_a_sense",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "period_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "got_hung_up_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rights_and_the_wrongs",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "perspective",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wallace",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "unfold",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "revelation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "surpassed",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "mankind",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "humanity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "uh_oh",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "takes_the_mickey_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sort_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "takes_the_pressure_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tenseness",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "breakthroughs",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "historic_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "archival_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "opened_up_a_whole_new_avenue",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "post_production_supervisors",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "archives",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "miles_and_miles_of_film",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "honed_down",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "usable",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rose_garden",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "oval_office",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "background_plate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bits_of_film",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "revised_the_script",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "weave_the_story_into",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "piece_of_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "punchline",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "peeing_thing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "backed_into",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "going_back_and_forth",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "husky_shit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "puss_ball",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scum_sucking_maggots",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "faggoty_ass",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "army",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "induction_day",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "getting_yelled_at",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "narration",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scripted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ahead_of_time",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cassette_player",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "script_supervisor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lines_of_dialogue",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rough_idea",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "amadeus",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bad_plotting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "narrator",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "assembled",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fine_cut",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tighten_things_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "weave_in_and_out_of_scenes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bubba_s_mama",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "takes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "went_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "off_color_joke",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "setup",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dirty_joke",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dropped_it_in_the_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "out_of_character",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "winding_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_a_load_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tits",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gotten_into_some_trouble",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "thrown_out_of_school",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "give_her_a_big_hand",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "viewing_pleasure",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "direct_from_hollywood",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "beatnik_beauty",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "naked_folk_singer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bobby_dillon",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bob_dylan",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "joan_baez",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "picked_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dorm_room",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "acoustic_guitar",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "chords",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sidewalk",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "follows_his_heart",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "can_t_help_himself",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_service",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bridge_outside_of_savannah",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "exterior",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "interior",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "unfulfilled",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hole_in_the_soul",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fulfillment",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sex_drugs_rock_and_roll",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "mom_god_and_apple_pie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reciprocal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "unity_of_opposites",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "polarized",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "kick_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bringing_to_the_party",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "creedence_clearwater",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "flapping",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "helicopter_blades",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blaring",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tidal_flat",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "seep",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "drain_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "helicopter_pilot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "movie_star",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "step_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "my_heart_nearly_dropped",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "piloted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hit_the_mark",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fng",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "salute",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "goddamn_snipers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "audition",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "movie_business",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "plumper",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tuck_that_thing_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lieutenant_dan",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "knew_his_stuff",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "real_lucky",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lieutenant",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "military_tradition",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shot_these_scenes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "last_day_of_shooting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rooftop",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "recreated",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "forefathers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_succession",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wilshire_boulevard",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cast",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "depict",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "transformation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_touch_with_himself",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "harsh",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compassion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "likability",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "embody",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "facets",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_his_legs_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "legless",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fake_legs",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "that_s_really_a_stretch",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "boot_camp",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "casting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "served_in_vietnam",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "leading_consultants",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "army_films",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "harrowing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "infantryman",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blowing_things_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "vietnam_veterans",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "terrain",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "depicted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "motion_picture",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "water_moccasins",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cleared_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "charges",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scare_them_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "chain_link",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "protective_garment",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "penetrate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gonna",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lean_up_against",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "partnership",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "subconscious",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scouted_the_location",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "big_battle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_place",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "perceiving",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "castaway",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "plane_crash",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gun_battle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_the_heck_s_going_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "breaks_the_rule",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "throughout",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pick_up_jenny_s_story",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "infamous",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "military_consultant",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "firefights",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "mass_confusion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "muzzle_flashes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "vc",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stepped_into_hell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "low_end",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "frequency",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "explosions",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "layering",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wall_of_sound",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "battle_sequence",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bring_in_the_ugliness",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "from_here_on_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "from_beginning_to_end",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "editor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sound_designer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "handful_of_people",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "edited_on_film",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "projected",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "temp_music",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "composers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fill_the_scene_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "synthesizer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "opening_theme",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "preview",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scratch_track",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "early_previews",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "temp_cues",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sketches",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "up_north",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "heritage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dignity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "interfere_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "survive",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hitchcock",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "macguffin",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "as_though",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "his_heart_was_true",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "strafing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cleared_everybody_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "set_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blended",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rig",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "overhead_crane",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "track_with_him",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "removed_the_wire",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ain_t",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "best_good_friend",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "around_the_corner",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cameraman",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "controversy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "widescreen",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "spartacus",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compatible",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "format",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "washington_monument",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "laid_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "close_ups",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "over_the_shoulders",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "same_frame",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "trade_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compose",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ping_pong",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "trickery",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "comes_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "testament_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pick_up_ping_pong",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "after_no_time_at_all",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "editing_room",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "make_up_this_sequence",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "immersed_himself",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "got_blood_on_its_hands",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "illegal_war_of_aggression",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "confront",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "spiritual_transformation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_fate_that_was_dealt_to_him",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grieve_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "comes_out_okay_on_the_other_side",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "spiritual_journey",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "point_of_reference",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gone_wrong",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gone_awry",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "floating_like_feathers_on_a_breeze",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_us_down_different_paths",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "inherent",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_conflict_with_one_another",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ceremony_was_kicked_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tinkering_with_historical_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "historical_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "intact",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "feature_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fictional_entertainment",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ethical_question",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "political_campaigns",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grafting_themselves_into_scenes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "printing_press",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "13th_century",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "digitally",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "flawless",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "big_scandal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tv_news",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lincoln_memorial",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "columbia_university",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "depicting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stage_an_event",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "historically",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "demonstration",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blended_the_two_events_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "west_coast",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "resonated",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "east_coast",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "l_a",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "golden_gate_park",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "special_effect",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "storyboarded",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "storyboards",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "revise",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "visual_effect",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "coverage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pull_this_stuff_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ultimate_vision",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "filmmaker",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "turn_it_over",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "setups",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crossing_them_all_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scramble",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scrape_the_thing_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "camera_truck_got_stuck",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shooting_of_a_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_the_can",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crew",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "edit_around_bad_performances",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "screwing_up_their_lines",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "focus_buzzes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "artistry",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cut_around",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "glitches",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_front_and_behind_the_camera",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fill_in_jenny_s_story",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "keep_you_current",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "son_of_a_bitch",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "physically_assaulted",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "art_director",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hippie_camp",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "props",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "washington_d_c",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "as_far_as",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "staging",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "time_period",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "demonstrators",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "thrown_away",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rightfully_so",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "and_just_like_that",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "moon_landing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reclaim_the_american_flag",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ping_pong_players",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "taiwan",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "went_through_the_motions",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "swing_at",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "true_to_your_heart",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "john_lennon",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "disciple",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "forrest",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "imagine",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "possessions",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "nothing_sacred",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tampered_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "had_fun_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "one_of_the_charms",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "don_t_stop_at_anything",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hold_anything_too_close_to_your_heart",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lieutenant_dian",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "mutual_respect",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "antagonistic",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "editing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "collaboration",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "collaborating",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "open_minded",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "put_that_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "envisioned",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "day_one",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cutting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "coming_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dailies",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "throw_that_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cut_it_all_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "walk_him_through_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sounding_board",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "objectively",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "downfall",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "kill_his_darlings",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "remote_headshot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hits_their_marks",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_focus",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "insert",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cut_this_thing_in_half",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "accept_jesus_into_my_heart",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "kingdom_of_heaven",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "kiss_my_crippled_ass",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_a_crock_of_shit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lieutenant_dane",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cinematography",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "deceptively_simple",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rhythm_of_storytelling",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "directs_your_eye",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_defy_anyone",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "don_burgess",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shorthand",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_terms_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cinematographer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "production_designer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "south_carolina",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stakes_and_tape",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "staking_this_house_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gps",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compass",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tilt",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "showing_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "script",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shut_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_the_hell_out_of_here",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "goddamn",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reinforce",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "obstacles",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "set",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "suspension_of_disbelief",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "drawn_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "illusion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "president_nixon",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wouldn_t_you_know_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_white_house",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gotten_hung_up_in_vietnam",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "post_vietnam_syndrome",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "yanked_out_of_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "watergate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "watergate_hotel",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "break_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "implications",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "resign",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sworn_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "media",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sequences",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "moving_in_and_out_of",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "public_perception",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "disparity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "united_states_army",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gothic_south",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "patriotic",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "evokes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "going_for_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "got_it_all_figured_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fancy_dinner",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dr_peppers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fascinated_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cut_away",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "spanish_moss",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "taking_a_trip_down_memory_lane",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "if_you_will",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "re_examine",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "didn_t_know_the_first_thing_about",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "open_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bad_luck",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "full_throttle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cocaine_70s",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hadn_t_heard_from",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_a_long_while",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "color_palette",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "harshness",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "desaturated",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "drained_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stray_from_the_path",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "staggering",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "experimentation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wanderlust",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "harrowing_experiences",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dilemma",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scouted_this_location",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stage_this_reunion",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pier",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "unbeknownst_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "navigating",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blows_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pull_that_gag_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "detonate_on_cue",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "run_aground",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shrimp_boat_captain",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "old_fashioned_way",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "digital_effects",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tail_wagging_the_dog",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "obsessed_about",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "inflection",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "editing_package",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "alien_landscapes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "weird_creatures",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "digital_imagery",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "long_lens",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "force_of_god",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "strike_lieutenant_dan_down",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "all_or_nothing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stock_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blew_through",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "minor_remnants",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "backdrop",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "time_is_money",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "at_the_end_of_the_day",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shot_on_8mm",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "moving_images",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "of_any_consequence",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tops_them_all",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wanders_through_life",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "touched_in_a_way",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "disintegrate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "house_of_cards",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "calls_everybody_on_their_stuff",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pivotal_characters",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_out_better_on_the_other_end",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "straightened_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "improv",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "camera_s_rolling",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "thinking_up_lines",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rehearsal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "table_readings",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blocking_the_scene_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "scripted_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "beat_up_on_an_actor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "crucial_to_the_plot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "key_plot_word",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "put_my_actors_in_psychotherapy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "go_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "throttle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_perspective",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "over_the_top",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_regards_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "putting_all_of_this_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "documentary_footage",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "editing_process",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "worth_noting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "showing_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "four_square_gospel_church",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "comes_down_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_pieces_fell_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "brings_to_the_mix",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "an_anchor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cut_that_grass",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "authenticity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "no_doubt",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "damaged",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "beneath_the_surface",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "read_for_the_character",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "screen_tested",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "came_through",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "destinies",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fulfill",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "heal_themselves",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "damaged_to_start_off_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "preordained_destiny",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "flip_sides_of_the_same_coin",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_a_step_back",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "jarred_you_out_of_the_experience",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hung_a_little_flag_on_the_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "running_off_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "incorporate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shooting_this_movie",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "timeline",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "extraordinary_run",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "criss_crossing_the_country",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "evolution",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hair_and_makeup_and_wardrobe",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "out_of_order",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "refer_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "elaborate_booklet",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sets",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "light_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "atmosphere_people",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "periods_of_time",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wove_through",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "beard_continuity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "disintegration_of_clothes_continuity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "absolute_nightmare",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "photo_double",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "real_time",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "women_s_rights",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "historic_characters",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "turned_around_on_itself",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "re_enacting",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gotten_as_big",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "added_up_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "thrown_in",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "happy_face",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shit_happens",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "darndest_things",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "you_ve_got_to_be_kidding_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "adds_up_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "philosophically",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "t_shirt_business",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "justification",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rationale",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_up_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "made_a_lot_of_money_off_of_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "put_the_past_behind_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "propelling_us",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "running_distance",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "walking_distance",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "momentum",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_real_time",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_the_hands_of_an_idiot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "running_days_was_over",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "waiting_for_godot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "catching_up_to_real_time",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "taking_on_a_life_of_its_own",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ended_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rolled_it_into_his_scene",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "graveside",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_keeping_with_her",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "touching",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "deal_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "losing_jenny",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gone_on_to_become",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cast_him_as_young_forrest",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_care_of_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cough_due_to_cold",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "some_kind_of_virus",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "set_decorator",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "permeated",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "settings",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "naturalistic",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "custom_made",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "titanium_alloy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "space_shuttle",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_around",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_relationship_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "storylines",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fold_into_forrest",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "takes_place",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "intimate_friends",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "intimate_moment",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "magical_shot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "depicting_time_passing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_sun_goes_to_bed_down_on_the_bayou",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bayou",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sparkles",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "skyscrapers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "reminiscing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "blessed",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "insurmountable_problems",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "show_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "monument_valley",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "truly_remarkable",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fall_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fall_into_place",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bulldozed_to_the_ground",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "compelling",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grieving",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_in_touch_with_grief",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "movie_theaters",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "released_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "baby_boom_generation",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "vietnam_war",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hippie_peace_movement",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "international_market",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "american_colloquial_humor",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "touched_some_nerve",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "life_metaphors",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "floating_around_accidentally_like_on_a_breeze",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sequel_to_forrest_gump",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_virgin_suicides",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bookends",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fable",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "closing_the_book",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "filmmakers",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "letdown",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "go_through_withdrawal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "passionate",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "severe_depression",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "jack_lemmon_in_the_apartment",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_apartment",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_price_you_pay",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "comes_along_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sign_on_for_another_project",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "end_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "clear_mind",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "giant_feature_film",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "screeching_halt",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "marketing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "advertising",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "publicity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "release_schedule",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "locomotive",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "call_sheet",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "as_long_as_your_arm",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grosses",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "comes_to_a_screeching_screeching_halt",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "learn_to_live_with_that",
+            "sources": [
+                "ai"
+            ]
+        }
     ]
 }

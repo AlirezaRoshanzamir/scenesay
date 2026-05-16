@@ -1,11 +1,41 @@
 {
     "title": "The One Where Phoebe Hates PBS",
     "terms": [
-        "prissy",
-        "twit",
-        "rake_up_rake_together",
-        "stoop",
-        "broil",
-        "groove"
+        {
+            "id": "prissy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "twit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rake_up_rake_together",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "stoop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "broil",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "groove",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

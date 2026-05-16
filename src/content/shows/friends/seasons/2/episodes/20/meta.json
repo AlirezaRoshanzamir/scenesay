@@ -1,9 +1,29 @@
 {
     "title": "The One Where Old Yeller Dies",
     "terms": [
-        "wedgie",
-        "sidestep",
-        "pick_up_sticks",
-        "hog"
+        {
+            "id": "wedgie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sidestep",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pick_up_sticks",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hog",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

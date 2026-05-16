@@ -1,13 +1,53 @@
 {
     "title": "The One with the Dollhouse",
     "terms": [
-        "understudy",
-        "shaft",
-        "dud",
-        "click",
-        "bite_me",
-        "flip_out",
-        "goop",
-        "big_talk"
+        {
+            "id": "understudy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "shaft",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dud",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "click",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bite_me",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "flip_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "goop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "big_talk",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

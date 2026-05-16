@@ -1,12 +1,47 @@
 {
     "title": "The One with Joey's Big Break",
     "terms": [
-        "push_someone_s_buttons",
-        "tic_tac_toe_tick_tack_toe",
-        "ascot",
-        "glass_eye",
-        "spring",
-        "heinie",
-        "toga"
+        {
+            "id": "push_someone_s_buttons",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tic_tac_toe_tick_tack_toe",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ascot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "glass_eye",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "spring",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "heinie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "toga",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,16 +1,71 @@
 {
     "title": "The One with the Lesbian Wedding",
     "terms": [
-        "aura",
-        "uptight",
-        "sit_up",
-        "sorority",
-        "who_s_up",
-        "cut_into",
-        "dice",
-        "ball",
-        "butterscotch",
-        "pig_in_a_blanket",
-        "make_eyes_at_someone"
+        {
+            "id": "aura",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "uptight",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sit_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sorority",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "who_s_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cut_into",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dice",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ball",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "butterscotch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pig_in_a_blanket",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "make_eyes_at_someone",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

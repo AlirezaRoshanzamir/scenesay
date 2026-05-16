@@ -1,8 +1,23 @@
 {
     "title": "The One with the Kips",
     "terms": [
-        "take_for_a_ride",
-        "bust",
-        "overhand"
+        {
+            "id": "take_for_a_ride",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bust",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "overhand",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

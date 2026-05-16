@@ -1,12 +1,47 @@
 {
     "title": "The One with Phoebe's Uterus",
     "terms": [
-        "get_a_jump_on",
-        "blazer",
-        "keeper",
-        "fill_someone_s_shoes",
-        "mastodon",
-        "erottery",
-        "diddlysquat"
+        {
+            "id": "get_a_jump_on",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "blazer",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "keeper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fill_someone_s_shoes",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mastodon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "erottery",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "diddlysquat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

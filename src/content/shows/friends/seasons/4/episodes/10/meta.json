@@ -1,9 +1,29 @@
 {
     "title": "The One with the Girl from Poughkeepsie",
     "terms": [
-        "dreidel",
-        "maypole",
-        "catch",
-        "swordfish"
+        {
+            "id": "dreidel",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "maypole",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "catch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "swordfish",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

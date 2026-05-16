@@ -1,8 +1,23 @@
 {
     "title": "The One with the List",
     "terms": [
-        "saline_solution",
-        "ditzy_ditsy",
-        "dinkus"
+        {
+            "id": "saline_solution",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ditzy_ditsy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dinkus",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

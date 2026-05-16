@@ -1,12 +1,47 @@
 {
     "title": "The One with the Breast Milk",
     "terms": [
-        "sweetums",
-        "hombre",
-        "cantaloupe",
-        "go_through",
-        "housewares",
-        "hate_someone_s_guts",
-        "doofus"
+        {
+            "id": "sweetums",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hombre",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cantaloupe",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "go_through",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "housewares",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hate_someone_s_guts",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doofus",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

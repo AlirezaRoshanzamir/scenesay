@@ -1,10 +1,35 @@
 {
     "title": "The One with the Ride-Along",
     "terms": [
-        "ride_along",
-        "candid",
-        "cherry",
-        "backfire",
-        "someone_s_number_is_up"
+        {
+            "id": "ride_along",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "candid",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cherry",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "backfire",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "someone_s_number_is_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

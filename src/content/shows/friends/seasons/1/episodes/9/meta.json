@@ -1,16 +1,71 @@
 {
     "title": "The One Where Underdog Gets Away",
     "terms": [
-        "pyre",
-        "lyme_disease",
-        "shoop",
-        "fixings",
-        "get_out",
-        "spitz",
-        "vd",
-        "mull",
-        "yam",
-        "tater_tot",
-        "gal"
+        {
+            "id": "pyre",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lyme_disease",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "shoop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fixings",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "get_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "spitz",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "vd",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mull",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "yam",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tater_tot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gal",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -66,10 +66,10 @@ const DIFFICULTY_THRESHOLDS = [
   [Infinity, 'Advanced'],
 ]
 
-function calcTermsDifficulty(termIds) {
-  const levels = termIds
-    .map(id => {
-      const metaFile = path.join(CONTENT, 'terms', id, 'meta.json')
+function calcTermsDifficulty(termEntries) {
+  const levels = termEntries
+    .map(entry => {
+      const metaFile = path.join(CONTENT, 'terms', entry.id, 'meta.json')
       if (!fs.existsSync(metaFile)) return null
       const level = parseFloat(readJson(metaFile).difficultyLevel)
       return isNaN(level) ? null : level
@@ -80,12 +80,13 @@ function calcTermsDifficulty(termIds) {
   return DIFFICULTY_THRESHOLDS.find(([threshold]) => mean <= threshold)[1]
 }
 
-function resolveTerm(termId) {
-  const termDir = path.join(CONTENT, 'terms', termId)
+function resolveTerm(entry) {
+  const termDir = path.join(CONTENT, 'terms', entry.id)
   const metaFile = path.join(termDir, 'meta.json')
   if (!fs.existsSync(metaFile)) return null
 
   const term = readJson(metaFile)
+  if (entry.sources.length > 0) term.sources = entry.sources
   const files = listDir(termDir).sort()
 
   const imageFiles = files.filter(f => IMAGE_EXTS.has(path.extname(f).toLowerCase()))
@@ -138,7 +139,7 @@ async function buildShowsMeta() {
             .filter(epNum => fs.existsSync(path.join(episodesDir, epNum, 'meta.json')))
             .map(epNum => {
               const epMeta = readJson(path.join(episodesDir, epNum, 'meta.json'))
-              if (Array.isArray(epMeta.terms)) allTermIds.push(...epMeta.terms)
+              if (Array.isArray(epMeta.terms)) allTermIds.push(...epMeta.terms.filter(e => e?.id))
               return [parseInt(epNum), epMeta]
             })
         )
@@ -157,7 +158,7 @@ async function buildShowsMeta() {
       meta.available = meta.seasons.some(s => s.episodes.some(ep => ep.available))
       meta.termsDifficulty = calcTermsDifficulty(allTermIds)
     } else {
-      const termIds = Array.isArray(meta.terms) ? meta.terms : []
+      const termIds = (Array.isArray(meta.terms) ? meta.terms : []).filter(e => e?.id)
       meta.available = termIds.length > 0
       meta.termsDifficulty = calcTermsDifficulty(termIds)
     }
@@ -182,7 +183,7 @@ function buildShowContent() {
       const meta = readJson(metaFile)
 
       if (meta.type === 'movie') {
-        const termIds = Array.isArray(meta.terms) ? meta.terms : []
+        const termIds = (Array.isArray(meta.terms) ? meta.terms : []).filter(e => e?.id)
         const terms = termIds.map(resolveTerm).filter(Boolean)
         writeJson(path.join(OUTPUT, 'shows', showId, 'meta.json'), { terms })
         console.log(`Built shows/${showId}/meta.json: ${terms.length} terms`)
@@ -194,7 +195,7 @@ function buildShowContent() {
             .filter(epNum => fs.existsSync(path.join(episodesDir, epNum, 'meta.json')))
             .forEach(epNum => {
               const epMeta = readJson(path.join(episodesDir, epNum, 'meta.json'))
-              const termIds = Array.isArray(epMeta.terms) ? epMeta.terms : []
+              const termIds = (Array.isArray(epMeta.terms) ? epMeta.terms : []).filter(e => e?.id)
               const terms = termIds.map(resolveTerm).filter(Boolean)
               writeJson(
                 path.join(OUTPUT, 'shows', showId, 'seasons', String(seasonNum), 'episodes', epNum, 'meta.json'),

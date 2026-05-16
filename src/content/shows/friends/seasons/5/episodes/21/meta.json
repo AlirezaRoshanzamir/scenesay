@@ -1,8 +1,23 @@
 {
     "title": "The One with the Ball",
     "terms": [
-        "jinx",
-        "dropper",
-        "rob_someone_blind"
+        {
+            "id": "jinx",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dropper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rob_someone_blind",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,10 +1,35 @@
 {
     "title": "The One with the Jam",
     "terms": [
-        "drift_off",
-        "currant",
-        "buck_naked",
-        "bing_a_ling",
-        "hung_up"
+        {
+            "id": "drift_off",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "currant",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "buck_naked",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bing_a_ling",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hung_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,9 +1,29 @@
 {
     "title": "The One with Ross's Wedding, Part 2",
     "terms": [
-        "watercress",
-        "pancetta",
-        "gazebo",
-        "third_degree"
+        {
+            "id": "watercress",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pancetta",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gazebo",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "third_degree",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

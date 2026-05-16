@@ -1,15 +1,65 @@
 {
     "title": "The One with the Embryos",
     "terms": [
-        "endometrium",
-        "fork_over",
-        "cough_up",
-        "pay_the_piper",
-        "gumball",
-        "flail",
-        "burlesque",
-        "transponster",
-        "sucky",
-        "knock"
+        {
+            "id": "endometrium",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fork_over",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cough_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pay_the_piper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gumball",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "flail",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "burlesque",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "transponster",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sucky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "knock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,10 +1,35 @@
 {
     "title": "The One Where Monica and Richard Are Just Friends",
     "terms": [
-        "jock",
-        "club_soda",
-        "lay_up",
-        "testy",
-        "platonomy"
+        {
+            "id": "jock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "club_soda",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lay_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "testy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "platonomy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

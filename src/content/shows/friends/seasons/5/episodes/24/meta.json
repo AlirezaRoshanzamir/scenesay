@@ -1,9 +1,29 @@
 {
     "title": "The One in Vegas, Part 2",
     "terms": [
-        "lurker",
-        "macadamia_nut",
-        "toots",
-        "something_old"
+        {
+            "id": "lurker",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "macadamia_nut",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "toots",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "something_old",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

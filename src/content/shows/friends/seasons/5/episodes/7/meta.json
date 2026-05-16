@@ -1,12 +1,47 @@
 {
     "title": "The One Where Ross Moves In",
     "terms": [
-        "knobs",
-        "mocha",
-        "java",
-        "jazz_up",
-        "regatta",
-        "lob",
-        "knock_one_out_of_the_park_hit_one_out_of_the_ballpark"
+        {
+            "id": "knobs",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mocha",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "java",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "jazz_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "regatta",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lob",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "knock_one_out_of_the_park_hit_one_out_of_the_ballpark",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

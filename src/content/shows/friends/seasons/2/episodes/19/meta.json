@@ -1,7 +1,17 @@
 {
     "title": "The One Where Eddie Won't Go",
     "terms": [
-        "jaunty",
-        "cachet"
+        {
+            "id": "jaunty",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cachet",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

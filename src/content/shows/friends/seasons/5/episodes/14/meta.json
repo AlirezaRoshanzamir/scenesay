@@ -1,10 +1,35 @@
 {
     "title": "The One Where Everybody Finds Out",
     "terms": [
-        "foxy",
-        "give_away_the_farm",
-        "sweater_vest",
-        "work",
-        "bendy"
+        {
+            "id": "foxy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "give_away_the_farm",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sweater_vest",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "work",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bendy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

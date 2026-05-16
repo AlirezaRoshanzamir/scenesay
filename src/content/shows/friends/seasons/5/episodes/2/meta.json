@@ -1,16 +1,71 @@
 {
     "title": "The One with All the Kissing",
     "terms": [
-        "liquored_up",
-        "shabby",
-        "smudgy",
-        "golden",
-        "mulch",
-        "take_a_rain_check",
-        "swing",
-        "blow",
-        "missus_missis",
-        "bones",
-        "call_shotgun"
+        {
+            "id": "liquored_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "shabby",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "smudgy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "golden",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mulch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "take_a_rain_check",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "swing",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "blow",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "missus_missis",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bones",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "call_shotgun",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

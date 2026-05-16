@@ -1,12 +1,47 @@
 {
     "title": "The One with the Girl Who Hits Joey",
     "terms": [
-        "on_the_lam",
-        "handyman",
-        "cheapskate",
-        "pressure_cooker",
-        "abrasive",
-        "cradle_robber",
-        "cheap_shot"
+        {
+            "id": "on_the_lam",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "handyman",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cheapskate",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pressure_cooker",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "abrasive",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cradle_robber",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cheap_shot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

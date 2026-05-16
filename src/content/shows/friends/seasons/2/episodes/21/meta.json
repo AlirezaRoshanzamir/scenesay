@@ -1,9 +1,29 @@
 {
     "title": "The One with the Bullies",
     "terms": [
-        "rotisserie",
-        "sous_chef",
-        "stilt",
-        "remiss"
+        {
+            "id": "rotisserie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sous_chef",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "stilt",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "remiss",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

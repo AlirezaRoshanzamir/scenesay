@@ -1,14 +1,59 @@
 {
     "title": "The One with the Evil Orthodontist",
     "terms": [
-        "gravity_boots",
-        "dangle",
-        "jam_packed",
-        "get_down",
-        "boogie",
-        "free_weight",
-        "line_up",
-        "ball_hog",
-        "smock"
+        {
+            "id": "gravity_boots",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dangle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "jam_packed",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "get_down",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "boogie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "free_weight",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "line_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ball_hog",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "smock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

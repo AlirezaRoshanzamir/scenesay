@@ -1,13 +1,53 @@
 {
     "title": "The One with the Blackout",
     "terms": [
-        "vestibule",
-        "atrium",
-        "friend_zone",
-        "mangle",
-        "wonder",
-        "wonderment",
-        "impish",
-        "crapweasel"
+        {
+            "id": "vestibule",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "atrium",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "friend_zone",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mangle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wonder",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wonderment",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "impish",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "crapweasel",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

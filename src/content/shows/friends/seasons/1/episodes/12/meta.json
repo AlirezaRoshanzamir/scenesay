@@ -1,13 +1,53 @@
 {
     "title": "The One with the Dozen Lasagnas",
     "terms": [
-        "fling",
-        "amnio_centesis",
-        "hibachi",
-        "shiatsu",
-        "out_of_sorts",
-        "layaway",
-        "make_a_pass_at",
-        "swoop"
+        {
+            "id": "fling",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "amnio_centesis",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hibachi",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "shiatsu",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "out_of_sorts",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "layaway",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "make_a_pass_at",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "swoop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

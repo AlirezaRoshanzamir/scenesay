@@ -1,16 +1,71 @@
 {
     "title": "The One with Phoebe's Husband",
     "terms": [
-        "dead_meat",
-        "whip_out",
-        "nubbin",
-        "hut",
-        "capade",
-        "psyche_out",
-        "ole",
-        "wiped",
-        "mull",
-        "grovel",
-        "knucklebone"
+        {
+            "id": "dead_meat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "whip_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nubbin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hut",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "capade",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "psyche_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ole",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wiped",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mull",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "grovel",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "knucklebone",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

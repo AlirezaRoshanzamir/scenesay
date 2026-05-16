@@ -1,13 +1,53 @@
 {
     "title": "The One Where Nana Dies Twice",
     "terms": [
-        "be_way_out_of_your_league",
-        "nana",
-        "pantsuit",
-        "burgundy",
-        "dressy",
-        "night_cream",
-        "mardi_gras",
-        "papier_mache"
+        {
+            "id": "be_way_out_of_your_league",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nana",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pantsuit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "burgundy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dressy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "night_cream",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mardi_gras",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "papier_mache",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

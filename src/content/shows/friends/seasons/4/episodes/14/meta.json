@@ -1,14 +1,59 @@
 {
     "title": "The One with Joey's Dirty Day",
     "terms": [
-        "hunk",
-        "sweatpants",
-        "wiener",
-        "clock",
-        "licorice",
-        "loose_cannon",
-        "stink_up",
-        "spunky",
-        "graze"
+        {
+            "id": "hunk",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sweatpants",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wiener",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "clock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "licorice",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "loose_cannon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "stink_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "spunky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "graze",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

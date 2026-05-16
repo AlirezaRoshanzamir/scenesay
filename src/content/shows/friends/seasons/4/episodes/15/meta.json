@@ -1,9 +1,29 @@
 {
     "title": "The One with All the Rugby",
     "terms": [
-        "scrum",
-        "scruddle",
-        "trick",
-        "baseboard"
+        {
+            "id": "scrum",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "scruddle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "trick",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "baseboard",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

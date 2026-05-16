@@ -1,12 +1,47 @@
 {
     "title": "The One in Vegas, Part 1",
     "terms": [
-        "plane_a_versary",
-        "fake_out",
-        "bite",
-        "hunky",
-        "hand_twin",
-        "un_support",
-        "make_up"
+        {
+            "id": "plane_a_versary",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fake_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bite",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hunky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hand_twin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "un_support",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "make_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

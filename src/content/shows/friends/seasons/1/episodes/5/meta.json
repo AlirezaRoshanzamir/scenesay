@@ -1,18 +1,83 @@
 {
     "title": "The One with the East German Laundry Detergent",
     "terms": [
-        "gang_up",
-        "nutty",
-        "scrunchie_scrunchy",
-        "burn_up",
-        "you_don_t_say",
-        "suds",
-        "spaz",
-        "panty",
-        "nibblie_nibbly",
-        "flop",
-        "rambunctious",
-        "bada_bing_bada_boom_bada_boom_bada_bing",
-        "mitzi"
+        {
+            "id": "gang_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nutty",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "scrunchie_scrunchy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "burn_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "you_don_t_say",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "suds",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "spaz",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "panty",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nibblie_nibbly",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "flop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rambunctious",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bada_bing_bada_boom_bada_boom_bada_bing",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mitzi",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

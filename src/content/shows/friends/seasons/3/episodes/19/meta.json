@@ -1,8 +1,23 @@
 {
     "title": "The One with the Tiny T-Shirt",
     "terms": [
-        "zip",
-        "get_back_at",
-        "greatest_thing_since_sliced_bread"
+        {
+            "id": "zip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "get_back_at",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "greatest_thing_since_sliced_bread",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

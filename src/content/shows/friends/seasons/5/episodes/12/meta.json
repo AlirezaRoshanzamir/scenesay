@@ -1,12 +1,47 @@
 {
     "title": "The One with Chandler's Work Laugh",
     "terms": [
-        "juicy",
-        "brown",
-        "on_fire",
-        "pop",
-        "long",
-        "put_out",
-        "won_ton"
+        {
+            "id": "juicy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "brown",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "on_fire",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "long",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "put_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "won_ton",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

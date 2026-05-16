@@ -1,6 +1,11 @@
 {
     "title": "The One with the Flashback",
     "terms": [
-        "mix_and_match"
+        {
+            "id": "mix_and_match",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

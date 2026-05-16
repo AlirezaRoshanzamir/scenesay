@@ -1,13 +1,53 @@
 {
     "title": "The One Where Dr. Ramoray Dies",
     "terms": [
-        "break_out",
-        "crusty",
-        "maraca",
-        "sow_one_s_wild_oats",
-        "romp_in_the_sack",
-        "mildew",
-        "pecan",
-        "sandie"
+        {
+            "id": "break_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "crusty",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "maraca",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sow_one_s_wild_oats",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "romp_in_the_sack",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mildew",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pecan",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sandie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

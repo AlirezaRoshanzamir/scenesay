@@ -1,12 +1,47 @@
 {
     "title": "The One with Ross's Thing",
     "terms": [
-        "sow_one_s_wild_oats",
-        "lop",
-        "burly",
-        "ficus",
-        "savory",
-        "kundus",
-        "rut"
+        {
+            "id": "sow_one_s_wild_oats",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "burly",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ficus",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "savory",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "kundus",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rut",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

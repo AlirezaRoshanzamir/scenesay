@@ -1,8 +1,23 @@
 {
     "title": "The One Where Chandler Crosses the Line",
     "terms": [
-        "tail",
-        "poofy",
-        "sambuca"
+        {
+            "id": "tail",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "poofy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sambuca",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

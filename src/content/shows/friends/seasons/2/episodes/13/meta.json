@@ -1,16 +1,71 @@
 {
     "title": "The One After the Super Bowl, Part 2",
     "terms": [
-        "smoking",
-        "stick_a_fork_in",
-        "swell",
-        "mealworm",
-        "sell_out",
-        "squirm",
-        "hang_in",
-        "ground_rule",
-        "marinara",
-        "tush",
-        "gurney"
+        {
+            "id": "smoking",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "stick_a_fork_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "swell",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mealworm",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sell_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "squirm",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hang_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ground_rule",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "marinara",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tush",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gurney",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

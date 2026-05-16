@@ -1,7 +1,17 @@
 {
     "title": "The One with All the Wedding Dresses",
     "terms": [
-        "woopah_wahpah",
-        "scare"
+        {
+            "id": "woopah_wahpah",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "scare",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

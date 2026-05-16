@@ -1,14 +1,59 @@
 {
     "title": "The One with the 'Cuffs",
     "terms": [
-        "white_trash",
-        "stick_up_for",
-        "quiche",
-        "gag_gift",
-        "scoot",
-        "pantsuit",
-        "igneous",
-        "vivisection",
-        "vas_deferens"
+        {
+            "id": "white_trash",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "stick_up_for",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "quiche",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gag_gift",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "scoot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pantsuit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "igneous",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "vivisection",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "vas_deferens",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -274,6 +274,15 @@ function TermCard({ term, expandSignal, ttsVoices }) {
                   )}
                 </div>
               )}
+
+              {(term.sources?.length ?? 0) > 0 && (
+                <div className="term-section">
+                  <div className="term-section-label">Sources</div>
+                  <div className="term-word-tags">
+                    {term.sources.map(s => <span key={s} className="term-source">{s}</span>)}
+                  </div>
+                </div>
+              )}
             </div>
           )}
         </div>
@@ -309,6 +318,7 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
   const [query, setQuery] = useState('')
   const [filterCats, setFilterCats] = useState([])
   const [filterDiffs, setFilterDiffs] = useState([])
+  const [filterSources, setFilterSources] = useState([])
   const [sortBy, setSortBy] = useState('alpha-asc')
   const [expandSignal, setExpandSignal] = useState({ value: false, rev: 0 })
   const allExpanded = expandSignal.value && expandSignal.rev > 0
@@ -340,13 +350,20 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
     return [...s].sort()
   }, [terms])
 
+  const sources = useMemo(() => {
+    const s = new Set()
+    terms.forEach(t => t.sources?.forEach(src => s.add(src)))
+    return [...s].sort()
+  }, [terms])
+
   const visible = useMemo(() => {
     const q = query.toLowerCase().trim()
     const result = terms.filter(t => {
       const matchQ = !q || t.term.toLowerCase().includes(q)
       const matchCat = filterCats.length === 0 || (t.categories ?? []).some(c => filterCats.includes(c))
       const matchDiff = filterDiffs.length === 0 || filterDiffs.includes(getDifficultyLabel(t.difficultyLevel))
-      return matchQ && matchCat && matchDiff
+      const matchSrc = filterSources.length === 0 || (t.sources ?? []).some(s => filterSources.includes(s))
+      return matchQ && matchCat && matchDiff && matchSrc
     })
     return result.sort((a, b) => {
       if (sortBy === 'alpha-asc') return a.term.localeCompare(b.term)
@@ -355,9 +372,9 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
       const db = parseInt(b.difficultyLevel, 10)
       return sortBy === 'diff-asc' ? da - db : db - da
     })
-  }, [terms, query, filterCats, filterDiffs, sortBy])
+  }, [terms, query, filterCats, filterDiffs, filterSources, sortBy])
 
-  const hasFilters = query || filterCats.length > 0 || filterDiffs.length > 0
+  const hasFilters = query || filterCats.length > 0 || filterDiffs.length > 0 || filterSources.length > 0
 
   return (
     <div className="terms-page">
@@ -421,6 +438,18 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
               styles={rsStyles}
               className="terms-rs-wrap"
             />
+            {sources.length > 0 && (
+              <Select
+                isMulti
+                isClearable
+                placeholder="All Sources"
+                options={sources.map(s => ({ value: s, label: s }))}
+                value={filterSources.map(s => ({ value: s, label: s }))}
+                onChange={sel => setFilterSources(sel ? sel.map(o => o.value) : [])}
+                styles={rsStyles}
+                className="terms-rs-wrap"
+              />
+            )}
             <select className="terms-select" value={sortBy} onChange={e => setSortBy(e.target.value)}>
               <option value="alpha-asc">A → Z</option>
               <option value="alpha-desc">Z → A</option>
@@ -442,7 +471,7 @@ export default function TermsPage({ show, seasonNum, episodeNum, onBack }) {
               {hasFilters && (
                 <button
                   className="terms-clear-btn"
-                  onClick={() => { setQuery(''); setFilterCats([]); setFilterDiffs([]) }}
+                  onClick={() => { setQuery(''); setFilterCats([]); setFilterDiffs([]); setFilterSources([]) }}
                 >
                   Clear filters
                 </button>

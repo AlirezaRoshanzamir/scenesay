@@ -1,11 +1,41 @@
 {
     "title": "The One Where No One's Ready",
     "terms": [
-        "breezy",
-        "go_commando",
-        "fatigues",
-        "push_it",
-        "lunge",
-        "sit_out"
+        {
+            "id": "breezy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "go_commando",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fatigues",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "push_it",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lunge",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sit_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

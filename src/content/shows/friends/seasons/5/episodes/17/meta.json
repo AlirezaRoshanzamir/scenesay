@@ -1,10 +1,35 @@
 {
     "title": "The One with Rachel's Inadvertent Kiss",
     "terms": [
-        "hussy",
-        "sleazeball",
-        "litigious",
-        "tortilla_chip",
-        "screwup"
+        {
+            "id": "hussy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sleazeball",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "litigious",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tortilla_chip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "screwup",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

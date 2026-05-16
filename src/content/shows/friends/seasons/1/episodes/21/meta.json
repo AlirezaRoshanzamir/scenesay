@@ -1,9 +1,29 @@
 {
     "title": "The One with the Fake Monica",
     "terms": [
-        "throw_caution_to_the_wind",
-        "tap",
-        "click",
-        "wait_up"
+        {
+            "id": "throw_caution_to_the_wind",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tap",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "click",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wait_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,10 +1,35 @@
 {
     "title": "The One with the Prom Video",
     "terms": [
-        "julienne",
-        "doubloon",
-        "clobber",
-        "wank",
-        "septum"
+        {
+            "id": "julienne",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doubloon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "clobber",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wank",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "septum",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

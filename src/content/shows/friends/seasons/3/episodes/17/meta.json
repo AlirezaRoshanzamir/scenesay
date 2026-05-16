@@ -1,20 +1,95 @@
 {
     "title": "The One Without The Ski Trip",
     "terms": [
-        "bad_time",
-        "beam_me_up",
-        "civil",
-        "coat_hanger",
-        "compromise",
-        "cut_glass",
-        "defence_mechanism",
-        "skedaddle",
-        "fudge",
-        "beam_up",
-        "tushy_tush",
-        "jimmy",
-        "mosey",
-        "plan_out",
-        "skimp"
+        {
+            "id": "bad_time",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "beam_me_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "civil",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "coat_hanger",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "compromise",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cut_glass",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "defence_mechanism",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "skedaddle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fudge",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "beam_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tushy_tush",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "jimmy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mosey",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "plan_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "skimp",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

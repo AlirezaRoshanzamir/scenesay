@@ -1,10 +1,35 @@
 {
     "title": "The One with the Giant Poking Device",
     "terms": [
-        "barium_enema",
-        "headboard",
-        "bow_out",
-        "babble",
-        "burgundy"
+        {
+            "id": "barium_enema",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "headboard",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bow_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "babble",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "burgundy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,17 +1,77 @@
 {
     "title": "The One Where the Monkey Gets Away",
     "terms": [
-        "earl_grey",
-        "chamomile",
-        "make_one_s_toes_curl",
-        "clench",
-        "woo",
-        "boa",
-        "capuchin",
-        "homeroom",
-        "daiquiri",
-        "yea_tall",
-        "pumps",
-        "alp"
+        {
+            "id": "earl_grey",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "chamomile",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "make_one_s_toes_curl",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "clench",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "woo",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "boa",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "capuchin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "homeroom",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "daiquiri",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "yea_tall",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pumps",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "alp",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

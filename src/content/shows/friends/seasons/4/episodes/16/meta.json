@@ -1,12 +1,47 @@
 {
     "title": "The One with the Fake Party",
     "terms": [
-        "guava",
-        "bologna",
-        "glow",
-        "trench_coat",
-        "thinker",
-        "lay_off",
-        "skit"
+        {
+            "id": "guava",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bologna",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "glow",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "trench_coat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "thinker",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lay_off",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "skit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

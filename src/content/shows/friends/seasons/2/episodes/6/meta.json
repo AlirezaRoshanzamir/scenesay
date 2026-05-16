@@ -1,9 +1,29 @@
 {
     "title": "The One with the Baby on the Bus",
     "terms": [
-        "key_lime",
-        "be_or_go_out_the_window",
-        "lather",
-        "whoosh"
+        {
+            "id": "key_lime",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "be_or_go_out_the_window",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lather",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "whoosh",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

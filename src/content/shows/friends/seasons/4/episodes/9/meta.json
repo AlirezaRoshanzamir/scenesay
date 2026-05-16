@@ -1,16 +1,71 @@
 {
     "title": "The One Where They're Going to Party",
     "terms": [
-        "bitchen_bitching",
-        "bumblebee",
-        "hook_up",
-        "lay_into",
-        "waterbed",
-        "swill",
-        "breadstick",
-        "celery",
-        "beat",
-        "dash",
-        "dollop"
+        {
+            "id": "bitchen_bitching",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bumblebee",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hook_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lay_into",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "waterbed",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "swill",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "breadstick",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "celery",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "beat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dash",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dollop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

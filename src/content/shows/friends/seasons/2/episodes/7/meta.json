@@ -1,8 +1,23 @@
 {
     "title": "The One Where Ross Finds Out",
     "terms": [
-        "racquetball",
-        "set_up",
-        "rack"
+        {
+            "id": "racquetball",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "set_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rack",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

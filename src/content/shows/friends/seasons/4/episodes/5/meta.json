@@ -1,116 +1,671 @@
 {
     "title": "The One with Joey's New Girlfriend",
     "terms": [
-        "hot_girl",
-        "no_big_deal",
-        "whoa",
-        "whoops",
-        "this_baby",
-        "go_and_drop_it",
-        "whatever",
-        "ask_her_out",
-        "what_s_the_worst_that_could_happen",
-        "it_s_tough_being_single",
-        "went_out",
-        "chuck_e_cheese",
-        "shot_down",
-        "be_yourself",
-        "wish_me_luck",
-        "out_on_a_limb",
-        "showing_off",
-        "on_purpose",
-        "verse",
-        "chick",
-        "remote",
-        "ernie_kovacs",
-        "making_out",
-        "rehearse",
-        "wonder_broom",
-        "little_fella",
-        "way_to_go",
-        "get_going",
-        "hamsters",
-        "medical_researcher",
-        "medical_community",
-        "up_all_last_night",
-        "come_on",
-        "lay_off_him",
-        "bluesy_voice",
-        "living_on_the_streets",
-        "woo_hoo_thing",
-        "going_over_to_amanda_s",
-        "how_s_it_going",
-        "tonight_may_be_the_night",
-        "break_open_a_bottle_of_wine",
-        "do_a_little_playing_ourselves",
-        "dudes",
-        "make_varsity",
-        "commodore_64",
-        "head",
-        "dope",
-        "set_foot",
-        "class_trip",
-        "made_up",
-        "giving_the_finger",
-        "get_ready",
-        "sexy_phlegm",
-        "help_yourself_to_the_fridge",
-        "long_distance_calls",
-        "tipped_me_10",
-        "catch_a_cold",
-        "catch_pneumonia",
-        "get_her_out_of_my_head",
-        "caught_your_cold",
-        "got_drunk",
-        "fell_asleep",
-        "ready_or_not_here_i_come",
-        "go_over",
-        "straight_through_the_week",
-        "i_see_what_s_going_on_here",
-        "you_got_me",
-        "started_dating",
-        "made_an_effort",
-        "going_out_with_us",
-        "my_treat",
-        "24_7",
-        "i_am_so_going_to_marry_that_guy",
-        "leather_jacket",
-        "yummy",
-        "broth",
-        "germs",
-        "check_it_out",
-        "underwear",
-        "my_type",
-        "fishnet_stockings",
-        "double_date",
-        "grab_a_beer",
-        "walked_away",
-        "too_damn_difficult",
-        "over_the_top",
-        "want_to_slit_my_own_throat",
-        "bad_luck",
-        "tone_it_down",
-        "dropped_me_off",
-        "cough_drops",
-        "make_out",
-        "r_rated_movies",
-        "lesbian",
-        "babysitter",
-        "12_year_old",
-        "laughing_at",
-        "miss_my_keg_sucking_boyfriend",
-        "is_stealing_from_me",
-        "a_few_bucks",
-        "big_deal",
-        "little_treats",
-        "deputy",
-        "do_you_mind",
-        "papier_m_ch_man",
-        "initiate_it",
-        "feeling_guilty",
-        "are_we_cool",
-        "lay_off",
-        "woohoo",
-        "keg"
+        {
+            "id": "hot_girl",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "no_big_deal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "whoa",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "whoops",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "this_baby",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "go_and_drop_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "whatever",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ask_her_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_s_the_worst_that_could_happen",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "it_s_tough_being_single",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "went_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "chuck_e_cheese",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shot_down",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "be_yourself",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wish_me_luck",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "out_on_a_limb",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "showing_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "on_purpose",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "verse",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "chick",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "remote",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ernie_kovacs",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "making_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "rehearse",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wonder_broom",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "little_fella",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "way_to_go",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_going",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hamsters",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "medical_researcher",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "medical_community",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "up_all_last_night",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lay_off_him",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bluesy_voice",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "living_on_the_streets",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "woo_hoo_thing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "going_over_to_amanda_s",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "how_s_it_going",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tonight_may_be_the_night",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "break_open_a_bottle_of_wine",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "do_a_little_playing_ourselves",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dudes",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "make_varsity",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "commodore_64",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "head",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dope",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "set_foot",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "class_trip",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "made_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "giving_the_finger",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_ready",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "sexy_phlegm",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "help_yourself_to_the_fridge",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "long_distance_calls",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tipped_me_10",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "catch_a_cold",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "catch_pneumonia",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_her_out_of_my_head",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "caught_your_cold",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "got_drunk",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fell_asleep",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "ready_or_not_here_i_come",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "go_over",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "straight_through_the_week",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_see_what_s_going_on_here",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "you_got_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "started_dating",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "made_an_effort",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "going_out_with_us",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "my_treat",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "24_7",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_am_so_going_to_marry_that_guy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "leather_jacket",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "yummy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "broth",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "germs",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "check_it_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "underwear",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "my_type",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "fishnet_stockings",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "double_date",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grab_a_beer",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "walked_away",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "too_damn_difficult",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "over_the_top",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "want_to_slit_my_own_throat",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "bad_luck",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "tone_it_down",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "dropped_me_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "cough_drops",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "make_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "r_rated_movies",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lesbian",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "babysitter",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "12_year_old",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "laughing_at",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "miss_my_keg_sucking_boyfriend",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "is_stealing_from_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "a_few_bucks",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "big_deal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "little_treats",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "deputy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "do_you_mind",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "papier_m_ch_man",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "initiate_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "feeling_guilty",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "are_we_cool",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lay_off",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "woohoo",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "keg",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,14 +1,59 @@
 {
     "title": "The One with Phoebe's Dad",
     "terms": [
-        "super",
-        "limerick",
-        "collie",
-        "gutless",
-        "jerky",
-        "mistletoe",
-        "basil",
-        "run_out_on",
-        "hedge"
+        {
+            "id": "super",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "limerick",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "collie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gutless",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "jerky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mistletoe",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "basil",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "run_out_on",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hedge",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

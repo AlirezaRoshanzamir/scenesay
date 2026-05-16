@@ -1,16 +1,71 @@
 {
     "title": "The One with Two Parts, Part 2",
     "terms": [
-        "hike",
-        "heave",
-        "business_end",
-        "hissy_fit",
-        "saffron",
-        "blow_off",
-        "smush",
-        "stat",
-        "hummus",
-        "nutsy",
-        "simian"
+        {
+            "id": "hike",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "heave",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "business_end",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hissy_fit",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "saffron",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "blow_off",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "smush",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "stat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hummus",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nutsy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "simian",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

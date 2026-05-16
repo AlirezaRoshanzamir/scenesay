@@ -1,99 +1,569 @@
 {
     "title": "The One with the Jellyfish",
     "terms": [
-        "found_out_about",
-        "joked_that",
-        "wouldn_t_go_out_with",
-        "couldn_t_let_it_go",
-        "shows_up",
-        "convinced_her_to",
-        "has_to_choose_between",
-        "hold_on",
-        "go_get",
-        "break_up_with",
-        "do_stuff",
-        "in_the_mood",
-        "faking_sleep",
-        "lying_their_asses_off",
-        "run_off",
-        "woke_up_with",
-        "making_it_worse",
-        "how_it_all_happened",
-        "figure_it_out",
-        "born_and_then",
-        "everybody_does",
-        "walked_out_on_me",
-        "out_and_get_you_some",
-        "how_d_it_go",
-        "birth_mom",
-        "abandoner",
-        "it_s_over",
-        "five_o_clock_shadow",
-        "called_a_cab",
-        "two_of_us_getting_back_together",
-        "get_cracking_on_this_baby",
-        "front_and_back",
-        "come_up",
-        "wanted_to_be_thorough",
-        "does_it",
-        "give_that_whole_does_it_part_just_another_glance",
-        "nuclear_holocaust",
-        "the_discovery_channel",
-        "pee_on_it",
-        "get_the_hell_out_of_here",
-        "are_you",
-        "take_responsibility",
-        "we_were_on_a_break",
-        "full_responsibility",
-        "break_up_with_you",
-        "wreck_the_best_thing_that_ever_happened_to_you",
-        "let_it_go",
-        "what_the_hell_happened",
-        "suicide_note",
-        "gist",
-        "hang_on",
-        "annual_thing",
-        "what_happened_out_there",
-        "we_swore_we_d_never_tell",
-        "we_have_to_get_it_out",
-        "it_s_eating_me_alive",
-        "stung_by_a_jellyfish",
-        "pass_out",
-        "stage_fright",
-        "too_much_pressure",
-        "freak_you_out",
-        "looked_you_up",
-        "react",
-        "i_m_it",
-        "owned_up_to",
-        "grown_you_know",
-        "i_suppose",
-        "give_yourself_credit",
-        "work_out",
-        "once_a_cheater_always_a_cheater",
-        "on_a_break",
-        "you_bet",
-        "for_the_record",
-        "break_up_this_relationship",
-        "took_full_responsibility",
-        "what_i_was_taking_responsibility_for",
-        "y_o_u_apostrophe_r_e",
-        "come_in_handy",
-        "we_are_so_over",
-        "playing_scrabble",
-        "wish_you_were_with_me",
-        "don_t_you_worry_about_me",
-        "not_that_common",
-        "it_s_not_that_common",
-        "it_doesn_t_happen_to_every_guy",
-        "a_big_deal",
-        "playing_gin",
-        "we_could_play_this_game_naked",
-        "would_you_stop",
-        "gremlin",
-        "get_cracking",
-        "step_up",
-        "fuchsia",
-        "mauve"
+        {
+            "id": "found_out_about",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "joked_that",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wouldn_t_go_out_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "couldn_t_let_it_go",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "shows_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "convinced_her_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "has_to_choose_between",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hold_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "go_get",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "break_up_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "do_stuff",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "in_the_mood",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "faking_sleep",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "lying_their_asses_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "run_off",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "woke_up_with",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "making_it_worse",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "how_it_all_happened",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "figure_it_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "born_and_then",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "everybody_does",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "walked_out_on_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "out_and_get_you_some",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "how_d_it_go",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "birth_mom",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "abandoner",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "it_s_over",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "five_o_clock_shadow",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "called_a_cab",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "two_of_us_getting_back_together",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_cracking_on_this_baby",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "front_and_back",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wanted_to_be_thorough",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "does_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "give_that_whole_does_it_part_just_another_glance",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "nuclear_holocaust",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "the_discovery_channel",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pee_on_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "get_the_hell_out_of_here",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "are_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "take_responsibility",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "we_were_on_a_break",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "full_responsibility",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "break_up_with_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wreck_the_best_thing_that_ever_happened_to_you",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "let_it_go",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_the_hell_happened",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "suicide_note",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gist",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "hang_on",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "annual_thing",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_happened_out_there",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "we_swore_we_d_never_tell",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "we_have_to_get_it_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "it_s_eating_me_alive",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stung_by_a_jellyfish",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "pass_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "stage_fright",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "too_much_pressure",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "freak_you_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "looked_you_up",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "react",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_m_it",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "owned_up_to",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "grown_you_know",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "i_suppose",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "give_yourself_credit",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "work_out",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "once_a_cheater_always_a_cheater",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "on_a_break",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "you_bet",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "for_the_record",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "break_up_this_relationship",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "took_full_responsibility",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "what_i_was_taking_responsibility_for",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "y_o_u_apostrophe_r_e",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "come_in_handy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "we_are_so_over",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "playing_scrabble",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "wish_you_were_with_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "don_t_you_worry_about_me",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "not_that_common",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "it_s_not_that_common",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "it_doesn_t_happen_to_every_guy",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "a_big_deal",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "playing_gin",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "we_could_play_this_game_naked",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "would_you_stop",
+            "sources": [
+                "ai"
+            ]
+        },
+        {
+            "id": "gremlin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "get_cracking",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "step_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fuchsia",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mauve",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

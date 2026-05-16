@@ -1,11 +1,41 @@
 {
     "title": "The One with All the Thanksgivings",
     "terms": [
-        "bum_out",
-        "butternut_squash",
-        "bosh",
-        "lacrosse",
-        "dork",
-        "gauze"
+        {
+            "id": "bum_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "butternut_squash",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bosh",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "lacrosse",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dork",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gauze",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

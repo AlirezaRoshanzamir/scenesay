@@ -1,9 +1,29 @@
 {
     "title": "The One with Ross's Wedding, Part 1",
     "terms": [
-        "tarragon",
-        "carpal_tunnel_syndrome",
-        "bummed",
-        "dashing"
+        {
+            "id": "tarragon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "carpal_tunnel_syndrome",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bummed",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dashing",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

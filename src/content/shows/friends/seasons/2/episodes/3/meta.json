@@ -1,10 +1,35 @@
 {
     "title": "The One Where Heckles Dies",
     "terms": [
-        "nutcase",
-        "cave",
-        "safety_net",
-        "hang_up",
-        "dresser"
+        {
+            "id": "nutcase",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cave",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "safety_net",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hang_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dresser",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,15 +1,65 @@
 {
     "title": "The One with the Thumb",
     "terms": [
-        "karmic",
-        "pick_off",
-        "beef",
-        "pimento_pimiento",
-        "hasidic",
-        "saltine",
-        "gloves_are_off",
-        "the_thing",
-        "emphysema",
-        "pop_tart"
+        {
+            "id": "karmic",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pick_off",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "beef",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pimento_pimiento",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hasidic",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "saltine",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "gloves_are_off",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "the_thing",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "emphysema",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pop_tart",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

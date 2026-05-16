@@ -1,8 +1,23 @@
 {
     "title": "The One with Two Parts, Part 1",
     "terms": [
-        "snarly",
-        "biscotto",
-        "pot_roast"
+        {
+            "id": "snarly",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "biscotto",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pot_roast",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,12 +1,47 @@
 {
     "title": "The One with All the Haste",
     "terms": [
-        "hole",
-        "blimey",
-        "knickers",
-        "bachelor_pad",
-        "chino",
-        "go_go",
-        "peace_offering"
+        {
+            "id": "hole",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "blimey",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "knickers",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bachelor_pad",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "chino",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "go_go",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "peace_offering",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

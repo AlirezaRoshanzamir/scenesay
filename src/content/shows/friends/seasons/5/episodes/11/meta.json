@@ -1,9 +1,29 @@
 {
     "title": "The One with All the Resolutions",
     "terms": [
-        "gossip",
-        "hornswoggle",
-        "nail",
-        "fringe"
+        {
+            "id": "gossip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hornswoggle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nail",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fringe",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

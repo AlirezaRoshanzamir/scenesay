@@ -1,16 +1,71 @@
 {
     "title": "The One with All the Poker",
     "terms": [
-        "scone",
-        "straight",
-        "crudites",
-        "get_one_s_ya_yas_out",
-        "meter",
-        "chitchat",
-        "hold_over",
-        "ante",
-        "flush",
-        "fold",
-        "full_house"
+        {
+            "id": "scone",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "straight",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "crudites",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "get_one_s_ya_yas_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "meter",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "chitchat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hold_over",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ante",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "flush",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fold",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "full_house",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

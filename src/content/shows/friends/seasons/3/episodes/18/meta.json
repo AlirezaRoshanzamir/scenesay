@@ -1,8 +1,23 @@
 {
     "title": "The One with the Hypnosis Tape",
     "terms": [
-        "drag",
-        "teat",
-        "heather"
+        {
+            "id": "drag",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "teat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "heather",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

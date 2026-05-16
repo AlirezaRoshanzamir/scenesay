@@ -1,9 +1,29 @@
 {
     "title": "The One with Phoebe's Ex-Partner",
     "terms": [
-        "barge",
-        "bionic",
-        "monger",
-        "nubbin"
+        {
+            "id": "barge",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bionic",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "monger",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nubbin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

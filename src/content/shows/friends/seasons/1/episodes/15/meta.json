@@ -1,14 +1,59 @@
 {
     "title": "The One with the Stoned Guy",
     "terms": [
-        "a_go_go",
-        "amuse_bouche_amuse_gueule",
-        "hardball",
-        "doobie",
-        "ganja",
-        "ravioli",
-        "cilantro",
-        "ponzu",
-        "tartlet"
+        {
+            "id": "a_go_go",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "amuse_bouche_amuse_gueule",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hardball",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doobie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ganja",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ravioli",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cilantro",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ponzu",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tartlet",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

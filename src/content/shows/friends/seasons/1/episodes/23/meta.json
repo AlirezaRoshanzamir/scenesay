@@ -1,8 +1,23 @@
 {
     "title": "The One with the Birth",
     "terms": [
-        "mazeltov",
-        "loaner",
-        "cook_up"
+        {
+            "id": "mazeltov",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "loaner",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cook_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

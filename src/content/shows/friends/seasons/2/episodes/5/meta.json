@@ -1,18 +1,83 @@
 {
     "title": "The One with Five Steaks and an Eggplant",
     "terms": [
-        "steep",
-        "dust_bunny",
-        "saute",
-        "on_the_edge_of_one_s_seat",
-        "cha_ching",
-        "carpaccio",
-        "leek",
-        "cajun",
-        "hoopla",
-        "dorky",
-        "enthuse",
-        "tiara",
-        "hickey"
+        {
+            "id": "steep",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dust_bunny",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "saute",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "on_the_edge_of_one_s_seat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cha_ching",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "carpaccio",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "leek",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cajun",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hoopla",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dorky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "enthuse",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tiara",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hickey",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

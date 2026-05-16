@@ -1,14 +1,59 @@
 {
     "title": "The One with Russ",
     "terms": [
-        "toy_with",
-        "bombed",
-        "callback",
-        "doll",
-        "periodontics",
-        "goober",
-        "pop_up",
-        "dysprosium",
-        "fall_off_the_wagon"
+        {
+            "id": "toy_with",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bombed",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "callback",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doll",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "periodontics",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "goober",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pop_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dysprosium",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fall_off_the_wagon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

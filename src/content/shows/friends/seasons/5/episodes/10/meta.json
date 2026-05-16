@@ -1,12 +1,47 @@
 {
     "title": "The One with the Inappropriate Sister",
     "terms": [
-        "sabbatical",
-        "cramk_up",
-        "airhead",
-        "churro",
-        "set",
-        "livelong",
-        "polontologist"
+        {
+            "id": "sabbatical",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cramk_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "airhead",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "churro",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "set",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "livelong",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "polontologist",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

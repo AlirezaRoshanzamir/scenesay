@@ -1,15 +1,65 @@
 {
     "title": "The One with Rachel's New Dress",
     "terms": [
-        "fast",
-        "frisee",
-        "asparagus",
-        "en_croute",
-        "filer_mignon",
-        "crabby",
-        "kick_someone_when_they_are_down",
-        "out_of_one_s_hair",
-        "nightie",
-        "hug_it_out"
+        {
+            "id": "fast",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "frisee",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "asparagus",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "en_croute",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "filer_mignon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "crabby",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "kick_someone_when_they_are_down",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "out_of_one_s_hair",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nightie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hug_it_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

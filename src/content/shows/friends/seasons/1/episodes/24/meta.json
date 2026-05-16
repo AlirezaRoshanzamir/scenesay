@@ -1,12 +1,47 @@
 {
     "title": "The One Where Rachel Finds Out",
     "terms": [
-        "hand_over_fist",
-        "coleslaw",
-        "breakfront",
-        "petite",
-        "peg",
-        "ticker_tape_parade",
-        "hammerhead"
+        {
+            "id": "hand_over_fist",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "coleslaw",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "breakfront",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "petite",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "peg",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ticker_tape_parade",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hammerhead",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

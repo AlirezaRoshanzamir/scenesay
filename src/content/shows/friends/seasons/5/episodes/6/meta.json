@@ -1,15 +1,65 @@
 {
     "title": "The One with the Yeti",
     "terms": [
-        "heirloom",
-        "cootie",
-        "creeps",
-        "yeti",
-        "pelt",
-        "wintry",
-        "capri_pants",
-        "snap_judgment",
-        "seeing_eye_dog",
-        "speakerphone"
+        {
+            "id": "heirloom",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cootie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "creeps",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "yeti",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pelt",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wintry",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "capri_pants",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "snap_judgment",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "seeing_eye_dog",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "speakerphone",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

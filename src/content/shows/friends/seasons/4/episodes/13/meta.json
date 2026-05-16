@@ -1,8 +1,23 @@
 {
     "title": "The One with Rachel's Crush",
     "terms": [
-        "snooty",
-        "pan_out",
-        "billfold"
+        {
+            "id": "snooty",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pan_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "billfold",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

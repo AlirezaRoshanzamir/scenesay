@@ -1,10 +1,35 @@
 {
     "title": "The One with Barry and Mindy's Wedding",
     "terms": [
-        "quippy",
-        "bassinet",
-        "basset_hound",
-        "up_and_about_around",
-        "merengue"
+        {
+            "id": "quippy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bassinet",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "basset_hound",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "up_and_about_around",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "merengue",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

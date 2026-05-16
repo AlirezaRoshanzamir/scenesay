@@ -1,9 +1,29 @@
 {
     "title": "The One with the Race Car Bed",
     "terms": [
-        "chiropractor",
-        "make_nice",
-        "vroom",
-        "off_ramp"
+        {
+            "id": "chiropractor",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "make_nice",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "vroom",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "off_ramp",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

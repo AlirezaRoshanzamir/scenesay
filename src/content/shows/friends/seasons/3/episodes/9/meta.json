@@ -1,7 +1,17 @@
 {
     "title": "The One with the Football",
     "terms": [
-        "baste",
-        "go_long"
+        {
+            "id": "baste",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "go_long",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

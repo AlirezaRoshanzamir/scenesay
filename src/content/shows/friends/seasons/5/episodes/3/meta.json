@@ -1,9 +1,29 @@
 {
     "title": "The One Hundredth",
     "terms": [
-        "steal_somebody_s_thunder",
-        "feel_out",
-        "bongo_drums",
-        "petri_dish"
+        {
+            "id": "steal_somebody_s_thunder",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "feel_out",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bongo_drums",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "petri_dish",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,10 +1,35 @@
 {
     "title": "The One Where Chandler Can't Remember Which Sister",
     "terms": [
-        "hammered",
-        "dreamy",
-        "hummina_hummina_hummina",
-        "giddy",
-        "pogo_stick"
+        {
+            "id": "hammered",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dreamy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hummina_hummina_hummina",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "giddy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pogo_stick",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

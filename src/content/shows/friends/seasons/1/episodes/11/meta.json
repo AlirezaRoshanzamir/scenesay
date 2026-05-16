@@ -1,13 +1,53 @@
 {
     "title": "The One with Mrs. Bing",
     "terms": [
-        "rigatoni",
-        "come_out_of_one_s_shell",
-        "dive",
-        "slugger",
-        "racquetball",
-        "jockstrap",
-        "woozy",
-        "heaving"
+        {
+            "id": "rigatoni",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "come_out_of_one_s_shell",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dive",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "slugger",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "racquetball",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "jockstrap",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "woozy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "heaving",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

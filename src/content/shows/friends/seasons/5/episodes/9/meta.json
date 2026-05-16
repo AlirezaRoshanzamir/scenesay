@@ -1,14 +1,59 @@
 {
     "title": "The One with Ross's Sandwich",
     "terms": [
-        "tighty_whities",
-        "wuthering",
-        "grub",
-        "mitt",
-        "pep_rally",
-        "moor",
-        "venture",
-        "goody_goody_goody_two_shoes",
-        "sack"
+        {
+            "id": "tighty_whities",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "wuthering",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "grub",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mitt",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "pep_rally",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "moor",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "venture",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "goody_goody_goody_two_shoes",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sack",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

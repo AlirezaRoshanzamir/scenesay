@@ -1,10 +1,35 @@
 {
     "title": "The One with the Dirty Girl",
     "terms": [
-        "spokesmodel",
-        "call_in",
-        "velveteen",
-        "crossbow",
-        "hard_ass"
+        {
+            "id": "spokesmodel",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "call_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "velveteen",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "crossbow",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hard_ass",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

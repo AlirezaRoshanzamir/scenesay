@@ -1,13 +1,53 @@
 {
     "title": "The One with the Candy Hearts",
     "terms": [
-        "zinfandel",
-        "slather",
-        "mousse",
-        "sage",
-        "oregano",
-        "grappa",
-        "scooch",
-        "foghorn"
+        {
+            "id": "zinfandel",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "slather",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "mousse",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sage",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "oregano",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "grappa",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "scooch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "foghorn",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

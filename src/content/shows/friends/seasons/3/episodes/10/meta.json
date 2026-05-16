@@ -1,14 +1,59 @@
 {
     "title": "The One Where Rachel Quits",
     "terms": [
-        "macaroon",
-        "backhand",
-        "tinsel",
-        "slot_machine",
-        "chipper",
-        "munchies",
-        "scrud",
-        "nougat",
-        "perk_up"
+        {
+            "id": "macaroon",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "backhand",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tinsel",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "slot_machine",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "chipper",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "munchies",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "scrud",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nougat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "perk_up",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

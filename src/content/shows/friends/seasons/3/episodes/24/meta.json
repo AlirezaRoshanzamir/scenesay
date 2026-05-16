@@ -1,12 +1,47 @@
 {
     "title": "The One with the Ultimate Fighting Champion",
     "terms": [
-        "jock",
-        "boom_boom",
-        "tanked",
-        "dicey",
-        "posterior",
-        "rotator_cuff",
-        "hairline_fracture"
+        {
+            "id": "jock",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "boom_boom",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tanked",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dicey",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "posterior",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rotator_cuff",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hairline_fracture",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

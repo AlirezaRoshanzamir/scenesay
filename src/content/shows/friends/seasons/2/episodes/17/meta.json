@@ -1,14 +1,59 @@
 {
     "title": "The One Where Eddie Moves In",
     "terms": [
-        "blow_dry",
-        "fest",
-        "velociraptor",
-        "butt_munch",
-        "diaphragm",
-        "chorizo",
-        "have_something_to_spare",
-        "carton",
-        "tell_on"
+        {
+            "id": "blow_dry",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "fest",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "velociraptor",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "butt_munch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "diaphragm",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "chorizo",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "have_something_to_spare",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "carton",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tell_on",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

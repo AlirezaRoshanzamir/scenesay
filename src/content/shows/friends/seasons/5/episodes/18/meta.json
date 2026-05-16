@@ -1,10 +1,35 @@
 {
     "title": "The One Where Rachel Smokes",
     "terms": [
-        "finger_food",
-        "bum",
-        "doobie",
-        "rue_the_day",
-        "cig"
+        {
+            "id": "finger_food",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "bum",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doobie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "rue_the_day",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cig",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

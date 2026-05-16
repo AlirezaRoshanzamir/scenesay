@@ -1,10 +1,35 @@
 {
     "title": "The One with Ross's New Girlfriend",
     "terms": [
-        "slowpoke",
-        "dig",
-        "cuff",
-        "inseam",
-        "paisano"
+        {
+            "id": "slowpoke",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "dig",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cuff",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "inseam",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "paisano",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

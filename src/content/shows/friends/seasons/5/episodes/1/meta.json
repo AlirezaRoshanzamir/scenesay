@@ -1,10 +1,35 @@
 {
     "title": "The One After Ross Says Rachel",
     "terms": [
-        "phalange",
-        "toe_the_line",
-        "thread_the_needle",
-        "two_piece",
-        "merlot"
+        {
+            "id": "phalange",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "toe_the_line",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "thread_the_needle",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "two_piece",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "merlot",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

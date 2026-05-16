@@ -1,7 +1,17 @@
 {
     "title": "The One with Chandler in a Box",
     "terms": [
-        "walk_the_plank",
-        "ice_dancing"
+        {
+            "id": "walk_the_plank",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "ice_dancing",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

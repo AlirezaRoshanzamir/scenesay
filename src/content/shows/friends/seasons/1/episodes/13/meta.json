@@ -1,13 +1,53 @@
 {
     "title": "The One with the Boobies",
     "terms": [
-        "weave",
-        "boobie_booby",
-        "sparky",
-        "something_blows",
-        "tit_for_tat",
-        "nip",
-        "embolism",
-        "cave_in"
+        {
+            "id": "weave",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "boobie_booby",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "sparky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "something_blows",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tit_for_tat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "nip",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "embolism",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "cave_in",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

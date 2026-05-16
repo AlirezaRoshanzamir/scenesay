@@ -1,10 +1,35 @@
 {
     "title": "The One with All the Jealousy",
     "terms": [
-        "start",
-        "translucent",
-        "barbershop",
-        "jazz_hands",
-        "butt_munching"
+        {
+            "id": "start",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "translucent",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "barbershop",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "jazz_hands",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "butt_munching",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

@@ -1,10 +1,35 @@
 {
     "title": "The One with the Ick Factor",
     "terms": [
-        "drill_press",
-        "touch",
-        "saucy",
-        "head_rush",
-        "icky"
+        {
+            "id": "drill_press",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "touch",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "saucy",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "head_rush",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "icky",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

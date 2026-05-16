@@ -1,10 +1,35 @@
 {
     "title": "The One with the Screamer",
     "terms": [
-        "flimbees",
-        "hurl",
-        "riboflavin",
-        "tarp_tarpaulin",
-        "doody_doodie"
+        {
+            "id": "flimbees",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "hurl",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "riboflavin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "tarp_tarpaulin",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "doody_doodie",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }

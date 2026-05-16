@@ -1,7 +1,17 @@
 {
     "title": "The One Where Ross and Rachel Take a Break",
     "terms": [
-        "top_hat",
-        "couscous"
+        {
+            "id": "top_hat",
+            "sources": [
+                "nodir_ataev"
+            ]
+        },
+        {
+            "id": "couscous",
+            "sources": [
+                "nodir_ataev"
+            ]
+        }
     ]
 }
