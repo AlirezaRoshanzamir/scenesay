@@ -1,0 +1,30 @@
+{
+  "term": "Orbit the Moon",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈɔːrbɪt ðə muːn/",
+  "partOfSpeech": "Verb phrase",
+  "englishDefinitions": [
+    "To travel around the Moon in a curved path because of gravity."
+  ],
+  "persianTranslation": [
+    "به دور ماه گردش کردن",
+    "دور ماه چرخیدن"
+  ],
+  "examples": [
+    "The spacecraft will orbit the Moon for several days.",
+    "Apollo 8 was the first crewed mission to orbit the Moon.",
+    "Scientists studied the craft as it orbited the Moon."
+  ],
+  "synonyms": [
+    "circle the Moon",
+    "go around the Moon"
+  ],
+  "antonyms": [
+    "land on the Moon",
+    "depart the Moon"
+  ]
+}

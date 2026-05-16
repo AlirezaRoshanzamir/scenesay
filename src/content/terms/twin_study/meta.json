@@ -1,0 +1,27 @@
+{
+  "term": "Twin Study",
+  "categories": [
+    "Academic",
+    "Technical"
+  ],
+  "difficultyLevel": "6",
+  "pronunciation": "/twɪn ˈstʌd.i/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A scientific study that compares twins to learn about genetics, environment, or behavior."
+  ],
+  "persianTranslation": [
+    "مطالعهٔ دوقلوها",
+    "پژوهش روی دوقلوها"
+  ],
+  "examples": [
+    "The researchers used a twin study to examine hereditary traits.",
+    "A twin study can help scientists understand the role of genes and environment.",
+    "The results of the twin study were published in a medical journal."
+  ],
+  "synonyms": [
+    "twin research",
+    "genetic comparison study"
+  ],
+  "antonyms": []
+}

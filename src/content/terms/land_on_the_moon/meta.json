@@ -1,0 +1,30 @@
+{
+  "term": "Land on the Moon",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "4",
+  "pronunciation": "/lænd ɑn ðə muːn/",
+  "partOfSpeech": "Verb phrase",
+  "englishDefinitions": [
+    "To arrive on the surface of the Moon, especially in a spacecraft."
+  ],
+  "persianTranslation": [
+    "بر ماه فرود آمدن",
+    "روی ماه فرود آمدن"
+  ],
+  "examples": [
+    "The mission was designed to land on the Moon safely.",
+    "Humans first landed on the Moon in 1969.",
+    "It takes careful planning to land on the Moon."
+  ],
+  "synonyms": [
+    "touch down on the Moon",
+    "moon landing"
+  ],
+  "antonyms": [
+    "launch from the Moon",
+    "take off from the Moon"
+  ]
+}

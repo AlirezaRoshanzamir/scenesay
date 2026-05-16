@@ -1,0 +1,33 @@
+{
+  "term": "Exact Replica",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ɪɡˈzækt ˈrɛplɪkə/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Something that is made to be exactly the same as another thing in every detail.",
+    "A very close copy of an original object."
+  ],
+  "persianTranslation": [
+    "کپی دقیق",
+    "نمونهٔ کاملاً مشابه",
+    "رونوشت دقیق"
+  ],
+  "examples": [
+    "The museum displayed an exact replica of the ancient statue.",
+    "This model is an exact replica of the original ship.",
+    "He bought an exact replica of his favorite watch."
+  ],
+  "synonyms": [
+    "duplicate",
+    "copy",
+    "duplicate version"
+  ],
+  "antonyms": [
+    "original",
+    "prototype"
+  ]
+}

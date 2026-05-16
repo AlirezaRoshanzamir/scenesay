@@ -1,0 +1,28 @@
+{
+  "term": "Medical Experiments",
+  "categories": [
+    "Academic",
+    "Formal"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈmɛd.ɪ.kəl ɪkˈspɛr.ɪ.mənts/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Scientific tests or studies involving medicine, patients, drugs, or treatments."
+  ],
+  "persianTranslation": [
+    "آزمایش‌های پزشکی",
+    "تجربه‌های علمی پزشکی"
+  ],
+  "examples": [
+    "The hospital approved several medical experiments.",
+    "Medical experiments must follow strict ethical rules.",
+    "She read about new medical experiments in the journal."
+  ],
+  "synonyms": [
+    "clinical trials",
+    "medical studies",
+    "scientific tests"
+  ],
+  "antonyms": []
+}

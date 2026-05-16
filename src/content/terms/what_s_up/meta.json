@@ -1,0 +1,31 @@
+{
+  "term": "What's Up",
+  "categories": [
+    "Informal",
+    "Colloquial",
+    "Slang"
+  ],
+  "difficultyLevel": "2",
+  "pronunciation": "/wʌts ʌp/",
+  "partOfSpeech": "Greeting / Informal question",
+  "englishDefinitions": [
+    "An informal greeting meaning 'How are you?' or 'What's happening?'",
+    "An informal question asking what is wrong or what is going on."
+  ],
+  "persianTranslation": [
+    "چه خبر؟",
+    "حالت چطوره؟",
+    "چه می‌کنی؟"
+  ],
+  "examples": [
+    "Hey, what's up?",
+    "She texted me, 'What's up?'",
+    "What's up with the schedule today?"
+  ],
+  "synonyms": [
+    "How are you?",
+    "What's happening?",
+    "What's going on?"
+  ],
+  "antonyms": []
+}

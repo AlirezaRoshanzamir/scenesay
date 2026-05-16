@@ -1,0 +1,28 @@
+{
+  "term": "Access WGBH Org",
+  "categories": [
+    "Technical",
+    "Formal"
+  ],
+  "difficultyLevel": "7",
+  "pronunciation": "/ˈæksɛs ˌdʌbəlˌdʌbəlˌdʌbəl ˌdʒiː biː eɪtʃ ɔːrˈdʒiː/",
+  "partOfSpeech": "Proper noun / Website address",
+  "englishDefinitions": [
+    "The website address for WGBH accessibility or media access services.",
+    "A web domain name referring to an online WGBH access resource."
+  ],
+  "persianTranslation": [
+    "access.wgbh.org",
+    "وب‌سایت دسترسی WGBH"
+  ],
+  "examples": [
+    "For more information about captions, visit access.wgbh.org.",
+    "The video description directed users to access.wgbh.org for accessibility resources.",
+    "Teachers were told to check access.wgbh.org for support materials."
+  ],
+  "synonyms": [
+    "WGBH access website",
+    "WGBH accessibility site"
+  ],
+  "antonyms": []
+}

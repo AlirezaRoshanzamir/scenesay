@@ -1,4 +1,761 @@
 {
     "title": "The One with Unagi",
-    "terms": []
+    "terms": [
+        {
+            "id": "20_tip",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "50",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "what_s_up_with",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "greed",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "head_shots",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "i_m_down_to",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "blackened_in_some_teeth",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "pick_up",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "extra_shift",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "beg_for_money",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "a_little_of_this_going_on",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "audition",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "medical_experiments",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "medical_stuff",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "donate_sperm",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "home_office",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "spit",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "warner_bros",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "broke",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "d_o_a",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "stuck_in_second_gear",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "self_defense_class",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "crotch",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "takes_it_out_of_you",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "kick_anybody_s_ass",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sexual_predator",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "i_dare_you",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "kar_atey",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "unagi",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "freshwater_eel",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "salmon_skin_roll",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "a_state_of_total_awareness",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "may_befall_you",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "bamboo_sleeping_mat",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "kettle_of_fish",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "whole_nother_story",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "reservations",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "valentine_s_day",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "romantic_spas",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "crotchless_panties",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "papier_mache_d",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "papier_mache",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "take_credit_for",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sock_bunnies",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "for_crying_out_loud",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "pick_it_up",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "with_all_due_respect",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "donate_some_fluids",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "research_cycles",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "applicants",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "saving_up",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "participate_in",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "identical_twins",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "eligible",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "twin_study",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "nurse_receptionist",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "results_back",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "what_the_hell",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "freak",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "girlish_screams",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "drastic_measures",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "make_my_point",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "uh_huh",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "2000_bucks",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "what_s_up",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "figure_out",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "going_crazy",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "homemade",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "exact_replica",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "apollo_eight",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sixth_grade",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sends_me_to_the_moon",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "land_on_the_moon",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "orbit_the_moon",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "a_mix_tape",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "the_way_you_look_tonight",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sock_bunny",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sock_rabbits",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "went_through_all_this_time_and_effort",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "make_this_up_to_you",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "put_a_lot_of_thought_into",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "way_too",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "what_do_you_say",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "have_got_to",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "old_saying",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "soda",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "who_the_hell_are_you",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "how_are_you_doin",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "how_you_doin",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "damn_it",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "on_behalf_of",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "identical_twin",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "medical_research_project",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "right_in_front_of_you",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "minute_maid_commercial",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "messed_it_up",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "pat_sajak",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "alex_trebek",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "chuck_woolery",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "game_show_host",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "whose_ass_i_cannot_kick",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "get_out_of_this",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "minute_maid_fiasco",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "continuing_the_countdown",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "macaroni_and_cheese",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "cut_up_hot_dogs",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "tony_bennett",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "awfully_low",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "feel_a_glow",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "pinned_you_to_the_floor",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "jam_them",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "let_me_get_this_straight",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "ex_wife",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "that_s_a_no",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "are_you_kidding_me",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "come_on",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "my_funny_valentine",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sweet_comic_valentine",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "your_looks_are_laughable",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "nowhere_to_run",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "sitting_up",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "going_over_there",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "got_here_first",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "jumping_on",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "captioned_by_media_access_group_at_wgbh",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        },
+        {
+            "id": "access_wgbh_org",
+            "sources": [
+                "llm/gpt-5.5"
+            ]
+        }
+    ]
 }

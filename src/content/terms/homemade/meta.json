@@ -1,0 +1,33 @@
+{
+  "term": "homemade",
+  "categories": [],
+  "pronunciation": "",
+  "partOfSpeech": "Adjective",
+  "englishDefinitions": [
+    "Made at home.",
+    "Made by oneself.",
+    "In a simple style as if made at home."
+  ],
+  "persianTranslation": [
+    "در خانه ساخته شده است.",
+    "ساخته شده توسط خود.",
+    "به سبکی ساده که انگار در خانه ساخته شده است."
+  ],
+  "examples": [
+    "a homemade chicken casserole",
+    "Near-synonyms: homebrew, handmade",
+    "a homemade bomb",
+    "Near-synonym: homespun",
+    "a homemade aphorism"
+  ],
+  "synonyms": [
+    "self-made",
+    "homebrew",
+    "handmade",
+    "homespun"
+  ],
+  "antonyms": [
+    "shop-bought",
+    "store-bought"
+  ]
+}

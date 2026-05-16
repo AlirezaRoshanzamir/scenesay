@@ -1,0 +1,30 @@
+{
+  "term": "Medical Research Project",
+  "categories": [
+    "Academic",
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "5",
+  "pronunciation": "/ˈmɛdɪkəl rɪˈsɝːtʃ ˈprɑdʒɛkt/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "A planned study in medicine or health science designed to find new information or solutions."
+  ],
+  "persianTranslation": [
+    "پروژهٔ پژوهش پزشکی",
+    "طرح تحقیقاتی پزشکی",
+    "پژوهش پزشکی"
+  ],
+  "examples": [
+    "She joined a medical research project at the university.",
+    "The medical research project studied a new treatment for asthma.",
+    "Funding for the medical research project came from several donors."
+  ],
+  "synonyms": [
+    "clinical study",
+    "medical study",
+    "research study"
+  ],
+  "antonyms": []
+}

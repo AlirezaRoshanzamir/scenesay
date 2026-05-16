@@ -1,0 +1,31 @@
+{
+  "term": "Captioned by Media Access Group at WGBH",
+  "categories": [
+    "Formal",
+    "Technical"
+  ],
+  "difficultyLevel": "8",
+  "pronunciation": "/ˈkæpʃənd baɪ ˈmiːdiə ˈæksɛs ɡruːp æt ˌdʌbəlˌdʌbəlˌdʌbəl ˌdʒiː biː eɪtʃ/",
+  "partOfSpeech": "Credit line / Attribution",
+  "englishDefinitions": [
+    "A captioning credit showing that the subtitles or closed captions were created by the Media Access Group at WGBH.",
+    "A formal production note used in media to identify the organization responsible for captioning."
+  ],
+  "persianTranslation": [
+    "زیرنویس‌گذاری شده توسط Media Access Group در WGBH",
+    "اعتبار زیرنویس: گروه دسترسی رسانه‌ای در WGBH"
+  ],
+  "examples": [
+    "The documentary ended with the note 'Captioned by Media Access Group at WGBH.'",
+    "This episode includes accessibility credits captioned by Media Access Group at WGBH.",
+    "Viewers saw the line 'Captioned by Media Access Group at WGBH' in the closing credits."
+  ],
+  "synonyms": [
+    "subtitled by",
+    "closed-captioned by"
+  ],
+  "antonyms": [
+    "uncaptioned",
+    "without captions"
+  ]
+}

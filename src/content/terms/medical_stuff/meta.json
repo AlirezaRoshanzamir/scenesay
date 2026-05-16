@@ -1,0 +1,27 @@
+{
+  "term": "Medical Stuff",
+  "categories": [
+    "Informal",
+    "Colloquial"
+  ],
+  "difficultyLevel": "3",
+  "pronunciation": "/ˈmɛd.ɪ.kəl stʌf/",
+  "partOfSpeech": "Noun phrase",
+  "englishDefinitions": [
+    "Informal language for things related to medicine, healthcare, or treatment."
+  ],
+  "persianTranslation": [
+    "مسائل پزشکی",
+    "چیزهای مربوط به پزشکی"
+  ],
+  "examples": [
+    "I have to deal with some medical stuff this week.",
+    "She works in medical stuff and knows a lot about hospitals.",
+    "We talked about his medical stuff after dinner."
+  ],
+  "synonyms": [
+    "medical matters",
+    "healthcare issues"
+  ],
+  "antonyms": []
+}
