@@ -26,5 +26,6 @@
     "opaque",
     "transparent",
     "turbid"
-  ]
+  ],
+  "difficultyLevel": "5"
 }

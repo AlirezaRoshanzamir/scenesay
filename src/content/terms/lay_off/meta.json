@@ -76,5 +76,6 @@
     "leave",
     "quit",
     "retire"
-  ]
+  ],
+  "difficultyLevel": "6"
 }
