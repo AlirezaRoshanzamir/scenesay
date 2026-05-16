@@ -10,5635 +10,5635 @@
         {
             "id": "box_of_chocolates",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "peas_and_carrots",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fine_and_dandy",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "out_of_the_blue",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "white_lie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "household_name",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sea_legs",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "second_chance",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sneak_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "move_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "jabber_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "far_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "out_of_hand",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "like_a_duck_to_water",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "redneck",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "beatnik",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "grunt",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "platoon",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "drill_sergeant",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ambush",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "napalm",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "air_strike",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "drafted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sniper",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "first_mate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "medal_of_honor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "desegregate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "escalation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "imbecile",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "destiny",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hassle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "inspirational",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "messed_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "whopper",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "recollect",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "heat_exhaustion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crooked",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "progressive",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "folk_singer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "show_and_tell",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bumper_sticker",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scrapbook",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "clippings",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "a_thing_or_two",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "requisition",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "induction",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "discharge_papers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_cover",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dangle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "braces",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "enlisted_man",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sideshow",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "miracle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "onslaught",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "brutalize",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "segregation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pathetic",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dummy",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "civil_war",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "national_guard",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "court_order",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "make_peace_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "man_of_my_word",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "million_dollar_wound",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "give_a_big_hand",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "expand_ones_mind",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cheat_out_of",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "moron",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "home_economics",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "running_fool",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "screenplay",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "draft",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "eric_roth_screenplay",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compulsion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "low_iq",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crippled",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "early_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "drafts_of_the_script",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "metaphor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "randomness_of_life",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "destiny_of_life",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "floating_around_on_a_breeze",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tale",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rise_to_the_occasion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shooting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "vietnam",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "oak_alley",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "get_immersed_in_the_character",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bench_in_savannah",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "taking_a_warm_bath",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "narrated",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "line_of_narration",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "powered_through",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "had_it_down",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "heavy_scenes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "on_the_stages",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "on_location",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "work_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_gump_part",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "locations",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "takes_up_two_thirds_of_the_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "norman_rockwell_illustration",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "composition",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "acting_prowess",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "forrest_gump",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "carry_this_film",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tom_hanks",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "came_into_the_picture",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sally_field",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "actress_of_stature",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wendy_finerman",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "producer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "signed_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ages_with_makeup",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "got_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "serendipitously",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "open_casting_call",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "memphis_tennessee",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "northern_mississippi",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "casting_director",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "los_angeles",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "read_in_front_of_the_camera",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "freeze_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "as_natural_as_ever",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "catering_table",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rockwell",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "point_of_view",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "principal_s_office",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "iq",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "below_normal",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "simpleton",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "innocence",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "left_behind",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stupid_is_as_stupid_does",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "adapt_the_book",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "a_string_of_writers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crack_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_glue_to_the_story",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "adaption",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tone",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "director",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_famous_definition_of_pornography",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "i_know_it_when_i_see_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "self_consciously",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "straighter",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hold_on_to_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "falling_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "on_the_razor_s_edge",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fallen_off_the_fence",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "corny",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "grotesque",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fine_line",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "nerve_wracking",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "elvis",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "peter_dobson",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "johnny_bago_s_series",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "deep_down_in_his_heart",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "moves",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "kurt_russell",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "depicting_elvis_on_film",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "recruited",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "put_the_voice_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_king",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "heart_attack",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bus_ride",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "coming_along",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "strangers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lyrical",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "it_clicked",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "matched_that_rhythm",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "speaking_lines",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "aspen",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "damaged_interior",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "brought_to_the_role",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "from_that_day_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "breakthrough",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shoot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dirt_road",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "plantation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "beaufort",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shrimping",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "all_of_a_sudden",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "unwieldy",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "come_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "all_over_the_south",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "deep_rooted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "embellishments",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shtick",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sequence",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "transforms",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blend",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "spectacle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "special_effects",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "recreating_ancient_rome",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "look_back",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "running_double",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "takes_to_running",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "took_to_learning",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crop",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "greenery",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shack",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compelling_story",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "character_arc",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pivotal",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "western_dramatic_storytelling",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "undergo_a_change",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "premise",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "melodramatic",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "old_gunfighter",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hung_up_his_guns",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "put_them_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "human_emotions",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "what_lies_beneath",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hang_the_whole_movie_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "deny_the_truth",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "elaborate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "transition",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "expeditious",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "right_into_our_story",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sound_team",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "records",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "diversity_of_music",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "phenomenon",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "signposts_to_history",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "score",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "came_down_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "template",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "underscore",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "landscape",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scored_by_records",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sneaking_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "set_design",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "emotional_underpinning",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hanging_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "get_down_on_yourself",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "soap_opera_ish",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "storytelling_convention",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ticking_time_bomb",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "keep_the_plot_going",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "after_the_fact",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "an_innocent",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "no_agenda",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "at_face_value",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "historic_in_context",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "reenacted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "real_life_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "recreating_portions_of_the_event",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "recreation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gunk",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sure_as_hell",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ironic",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shot_at",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "politicians",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "black_sort_of_way",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dark_sort_of_way",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "milestones_in_modern_american_history",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "set_in_the_south",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "revolved_around",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "southern_perspective",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "adolescences",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "live_through",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "transcended",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_a_sense",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "period_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "got_hung_up_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rights_and_the_wrongs",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "perspective",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wallace",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "unfold",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "revelation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "surpassed",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "mankind",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "humanity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "uh_oh",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "takes_the_mickey_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sort_of",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "takes_the_pressure_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tenseness",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "breakthroughs",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "historic_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "archival_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "opened_up_a_whole_new_avenue",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "post_production_supervisors",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "archives",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "miles_and_miles_of_film",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "honed_down",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "usable",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rose_garden",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "oval_office",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "background_plate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bits_of_film",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "revised_the_script",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "weave_the_story_into",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "piece_of_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "punchline",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "peeing_thing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "backed_into",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "going_back_and_forth",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "husky_shit",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "puss_ball",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scum_sucking_maggots",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "faggoty_ass",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "army",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "induction_day",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "getting_yelled_at",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "narration",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scripted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ahead_of_time",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cassette_player",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "script_supervisor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lines_of_dialogue",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rough_idea",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "amadeus",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bad_plotting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "narrator",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "assembled",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fine_cut",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tighten_things_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "weave_in_and_out_of_scenes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bubba_s_mama",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "takes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "went_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "off_color_joke",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "setup",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dirty_joke",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dropped_it_in_the_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "out_of_character",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "winding_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "get_a_load_of",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tits",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gotten_into_some_trouble",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "thrown_out_of_school",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "give_her_a_big_hand",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "viewing_pleasure",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "direct_from_hollywood",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "beatnik_beauty",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "naked_folk_singer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bobby_dillon",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bob_dylan",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "joan_baez",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "picked_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dorm_room",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "acoustic_guitar",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "chords",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sidewalk",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "follows_his_heart",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "can_t_help_himself",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_service",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bridge_outside_of_savannah",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "exterior",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "interior",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "unfulfilled",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hole_in_the_soul",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fulfillment",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sex_drugs_rock_and_roll",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "mom_god_and_apple_pie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "reciprocal",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "unity_of_opposites",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "polarized",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "kick_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bringing_to_the_party",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "creedence_clearwater",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "flapping",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "helicopter_blades",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blaring",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tidal_flat",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "seep",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "drain_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "helicopter_pilot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "movie_star",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "step_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "my_heart_nearly_dropped",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "piloted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hit_the_mark",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fng",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "salute",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "goddamn_snipers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "audition",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "movie_business",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "plumper",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tuck_that_thing_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lieutenant_dan",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "knew_his_stuff",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "real_lucky",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lieutenant",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "military_tradition",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shot_these_scenes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "last_day_of_shooting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rooftop",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "recreated",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "forefathers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_succession",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wilshire_boulevard",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cast",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "depict",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "transformation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_touch_with_himself",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "harsh",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compassion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "likability",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "embody",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "facets",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_his_legs_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "legless",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fake_legs",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "that_s_really_a_stretch",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "boot_camp",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "casting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "served_in_vietnam",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "leading_consultants",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "army_films",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "harrowing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "infantryman",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blowing_things_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "vietnam_veterans",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "terrain",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "depicted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "motion_picture",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "water_moccasins",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cleared_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "charges",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scare_them_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "chain_link",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "protective_garment",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "penetrate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gonna",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lean_up_against",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "partnership",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "subconscious",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scouted_the_location",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "big_battle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_place",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "perceiving",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "castaway",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "plane_crash",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gun_battle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "what_the_heck_s_going_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "breaks_the_rule",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "throughout",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pick_up_jenny_s_story",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "infamous",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "military_consultant",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "firefights",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "mass_confusion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "muzzle_flashes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "vc",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stepped_into_hell",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "low_end",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "frequency",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "explosions",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "layering",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wall_of_sound",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "battle_sequence",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bring_in_the_ugliness",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "from_here_on_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "from_beginning_to_end",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "editor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sound_designer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "handful_of_people",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "edited_on_film",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "projected",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "temp_music",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "composers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fill_the_scene_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "synthesizer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "opening_theme",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "preview",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scratch_track",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "early_previews",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "temp_cues",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sketches",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "up_north",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "heritage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dignity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "interfere_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "survive",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hitchcock",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "macguffin",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "as_though",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "his_heart_was_true",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "strafing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cleared_everybody_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "set_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blended",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rig",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "overhead_crane",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "track_with_him",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "removed_the_wire",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ain_t",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "best_good_friend",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "around_the_corner",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cameraman",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "controversy",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "widescreen",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "spartacus",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compatible",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "format",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "washington_monument",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "laid_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "close_ups",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "over_the_shoulders",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "same_frame",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "trade_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compose",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ping_pong",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "trickery",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "comes_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "testament_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pick_up_ping_pong",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "after_no_time_at_all",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "editing_room",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "make_up_this_sequence",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "immersed_himself",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "got_blood_on_its_hands",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "illegal_war_of_aggression",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "confront",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "spiritual_transformation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_fate_that_was_dealt_to_him",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "grieve_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "comes_out_okay_on_the_other_side",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "spiritual_journey",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "point_of_reference",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gone_wrong",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gone_awry",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "floating_like_feathers_on_a_breeze",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_us_down_different_paths",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "inherent",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_conflict_with_one_another",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ceremony_was_kicked_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tinkering_with_historical_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "historical_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "intact",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "feature_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fictional_entertainment",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ethical_question",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "political_campaigns",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "grafting_themselves_into_scenes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "printing_press",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "13th_century",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "digitally",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "flawless",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "big_scandal",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tv_news",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lincoln_memorial",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "columbia_university",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "depicting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stage_an_event",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "historically",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "demonstration",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blended_the_two_events_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "west_coast",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "resonated",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "east_coast",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "l_a",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "golden_gate_park",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "special_effect",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "storyboarded",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "storyboards",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "revise",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "visual_effect",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "coverage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pull_this_stuff_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ultimate_vision",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "filmmaker",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "turn_it_over",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "setups",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crossing_them_all_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scramble",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scrape_the_thing_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "camera_truck_got_stuck",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shooting_of_a_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_the_can",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crew",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "edit_around_bad_performances",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "screwing_up_their_lines",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "focus_buzzes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "artistry",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cut_around",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "glitches",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_front_and_behind_the_camera",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fill_in_jenny_s_story",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "keep_you_current",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "son_of_a_bitch",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "physically_assaulted",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "art_director",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hippie_camp",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "props",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "washington_d_c",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "as_far_as",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "staging",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "time_period",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "demonstrators",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "thrown_away",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rightfully_so",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "and_just_like_that",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "moon_landing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "reclaim_the_american_flag",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ping_pong_players",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "taiwan",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "went_through_the_motions",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "swing_at",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "true_to_your_heart",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "john_lennon",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "disciple",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "forrest",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "imagine",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "possessions",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "nothing_sacred",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tampered_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "had_fun_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "one_of_the_charms",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "don_t_stop_at_anything",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hold_anything_too_close_to_your_heart",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lieutenant_dian",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "mutual_respect",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "antagonistic",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "editing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "collaboration",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "collaborating",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "open_minded",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "put_that_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "envisioned",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "day_one",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cutting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "coming_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dailies",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "throw_that_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cut_it_all_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "walk_him_through_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sounding_board",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "objectively",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "downfall",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "kill_his_darlings",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "remote_headshot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hits_their_marks",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_focus",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "insert",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cut_this_thing_in_half",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "accept_jesus_into_my_heart",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "kingdom_of_heaven",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "kiss_my_crippled_ass",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "what_a_crock_of_shit",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "lieutenant_dane",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cinematography",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "deceptively_simple",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rhythm_of_storytelling",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "directs_your_eye",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "i_defy_anyone",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "don_burgess",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shorthand",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_terms_of",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cinematographer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "production_designer",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "south_carolina",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stakes_and_tape",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "staking_this_house_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gps",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compass",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tilt",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "showing_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "script",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shut_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "get_the_hell_out_of_here",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "goddamn",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "reinforce",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "obstacles",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "set",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "suspension_of_disbelief",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "drawn_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_on",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "illusion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "president_nixon",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wouldn_t_you_know_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_white_house",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gotten_hung_up_in_vietnam",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "post_vietnam_syndrome",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "yanked_out_of_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "watergate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "watergate_hotel",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "break_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "implications",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "resign",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sworn_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "media",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sequences",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "moving_in_and_out_of",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "public_perception",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "disparity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "united_states_army",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gothic_south",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "patriotic",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "evokes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "going_for_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "got_it_all_figured_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fancy_dinner",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dr_peppers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fascinated_me",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cut_away",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "spanish_moss",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "taking_a_trip_down_memory_lane",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "if_you_will",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "re_examine",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "didn_t_know_the_first_thing_about",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "open_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bad_luck",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "full_throttle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cocaine_70s",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hadn_t_heard_from",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_a_long_while",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "color_palette",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "harshness",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "desaturated",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "drained_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stray_from_the_path",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "staggering",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "experimentation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wanderlust",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "harrowing_experiences",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "dilemma",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scouted_this_location",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stage_this_reunion",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pier",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "unbeknownst_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "navigating",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blows_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pull_that_gag_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "detonate_on_cue",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "run_aground",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shrimp_boat_captain",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "old_fashioned_way",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "digital_effects",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tail_wagging_the_dog",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "obsessed_about",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "inflection",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "editing_package",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "alien_landscapes",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "weird_creatures",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "digital_imagery",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "long_lens",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "force_of_god",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "strike_lieutenant_dan_down",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "all_or_nothing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "stock_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blew_through",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "minor_remnants",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "backdrop",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "time_is_money",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "at_the_end_of_the_day",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shot_on_8mm",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "moving_images",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "of_any_consequence",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "tops_them_all",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wanders_through_life",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "touched_in_a_way",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "disintegrate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "house_of_cards",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "calls_everybody_on_their_stuff",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "pivotal_characters",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "come_out_better_on_the_other_end",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "straightened_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "improv",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "camera_s_rolling",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "thinking_up_lines",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rehearsal",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "table_readings",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blocking_the_scene_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "scripted_out",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "beat_up_on_an_actor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "crucial_to_the_plot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "key_plot_word",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "put_my_actors_in_psychotherapy",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "go_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "throttle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_perspective",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "over_the_top",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_regards_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "putting_all_of_this_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "documentary_footage",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "editing_process",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "worth_noting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "showing_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "four_square_gospel_church",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "comes_down_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_pieces_fell_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "brings_to_the_mix",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "an_anchor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cut_that_grass",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "authenticity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "no_doubt",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "damaged",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "beneath_the_surface",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "read_for_the_character",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "screen_tested",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "came_through",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "destinies",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fulfill",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "heal_themselves",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "damaged_to_start_off_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "preordained_destiny",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "flip_sides_of_the_same_coin",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_a_step_back",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "jarred_you_out_of_the_experience",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hung_a_little_flag_on_the_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "running_off_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "incorporate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shooting_this_movie",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "timeline",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "extraordinary_run",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "criss_crossing_the_country",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "evolution",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hair_and_makeup_and_wardrobe",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "out_of_order",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "refer_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "elaborate_booklet",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sets",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "light_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "atmosphere_people",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "periods_of_time",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "wove_through",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "beard_continuity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "disintegration_of_clothes_continuity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "absolute_nightmare",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "photo_double",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "real_time",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "women_s_rights",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "historic_characters",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "turned_around_on_itself",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "re_enacting",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gotten_as_big",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "added_up_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "thrown_in",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "happy_face",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "shit_happens",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "darndest_things",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "you_ve_got_to_be_kidding_me",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "adds_up_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "philosophically",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "t_shirt_business",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "justification",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rationale",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "come_up_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "made_a_lot_of_money_off_of_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "put_the_past_behind_you",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "propelling_us",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "running_distance",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "walking_distance",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "momentum",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_off",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_real_time",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_the_hands_of_an_idiot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "running_days_was_over",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "waiting_for_godot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "catching_up_to_real_time",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "taking_on_a_life_of_its_own",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "ended_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "rolled_it_into_his_scene",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "graveside",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_keeping_with_her",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "touching",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "deal_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "losing_jenny",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "gone_on_to_become",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cast_him_as_young_forrest",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "take_care_of_you",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "cough_due_to_cold",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "some_kind_of_virus",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "set_decorator",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "permeated",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "settings",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "naturalistic",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "custom_made",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "titanium_alloy",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "space_shuttle",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "come_around",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "in_relationship_to",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "storylines",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fold_into_forrest",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "takes_place",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "intimate_friends",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "intimate_moment",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "magical_shot",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "depicting_time_passing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_sun_goes_to_bed_down_on_the_bayou",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bayou",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sparkles",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "skyscrapers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "reminiscing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "blessed",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "insurmountable_problems",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "show_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "monument_valley",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "truly_remarkable",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fall_together",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fall_into_place",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bulldozed_to_the_ground",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "compelling",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "grieving",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "get_in_touch_with_grief",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "movie_theaters",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "released_it",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "baby_boom_generation",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "vietnam_war",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "hippie_peace_movement",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "international_market",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "american_colloquial_humor",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "touched_some_nerve",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "life_metaphors",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "floating_around_accidentally_like_on_a_breeze",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sequel_to_forrest_gump",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_virgin_suicides",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "bookends",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "fable",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "closing_the_book",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "filmmakers",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "letdown",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "go_through_withdrawal",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "passionate",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "severe_depression",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "jack_lemmon_in_the_apartment",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_apartment",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "the_price_you_pay",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "comes_along_with",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "sign_on_for_another_project",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "end_up",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "clear_mind",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "giant_feature_film",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "screeching_halt",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "marketing",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "advertising",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "publicity",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "release_schedule",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "locomotive",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "call_sheet",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "as_long_as_your_arm",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "grosses",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "comes_to_a_screeching_screeching_halt",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         },
         {
             "id": "learn_to_live_with_that",
             "sources": [
-                "ai"
+                "llm/gpt-5.5"
             ]
         }
     ]
