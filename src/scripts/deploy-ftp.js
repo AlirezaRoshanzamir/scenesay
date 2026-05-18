@@ -1,7 +1,18 @@
 import * as ftp from 'basic-ftp'
+import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { program } from 'commander'
+
+function countBytes(dir) {
+  let total = 0
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name)
+    if (entry.isDirectory()) total += countBytes(full)
+    else total += fs.statSync(full).size
+  }
+  return total
+}
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const LOCAL_DIR = path.resolve(__dirname, '../../dist/build')
@@ -34,7 +45,19 @@ async function deploy() {
     console.log(`Uploading ${LOCAL_DIR} → ${dir} ...`)
 
     await client.clearWorkingDir()
+
+    const totalBytes = countBytes(LOCAL_DIR)
+    let lastBytes = Infinity
+    client.trackProgress(info => {
+      if (info.bytes < lastBytes) {
+        const pct = Math.min(100, Math.round(info.bytesOverall / totalBytes * 100))
+        console.log(`  [${String(pct).padStart(3)}%] ${info.name}`)
+      }
+      lastBytes = info.bytes
+    })
     await client.uploadFromDir(LOCAL_DIR)
+    client.trackProgress()
+
     console.log('Deploy complete.')
   } catch (err) {
     console.error('FTP deploy failed:', err.message)
